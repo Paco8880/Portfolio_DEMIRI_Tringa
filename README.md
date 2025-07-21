@@ -46,3 +46,4 @@ Feel free to explore the projects, and don’t hesitate to reach out if you want
 ### **Note**
 Throughout the Projects and on my Username you will see the name Paco, this is the name of my cat that I like to involve everywhere in my life, since she is my lucky charm!!
 
+
