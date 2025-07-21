@@ -1,6 +1,5 @@
 # 🎉 Portfolio – Tringa Demiri
 
-![Confetti Celebration](https://your-domain.com/path/to/confetti.gif)
 Welcome to my portfolio!  
 This repository is a collection of projects that showcase the skills I have developed throughout my **Bachelor's and Master's studies**.  
 Since I currently don't have a professional role where I can apply these skills, I have created this portfolio to demonstrate my abilities to **recruiters and employers**.
