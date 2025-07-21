@@ -1,0 +1,5001 @@
+machine_id,type,install_date,region,status
+M001,Drill,2024-09-25,South,Inactive
+M002,Grinder,2023-02-07,West,Inactive
+M003,Press,2024-01-07,North,Active
+M004,Packaging Unit,2022-10-28,West,Active
+M005,Grinder,2023-06-05,West,Inactive
+M006,Drill,2025-01-25,East,Active
+M007,Grinder,2024-11-12,South,Inactive
+M008,Drill,2024-12-21,West,Inactive
+M009,Mixer,2022-08-25,West,Active
+M010,Welder,2022-09-20,West,Inactive
+M011,Furnace,2022-12-09,South,Active
+M012,CNC-Machine,2025-07-08,West,Inactive
+M013,Packaging Unit,2025-06-01,East,Active
+M014,Lathe,2025-06-01,East,Active
+M015,Welder,2025-01-09,North,Active
+M016,Press,2025-05-06,East,Active
+M017,3D Print,2025-01-16,East,Inactive
+M018,Packaging Unit,2023-05-01,East,Active
+M019,CNC-Machine,2024-08-23,South,Inactive
+M020,Laser Cutter,2023-11-12,East,Active
+M021,Drill,2025-06-16,West,Active
+M022,Conveyor,2024-07-03,East,Inactive
+M023,Packaging Unit,2025-03-14,South,Inactive
+M024,Compressor,2024-05-09,East,Inactive
+M025,Conveyor,2024-01-09,West,Active
+M026,Press,2025-02-17,East,Active
+M027,3D Print,2024-05-01,South,Active
+M028,Packaging Unit,2023-01-03,West,Inactive
+M029,Grinder,2025-04-13,West,Inactive
+M030,Furnace,2023-08-20,North,Inactive
+M031,3D Print,2023-08-10,North,Active
+M032,Lathe,2023-09-08,West,Inactive
+M033,Press,2025-06-26,West,Active
+M034,CNC-Machine,2023-03-27,South,Active
+M035,Welder,2024-07-25,West,Active
+M036,Lathe,2023-07-02,South,Active
+M037,Packaging Unit,2024-03-12,North,Inactive
+M038,Press,2023-01-08,South,Active
+M039,Grinder,2024-01-09,North,Active
+M040,Compressor,2024-02-18,South,Active
+M041,Lathe,2023-09-19,East,Active
+M042,Conveyor,2023-05-27,West,Active
+M043,Grinder,2022-11-21,South,Inactive
+M044,Press,2024-12-12,North,Active
+M045,Laser Cutter,2023-01-12,West,Active
+M046,Grinder,2024-04-18,West,Inactive
+M047,3D Print,2023-03-10,West,Active
+M048,Compressor,2022-10-21,West,Inactive
+M049,Drill,2023-12-09,South,Active
+M050,Drill,2024-05-08,South,Inactive
+M051,Welder,2025-01-29,South,Active
+M052,Welder,2022-11-17,South,Active
+M053,Packaging Unit,2022-08-09,West,Active
+M054,Packaging Unit,2023-08-27,East,Inactive
+M055,Conveyor,2023-05-09,South,Active
+M056,Drill,2023-11-25,West,Active
+M057,Grinder,2025-05-12,West,Active
+M058,Packaging Unit,2023-07-27,East,Inactive
+M059,Drill,2025-06-03,North,Inactive
+M060,Conveyor,2025-03-07,South,Inactive
+M061,Press,2025-04-23,West,Active
+M062,Lathe,2022-12-22,West,Inactive
+M063,CNC-Machine,2022-12-20,North,Inactive
+M064,Pump,2022-10-12,South,Active
+M065,Pump,2024-01-06,East,Inactive
+M066,Compressor,2023-03-24,South,Active
+M067,3D Print,2023-10-06,West,Inactive
+M068,Drill,2025-06-26,South,Inactive
+M069,3D Print,2025-07-08,North,Active
+M070,Mixer,2023-02-17,North,Inactive
+M071,Mixer,2023-10-28,North,Active
+M072,Furnace,2024-11-24,West,Active
+M073,Furnace,2024-01-06,South,Inactive
+M074,Lathe,2024-12-02,North,Active
+M075,3D Print,2023-02-23,North,Active
+M076,Welder,2025-02-07,East,Active
+M077,Conveyor,2022-08-05,South,Inactive
+M078,CNC-Machine,2023-01-21,South,Active
+M079,Mixer,2025-04-30,West,Active
+M080,Press,2024-02-21,West,Active
+M081,Lathe,2022-10-17,West,Inactive
+M082,Furnace,2024-01-29,East,Active
+M083,Welder,2023-08-23,East,Active
+M084,Press,2024-07-06,South,Inactive
+M085,3D Print,2022-12-07,South,Inactive
+M086,Furnace,2023-08-29,West,Inactive
+M087,Drill,2025-02-05,South,Active
+M088,3D Print,2022-08-01,West,Inactive
+M089,Lathe,2024-10-01,West,Active
+M090,Grinder,2022-10-05,North,Active
+M091,CNC-Machine,2023-09-09,East,Inactive
+M092,Laser Cutter,2024-03-08,West,Active
+M093,Press,2022-12-14,North,Active
+M094,Furnace,2024-04-12,South,Inactive
+M095,Grinder,2023-05-22,North,Inactive
+M096,Grinder,2024-08-05,East,Inactive
+M097,CNC-Machine,2025-05-03,West,Active
+M098,3D Print,2022-11-11,South,Inactive
+M099,Lathe,2024-05-18,East,Inactive
+M100,Laser Cutter,2024-01-14,East,Active
+M101,Drill,2023-01-03,South,Active
+M102,Compressor,2023-08-30,East,Active
+M103,Grinder,2023-10-12,South,Inactive
+M104,Welder,2023-02-20,West,Active
+M105,Mixer,2023-07-23,West,Inactive
+M106,Laser Cutter,2023-11-07,East,Active
+M107,Laser Cutter,2023-10-15,East,Inactive
+M108,Pump,2024-10-27,North,Inactive
+M109,Conveyor,2022-10-20,East,Inactive
+M110,CNC-Machine,2022-08-05,North,Inactive
+M111,Press,2024-01-26,South,Inactive
+M112,Drill,2025-01-03,North,Inactive
+M113,Welder,2024-01-24,West,Active
+M114,Grinder,2023-04-17,North,Inactive
+M115,Furnace,2023-11-15,West,Inactive
+M116,Grinder,2023-02-28,South,Active
+M117,Mixer,2024-09-22,West,Active
+M118,Mixer,2025-05-22,West,Inactive
+M119,CNC-Machine,2023-12-27,North,Inactive
+M120,Laser Cutter,2023-11-19,West,Inactive
+M121,Lathe,2023-09-29,South,Active
+M122,3D Print,2024-11-18,North,Inactive
+M123,Welder,2023-01-11,East,Inactive
+M124,3D Print,2025-07-06,South,Active
+M125,Welder,2023-03-07,West,Inactive
+M126,Pump,2024-01-13,East,Active
+M127,CNC-Machine,2024-08-04,West,Inactive
+M128,Drill,2025-06-25,East,Active
+M129,Laser Cutter,2022-10-14,South,Active
+M130,Lathe,2024-06-12,South,Inactive
+M131,CNC-Machine,2025-03-30,East,Inactive
+M132,Press,2023-03-22,South,Inactive
+M133,Drill,2025-02-10,North,Active
+M134,Grinder,2023-05-11,West,Inactive
+M135,CNC-Machine,2023-02-01,East,Inactive
+M136,Pump,2025-06-06,South,Inactive
+M137,Mixer,2024-07-14,West,Inactive
+M138,Press,2024-01-30,North,Active
+M139,Press,2023-04-03,South,Active
+M140,Conveyor,2023-05-20,South,Active
+M141,Pump,2024-01-25,West,Inactive
+M142,Mixer,2023-12-08,West,Active
+M143,3D Print,2023-08-19,South,Active
+M144,3D Print,2024-02-20,East,Inactive
+M145,Packaging Unit,2023-10-23,South,Active
+M146,Pump,2024-05-20,West,Active
+M147,3D Print,2023-02-17,East,Inactive
+M148,Grinder,2024-01-09,East,Inactive
+M149,Packaging Unit,2022-12-05,North,Active
+M150,Pump,2024-03-05,East,Inactive
+M151,Laser Cutter,2022-09-20,North,Inactive
+M152,Packaging Unit,2022-08-10,East,Active
+M153,Grinder,2023-10-03,South,Inactive
+M154,3D Print,2024-02-27,East,Inactive
+M155,3D Print,2023-07-23,East,Inactive
+M156,Packaging Unit,2022-11-28,West,Active
+M157,Compressor,2023-10-10,South,Inactive
+M158,Press,2024-07-03,West,Active
+M159,Drill,2023-04-20,East,Active
+M160,Pump,2024-07-29,South,Inactive
+M161,Grinder,2023-08-11,North,Inactive
+M162,Lathe,2022-10-21,North,Inactive
+M163,3D Print,2025-01-08,West,Inactive
+M164,Laser Cutter,2024-04-09,East,Active
+M165,Press,2022-09-04,East,Active
+M166,Lathe,2025-01-19,South,Inactive
+M167,Drill,2024-05-21,East,Inactive
+M168,Compressor,2024-05-04,West,Inactive
+M169,Compressor,2023-12-10,South,Active
+M170,Drill,2023-06-17,North,Inactive
+M171,Mixer,2025-02-19,South,Active
+M172,Lathe,2022-09-20,South,Inactive
+M173,Laser Cutter,2024-02-10,East,Inactive
+M174,3D Print,2022-07-30,West,Active
+M175,CNC-Machine,2022-11-22,West,Active
+M176,Furnace,2025-01-01,West,Active
+M177,Welder,2023-09-09,East,Active
+M178,Pump,2023-01-14,South,Inactive
+M179,CNC-Machine,2024-11-04,North,Active
+M180,Pump,2023-08-27,South,Active
+M181,Pump,2023-05-13,West,Inactive
+M182,Press,2024-07-23,North,Inactive
+M183,Drill,2025-05-09,West,Active
+M184,Laser Cutter,2024-03-24,North,Active
+M185,Conveyor,2024-02-08,West,Inactive
+M186,Press,2025-05-15,West,Active
+M187,Mixer,2023-07-02,North,Active
+M188,Pump,2024-08-31,East,Inactive
+M189,Compressor,2023-11-15,North,Active
+M190,Packaging Unit,2023-01-19,South,Inactive
+M191,3D Print,2024-12-14,South,Active
+M192,CNC-Machine,2023-12-04,West,Active
+M193,Packaging Unit,2024-07-15,South,Active
+M194,Press,2024-09-28,South,Inactive
+M195,Mixer,2024-01-03,South,Active
+M196,Drill,2023-07-26,West,Active
+M197,Furnace,2023-01-26,East,Active
+M198,Conveyor,2024-05-23,North,Inactive
+M199,Mixer,2024-06-20,West,Inactive
+M200,Welder,2025-03-31,North,Inactive
+M201,Compressor,2023-09-05,East,Inactive
+M202,Welder,2025-04-03,East,Inactive
+M203,Mixer,2023-06-20,East,Active
+M204,Drill,2023-07-09,North,Active
+M205,Laser Cutter,2023-08-08,East,Inactive
+M206,Laser Cutter,2023-07-11,South,Active
+M207,Packaging Unit,2023-05-25,North,Inactive
+M208,Furnace,2024-11-28,West,Active
+M209,Lathe,2023-01-07,West,Inactive
+M210,Compressor,2024-11-01,South,Inactive
+M211,Pump,2022-11-17,East,Active
+M212,Furnace,2024-04-26,North,Active
+M213,Furnace,2024-01-26,North,Active
+M214,Welder,2024-02-24,North,Active
+M215,Drill,2023-11-23,South,Active
+M216,Grinder,2024-03-22,West,Inactive
+M217,Mixer,2025-06-07,East,Active
+M218,Grinder,2023-12-03,South,Active
+M219,Press,2023-10-22,North,Inactive
+M220,Mixer,2022-12-23,South,Inactive
+M221,CNC-Machine,2023-09-27,East,Active
+M222,Press,2025-05-23,East,Inactive
+M223,CNC-Machine,2022-10-17,North,Active
+M224,Furnace,2024-08-15,West,Inactive
+M225,Furnace,2022-08-24,West,Inactive
+M226,Compressor,2023-10-08,North,Active
+M227,Grinder,2023-07-04,South,Inactive
+M228,Lathe,2025-07-11,South,Active
+M229,Conveyor,2022-10-25,East,Active
+M230,Pump,2024-12-01,West,Active
+M231,Press,2023-06-29,North,Active
+M232,Packaging Unit,2022-09-04,West,Inactive
+M233,Laser Cutter,2023-03-24,North,Inactive
+M234,CNC-Machine,2024-09-30,East,Inactive
+M235,Press,2025-03-23,East,Active
+M236,Packaging Unit,2024-07-25,South,Active
+M237,Conveyor,2023-05-29,South,Active
+M238,Pump,2022-11-14,South,Inactive
+M239,Compressor,2022-09-12,East,Inactive
+M240,Drill,2024-12-16,South,Active
+M241,Press,2022-08-15,East,Inactive
+M242,3D Print,2025-05-10,West,Active
+M243,Conveyor,2022-09-01,East,Inactive
+M244,Welder,2025-01-21,West,Inactive
+M245,Welder,2022-10-05,West,Active
+M246,Mixer,2023-05-17,East,Inactive
+M247,Press,2023-03-12,North,Inactive
+M248,Grinder,2025-04-27,East,Inactive
+M249,CNC-Machine,2023-06-09,West,Inactive
+M250,Drill,2025-05-20,South,Active
+M251,3D Print,2024-03-05,West,Active
+M252,Packaging Unit,2023-11-30,East,Active
+M253,Conveyor,2023-02-10,East,Inactive
+M254,Pump,2025-04-23,West,Inactive
+M255,Conveyor,2024-10-23,East,Inactive
+M256,Welder,2023-08-25,South,Inactive
+M257,Lathe,2022-11-23,West,Active
+M258,Furnace,2023-04-10,North,Inactive
+M259,Pump,2023-05-26,East,Active
+M260,Press,2023-04-21,East,Active
+M261,Pump,2024-06-27,West,Inactive
+M262,3D Print,2023-07-14,West,Inactive
+M263,Mixer,2025-02-09,East,Active
+M264,Lathe,2023-03-26,West,Active
+M265,Mixer,2024-09-19,North,Active
+M266,Mixer,2024-11-26,North,Active
+M267,Compressor,2023-04-09,East,Active
+M268,Press,2023-12-17,West,Active
+M269,Packaging Unit,2022-08-27,South,Active
+M270,Mixer,2022-08-09,South,Active
+M271,Furnace,2024-03-16,West,Inactive
+M272,Mixer,2024-03-05,South,Inactive
+M273,Welder,2024-09-11,West,Inactive
+M274,Laser Cutter,2022-12-19,East,Active
+M275,Mixer,2022-08-02,East,Inactive
+M276,3D Print,2025-06-12,South,Inactive
+M277,3D Print,2024-10-03,South,Active
+M278,Furnace,2023-09-03,West,Inactive
+M279,Packaging Unit,2022-10-31,North,Inactive
+M280,Laser Cutter,2024-09-12,South,Active
+M281,Grinder,2023-09-16,West,Inactive
+M282,Laser Cutter,2024-02-08,North,Active
+M283,Conveyor,2024-11-08,South,Inactive
+M284,Conveyor,2024-10-27,West,Active
+M285,Lathe,2023-06-08,East,Active
+M286,Laser Cutter,2022-12-03,South,Active
+M287,3D Print,2023-01-10,North,Inactive
+M288,3D Print,2022-11-30,East,Inactive
+M289,Welder,2023-10-17,South,Inactive
+M290,Drill,2025-05-17,East,Active
+M291,Press,2022-12-01,North,Active
+M292,CNC-Machine,2023-12-24,West,Inactive
+M293,Furnace,2024-01-21,North,Inactive
+M294,Mixer,2025-05-03,South,Inactive
+M295,Furnace,2024-11-15,North,Active
+M296,3D Print,2024-01-06,North,Inactive
+M297,Packaging Unit,2022-07-24,East,Active
+M298,Welder,2023-03-17,East,Active
+M299,Drill,2024-03-27,West,Inactive
+M300,Conveyor,2025-02-16,South,Active
+M301,Lathe,2024-06-01,South,Active
+M302,Conveyor,2022-08-30,West,Inactive
+M303,Mixer,2024-12-07,North,Active
+M304,Welder,2023-05-01,North,Active
+M305,Mixer,2024-12-19,South,Inactive
+M306,3D Print,2022-10-18,West,Inactive
+M307,Lathe,2023-07-20,West,Inactive
+M308,Conveyor,2023-05-11,South,Inactive
+M309,Pump,2022-12-19,East,Inactive
+M310,Mixer,2025-06-27,South,Inactive
+M311,Grinder,2023-11-30,East,Inactive
+M312,Drill,2022-10-19,South,Inactive
+M313,Furnace,2023-06-26,West,Active
+M314,Grinder,2022-11-19,East,Inactive
+M315,Welder,2024-09-11,East,Inactive
+M316,Furnace,2025-06-17,East,Inactive
+M317,Welder,2024-10-18,North,Active
+M318,Press,2023-12-30,East,Inactive
+M319,Pump,2024-03-03,North,Active
+M320,Welder,2023-07-15,South,Inactive
+M321,Welder,2023-07-02,South,Inactive
+M322,Grinder,2025-06-13,East,Inactive
+M323,Drill,2022-07-26,West,Active
+M324,Compressor,2025-01-02,West,Inactive
+M325,3D Print,2023-11-19,South,Inactive
+M326,Laser Cutter,2023-10-01,West,Active
+M327,Pump,2023-05-30,West,Active
+M328,Laser Cutter,2025-04-03,North,Inactive
+M329,Conveyor,2024-11-17,West,Inactive
+M330,CNC-Machine,2024-05-17,North,Inactive
+M331,Lathe,2023-07-24,North,Active
+M332,Welder,2024-10-08,North,Inactive
+M333,Mixer,2023-01-05,West,Active
+M334,Conveyor,2024-02-21,East,Active
+M335,Compressor,2025-05-05,North,Inactive
+M336,Welder,2025-01-15,South,Inactive
+M337,Grinder,2023-09-26,West,Inactive
+M338,Laser Cutter,2023-07-18,West,Inactive
+M339,Compressor,2023-12-19,South,Active
+M340,Press,2023-01-17,West,Inactive
+M341,Lathe,2024-02-11,South,Inactive
+M342,Grinder,2022-08-23,East,Active
+M343,Packaging Unit,2024-10-14,West,Active
+M344,Drill,2023-01-30,West,Inactive
+M345,3D Print,2023-05-15,North,Inactive
+M346,Laser Cutter,2023-01-08,East,Active
+M347,3D Print,2025-02-22,East,Inactive
+M348,Welder,2023-12-17,East,Inactive
+M349,Drill,2025-05-14,West,Inactive
+M350,3D Print,2023-03-24,South,Inactive
+M351,Compressor,2022-12-13,South,Active
+M352,Compressor,2023-07-23,South,Active
+M353,Grinder,2022-11-04,East,Active
+M354,Compressor,2025-04-08,North,Inactive
+M355,CNC-Machine,2025-06-28,West,Active
+M356,Welder,2023-01-14,West,Active
+M357,Grinder,2024-11-04,East,Active
+M358,Lathe,2024-07-04,South,Inactive
+M359,Drill,2023-10-02,West,Inactive
+M360,Grinder,2024-04-13,South,Inactive
+M361,Laser Cutter,2024-11-04,South,Active
+M362,Furnace,2022-09-08,West,Inactive
+M363,Furnace,2025-01-07,South,Active
+M364,Mixer,2023-10-03,South,Active
+M365,Packaging Unit,2022-10-31,East,Inactive
+M366,Press,2024-06-02,North,Active
+M367,Lathe,2025-05-05,West,Inactive
+M368,Conveyor,2023-04-20,South,Inactive
+M369,Furnace,2023-01-16,South,Inactive
+M370,3D Print,2024-06-03,North,Inactive
+M371,CNC-Machine,2023-01-03,East,Active
+M372,Mixer,2025-06-12,East,Inactive
+M373,Press,2023-07-03,West,Inactive
+M374,3D Print,2023-06-10,South,Active
+M375,Packaging Unit,2025-04-02,West,Active
+M376,Compressor,2025-01-26,West,Inactive
+M377,Pump,2025-06-08,North,Inactive
+M378,Mixer,2023-11-18,East,Inactive
+M379,Lathe,2023-05-11,North,Active
+M380,Lathe,2024-07-14,South,Active
+M381,CNC-Machine,2024-12-04,North,Inactive
+M382,Compressor,2023-03-27,East,Inactive
+M383,CNC-Machine,2024-04-25,South,Inactive
+M384,3D Print,2024-02-26,North,Inactive
+M385,CNC-Machine,2023-01-12,South,Inactive
+M386,Drill,2024-08-18,West,Active
+M387,Drill,2024-02-17,South,Inactive
+M388,Laser Cutter,2024-12-19,South,Active
+M389,3D Print,2024-04-13,East,Inactive
+M390,Press,2024-01-20,West,Active
+M391,Laser Cutter,2023-05-20,East,Inactive
+M392,Packaging Unit,2023-10-25,North,Active
+M393,Compressor,2024-07-14,North,Active
+M394,Drill,2024-05-15,North,Active
+M395,Pump,2022-09-27,East,Active
+M396,Furnace,2025-03-15,West,Active
+M397,Press,2025-06-18,North,Inactive
+M398,Drill,2024-06-28,West,Inactive
+M399,Furnace,2023-07-30,East,Inactive
+M400,Pump,2023-12-22,North,Inactive
+M401,Welder,2023-10-16,South,Inactive
+M402,Mixer,2023-07-01,West,Active
+M403,Lathe,2024-08-18,East,Inactive
+M404,CNC-Machine,2025-03-25,South,Inactive
+M405,CNC-Machine,2022-11-14,North,Inactive
+M406,CNC-Machine,2024-10-07,North,Active
+M407,Grinder,2025-02-02,East,Inactive
+M408,Welder,2023-11-04,South,Inactive
+M409,Mixer,2024-06-14,South,Inactive
+M410,Furnace,2024-06-25,South,Inactive
+M411,Welder,2022-08-06,North,Inactive
+M412,Laser Cutter,2023-12-13,East,Active
+M413,Press,2022-12-12,East,Active
+M414,Laser Cutter,2024-01-06,North,Inactive
+M415,Furnace,2025-05-30,North,Inactive
+M416,Press,2023-01-15,North,Inactive
+M417,Pump,2023-11-28,South,Active
+M418,3D Print,2022-09-01,East,Inactive
+M419,Drill,2024-12-25,South,Active
+M420,Mixer,2024-12-15,South,Active
+M421,Grinder,2025-06-05,West,Inactive
+M422,Drill,2024-03-09,East,Inactive
+M423,Press,2022-10-20,West,Active
+M424,Press,2024-04-03,West,Inactive
+M425,Welder,2023-08-17,East,Inactive
+M426,3D Print,2022-07-28,North,Inactive
+M427,Lathe,2024-08-29,South,Active
+M428,Press,2023-05-08,West,Inactive
+M429,Press,2025-03-02,North,Active
+M430,Compressor,2023-04-17,North,Inactive
+M431,Press,2023-05-19,South,Inactive
+M432,CNC-Machine,2023-01-24,South,Inactive
+M433,Mixer,2023-08-15,East,Active
+M434,Conveyor,2023-09-01,North,Inactive
+M435,Press,2022-12-14,North,Active
+M436,Conveyor,2022-08-09,West,Active
+M437,Conveyor,2023-06-12,North,Inactive
+M438,Welder,2024-03-12,North,Active
+M439,Furnace,2022-12-23,West,Inactive
+M440,Conveyor,2024-06-26,South,Active
+M441,Mixer,2024-12-06,South,Active
+M442,Furnace,2023-04-16,North,Active
+M443,Conveyor,2023-08-04,East,Active
+M444,Pump,2024-09-04,South,Inactive
+M445,Laser Cutter,2022-09-16,South,Inactive
+M446,Laser Cutter,2022-09-17,East,Active
+M447,Press,2025-03-09,North,Inactive
+M448,Pump,2022-12-01,South,Active
+M449,Drill,2025-05-15,North,Inactive
+M450,Grinder,2024-11-13,West,Active
+M451,CNC-Machine,2024-08-19,East,Active
+M452,Compressor,2023-07-09,North,Active
+M453,Packaging Unit,2025-06-03,East,Active
+M454,Pump,2024-04-08,West,Active
+M455,Conveyor,2025-01-13,South,Active
+M456,Pump,2023-09-24,South,Active
+M457,Packaging Unit,2025-06-25,North,Active
+M458,Drill,2023-02-01,South,Inactive
+M459,Packaging Unit,2024-03-28,West,Inactive
+M460,Laser Cutter,2023-05-24,West,Active
+M461,3D Print,2025-05-31,South,Active
+M462,Press,2025-02-09,South,Active
+M463,Lathe,2023-11-07,West,Active
+M464,Drill,2025-05-10,East,Inactive
+M465,Conveyor,2023-08-30,West,Active
+M466,Grinder,2022-09-08,South,Active
+M467,3D Print,2022-09-23,East,Inactive
+M468,Welder,2025-01-26,East,Inactive
+M469,Compressor,2023-02-18,North,Inactive
+M470,3D Print,2024-10-27,West,Active
+M471,Drill,2023-05-29,North,Active
+M472,Drill,2025-05-11,West,Inactive
+M473,Compressor,2023-06-11,East,Inactive
+M474,Conveyor,2022-09-01,East,Active
+M475,Welder,2024-03-29,South,Active
+M476,3D Print,2025-01-17,West,Inactive
+M477,Packaging Unit,2023-09-29,South,Active
+M478,Welder,2024-05-07,West,Inactive
+M479,Furnace,2022-08-24,North,Inactive
+M480,Furnace,2022-09-18,East,Active
+M481,CNC-Machine,2024-03-25,South,Inactive
+M482,Pump,2025-03-21,West,Inactive
+M483,Packaging Unit,2025-01-13,East,Active
+M484,Lathe,2022-08-09,West,Active
+M485,Drill,2025-03-01,East,Active
+M486,Furnace,2023-06-13,South,Inactive
+M487,Mixer,2025-07-07,North,Active
+M488,Welder,2024-03-19,West,Inactive
+M489,Compressor,2023-12-13,West,Inactive
+M490,Mixer,2023-04-19,East,Inactive
+M491,Pump,2022-08-14,East,Active
+M492,Laser Cutter,2023-11-05,North,Active
+M493,3D Print,2025-02-04,West,Inactive
+M494,Packaging Unit,2024-03-02,South,Inactive
+M495,Drill,2024-06-19,West,Active
+M496,Lathe,2022-07-23,East,Inactive
+M497,CNC-Machine,2023-07-26,West,Active
+M498,Laser Cutter,2024-10-07,East,Inactive
+M499,Packaging Unit,2023-07-29,East,Active
+M500,Mixer,2025-05-16,West,Active
+M501,CNC-Machine,2025-04-11,South,Inactive
+M502,Press,2024-11-24,North,Active
+M503,Welder,2023-01-31,North,Inactive
+M504,Furnace,2023-05-22,North,Inactive
+M505,Laser Cutter,2024-03-20,South,Inactive
+M506,Laser Cutter,2025-02-21,North,Inactive
+M507,Furnace,2024-05-28,East,Active
+M508,Grinder,2023-01-02,South,Active
+M509,CNC-Machine,2023-02-19,North,Inactive
+M510,Pump,2023-10-02,South,Inactive
+M511,Pump,2023-10-18,North,Inactive
+M512,Conveyor,2024-07-10,West,Active
+M513,Drill,2025-05-24,West,Active
+M514,Furnace,2022-11-08,East,Inactive
+M515,Mixer,2022-12-19,East,Active
+M516,Laser Cutter,2025-03-16,North,Inactive
+M517,Conveyor,2024-01-14,North,Inactive
+M518,Compressor,2025-06-06,East,Active
+M519,3D Print,2025-05-07,West,Active
+M520,Drill,2023-05-14,East,Active
+M521,Pump,2023-05-27,North,Active
+M522,Pump,2025-01-11,East,Inactive
+M523,Grinder,2023-03-11,South,Inactive
+M524,Conveyor,2024-07-13,South,Active
+M525,Laser Cutter,2024-01-27,East,Active
+M526,Grinder,2023-10-21,East,Active
+M527,Lathe,2024-03-22,South,Inactive
+M528,Packaging Unit,2024-06-30,East,Active
+M529,Drill,2023-07-04,East,Active
+M530,3D Print,2024-05-04,East,Inactive
+M531,Pump,2022-10-06,North,Inactive
+M532,Welder,2023-03-07,East,Active
+M533,Welder,2024-06-07,South,Active
+M534,Mixer,2024-02-12,West,Inactive
+M535,Mixer,2024-03-26,West,Inactive
+M536,Grinder,2024-04-17,South,Inactive
+M537,CNC-Machine,2024-05-23,East,Inactive
+M538,Grinder,2022-11-15,South,Active
+M539,Pump,2024-03-08,West,Inactive
+M540,Furnace,2023-07-26,North,Inactive
+M541,CNC-Machine,2023-03-03,South,Inactive
+M542,Pump,2024-02-22,West,Active
+M543,Welder,2024-06-07,West,Active
+M544,Welder,2024-05-28,North,Inactive
+M545,Compressor,2023-12-02,South,Inactive
+M546,Lathe,2023-03-17,East,Active
+M547,Conveyor,2024-08-23,West,Active
+M548,CNC-Machine,2025-01-15,East,Inactive
+M549,3D Print,2025-05-04,East,Inactive
+M550,Furnace,2024-05-08,East,Active
+M551,Packaging Unit,2023-08-06,West,Inactive
+M552,CNC-Machine,2024-05-03,West,Active
+M553,Conveyor,2024-09-16,South,Inactive
+M554,Packaging Unit,2025-05-12,North,Active
+M555,CNC-Machine,2022-09-19,West,Active
+M556,Compressor,2024-01-05,North,Active
+M557,Pump,2024-02-01,West,Active
+M558,CNC-Machine,2023-05-05,South,Inactive
+M559,Mixer,2024-03-25,West,Active
+M560,Pump,2022-12-23,North,Inactive
+M561,3D Print,2022-12-08,South,Active
+M562,CNC-Machine,2023-04-07,East,Inactive
+M563,Pump,2025-03-02,West,Active
+M564,Furnace,2025-03-07,East,Active
+M565,3D Print,2024-03-28,South,Active
+M566,Lathe,2023-03-10,East,Inactive
+M567,Laser Cutter,2024-01-13,North,Inactive
+M568,Grinder,2022-10-14,North,Inactive
+M569,Pump,2022-08-01,West,Active
+M570,CNC-Machine,2024-02-13,North,Active
+M571,Conveyor,2024-09-21,East,Inactive
+M572,Welder,2024-03-20,West,Active
+M573,3D Print,2023-09-25,South,Active
+M574,CNC-Machine,2023-07-01,West,Active
+M575,Drill,2024-02-23,East,Inactive
+M576,Conveyor,2023-05-22,West,Inactive
+M577,Welder,2023-04-14,West,Active
+M578,Pump,2022-08-21,North,Active
+M579,CNC-Machine,2024-05-26,West,Active
+M580,CNC-Machine,2024-01-18,West,Active
+M581,Laser Cutter,2025-01-26,North,Inactive
+M582,Welder,2025-03-22,West,Inactive
+M583,Compressor,2024-01-21,South,Active
+M584,Press,2025-07-13,West,Active
+M585,Laser Cutter,2024-03-24,East,Inactive
+M586,Mixer,2024-11-10,East,Active
+M587,Packaging Unit,2024-07-02,South,Inactive
+M588,Furnace,2024-03-17,South,Inactive
+M589,Laser Cutter,2024-03-15,East,Inactive
+M590,Compressor,2023-12-24,East,Active
+M591,Compressor,2023-04-08,South,Inactive
+M592,CNC-Machine,2023-10-30,South,Inactive
+M593,Welder,2024-02-14,South,Active
+M594,Conveyor,2022-09-21,North,Active
+M595,Compressor,2022-07-17,East,Inactive
+M596,Laser Cutter,2025-02-05,South,Active
+M597,Grinder,2023-01-03,West,Inactive
+M598,Mixer,2024-08-18,South,Active
+M599,Drill,2022-09-28,West,Inactive
+M600,Press,2025-06-01,South,Inactive
+M601,Lathe,2023-01-20,East,Inactive
+M602,Grinder,2023-04-12,East,Inactive
+M603,Lathe,2024-07-20,South,Active
+M604,Furnace,2024-11-10,South,Inactive
+M605,CNC-Machine,2025-07-01,East,Inactive
+M606,Grinder,2023-10-08,South,Inactive
+M607,Pump,2022-08-02,West,Active
+M608,Welder,2022-10-06,East,Inactive
+M609,Press,2022-11-17,South,Active
+M610,Mixer,2023-10-08,South,Active
+M611,3D Print,2025-06-16,East,Active
+M612,Compressor,2024-12-22,East,Active
+M613,Laser Cutter,2024-03-22,West,Inactive
+M614,Lathe,2025-01-14,South,Active
+M615,Conveyor,2023-01-04,South,Inactive
+M616,Furnace,2023-07-23,East,Inactive
+M617,Packaging Unit,2025-01-19,West,Inactive
+M618,Conveyor,2025-06-15,North,Active
+M619,Compressor,2024-07-16,East,Inactive
+M620,3D Print,2023-08-25,East,Active
+M621,Welder,2024-01-04,North,Active
+M622,Conveyor,2022-07-27,West,Active
+M623,Furnace,2023-06-13,North,Active
+M624,Grinder,2023-07-25,North,Active
+M625,Laser Cutter,2024-05-16,North,Active
+M626,CNC-Machine,2025-02-05,West,Inactive
+M627,Conveyor,2024-07-31,East,Inactive
+M628,3D Print,2023-03-07,West,Inactive
+M629,Conveyor,2024-07-23,North,Inactive
+M630,Mixer,2025-03-21,South,Inactive
+M631,Press,2024-09-05,East,Inactive
+M632,Packaging Unit,2023-09-30,North,Inactive
+M633,Compressor,2023-04-24,South,Active
+M634,Packaging Unit,2024-03-23,South,Inactive
+M635,Furnace,2023-12-27,West,Active
+M636,Compressor,2022-09-09,South,Active
+M637,Lathe,2023-04-23,East,Active
+M638,CNC-Machine,2022-12-19,West,Active
+M639,Compressor,2025-04-07,West,Active
+M640,Pump,2022-08-31,South,Active
+M641,Pump,2023-11-22,West,Active
+M642,CNC-Machine,2024-01-19,East,Inactive
+M643,CNC-Machine,2023-11-28,East,Inactive
+M644,Mixer,2024-09-21,West,Active
+M645,Laser Cutter,2025-06-22,West,Active
+M646,Pump,2023-05-28,North,Active
+M647,Welder,2024-12-06,West,Inactive
+M648,Compressor,2023-04-19,West,Inactive
+M649,Grinder,2023-08-31,South,Active
+M650,Pump,2024-10-03,West,Inactive
+M651,Laser Cutter,2025-01-02,East,Inactive
+M652,Mixer,2023-02-23,East,Active
+M653,Press,2025-04-27,North,Active
+M654,Lathe,2022-08-09,South,Active
+M655,Drill,2023-06-18,South,Active
+M656,Lathe,2024-09-12,West,Active
+M657,Press,2024-11-18,North,Inactive
+M658,Laser Cutter,2023-01-16,North,Active
+M659,Lathe,2024-08-12,West,Active
+M660,Press,2024-05-27,North,Inactive
+M661,Packaging Unit,2024-12-20,South,Active
+M662,Packaging Unit,2022-10-30,East,Inactive
+M663,Lathe,2022-09-23,West,Active
+M664,Conveyor,2022-10-28,North,Active
+M665,Compressor,2024-12-21,East,Active
+M666,Compressor,2025-06-23,North,Active
+M667,Press,2024-03-15,East,Active
+M668,Mixer,2022-11-28,West,Inactive
+M669,Mixer,2025-05-02,North,Active
+M670,Press,2022-07-30,South,Active
+M671,Furnace,2022-10-29,East,Active
+M672,Compressor,2023-05-21,East,Inactive
+M673,Packaging Unit,2022-10-05,South,Inactive
+M674,Compressor,2023-01-22,North,Inactive
+M675,Packaging Unit,2022-09-15,West,Active
+M676,Pump,2023-03-06,North,Inactive
+M677,Compressor,2024-05-07,West,Inactive
+M678,Welder,2023-10-03,North,Inactive
+M679,Packaging Unit,2023-12-10,East,Active
+M680,Welder,2023-04-21,North,Active
+M681,Pump,2024-01-16,West,Active
+M682,Welder,2025-07-08,North,Inactive
+M683,Mixer,2025-05-04,West,Inactive
+M684,Pump,2023-04-26,East,Active
+M685,CNC-Machine,2022-09-10,North,Inactive
+M686,Pump,2024-04-15,West,Active
+M687,Lathe,2024-03-24,South,Active
+M688,Laser Cutter,2024-08-18,North,Inactive
+M689,Furnace,2024-07-01,East,Inactive
+M690,Compressor,2024-10-26,North,Inactive
+M691,Furnace,2023-01-29,South,Active
+M692,Furnace,2024-10-15,West,Active
+M693,Lathe,2025-04-18,South,Active
+M694,Compressor,2025-05-06,West,Active
+M695,Grinder,2023-11-06,South,Inactive
+M696,3D Print,2025-06-04,West,Inactive
+M697,Laser Cutter,2024-09-05,East,Inactive
+M698,Laser Cutter,2022-10-17,West,Inactive
+M699,3D Print,2024-09-17,South,Inactive
+M700,Grinder,2024-06-07,East,Inactive
+M701,Mixer,2023-04-04,West,Active
+M702,Furnace,2023-07-07,North,Active
+M703,Press,2024-09-25,West,Inactive
+M704,Welder,2023-08-28,North,Active
+M705,CNC-Machine,2023-12-16,North,Active
+M706,Grinder,2023-05-01,South,Active
+M707,Laser Cutter,2023-08-05,North,Inactive
+M708,Drill,2025-06-23,North,Inactive
+M709,Mixer,2024-01-05,West,Active
+M710,Packaging Unit,2023-10-31,South,Inactive
+M711,CNC-Machine,2024-09-13,East,Active
+M712,Pump,2025-02-17,North,Active
+M713,CNC-Machine,2023-05-04,East,Active
+M714,CNC-Machine,2024-09-01,East,Active
+M715,CNC-Machine,2022-11-26,West,Active
+M716,Compressor,2024-09-02,North,Active
+M717,Press,2022-12-01,North,Inactive
+M718,Compressor,2025-01-26,South,Inactive
+M719,Furnace,2024-12-30,North,Active
+M720,Furnace,2022-07-19,South,Inactive
+M721,Packaging Unit,2022-07-31,South,Active
+M722,Drill,2022-12-04,West,Active
+M723,Compressor,2024-04-25,West,Active
+M724,Packaging Unit,2022-09-21,North,Active
+M725,CNC-Machine,2024-02-16,North,Active
+M726,Mixer,2023-10-03,North,Active
+M727,Drill,2025-03-06,West,Active
+M728,Grinder,2025-02-14,East,Active
+M729,Pump,2023-11-30,South,Inactive
+M730,Drill,2023-06-23,South,Active
+M731,Furnace,2024-10-06,South,Inactive
+M732,Mixer,2023-02-27,West,Active
+M733,Packaging Unit,2024-03-17,West,Active
+M734,Mixer,2023-07-21,South,Inactive
+M735,Welder,2024-09-18,West,Active
+M736,Pump,2024-03-31,South,Inactive
+M737,Welder,2023-03-16,South,Active
+M738,CNC-Machine,2022-07-31,East,Inactive
+M739,Welder,2024-04-28,South,Active
+M740,Drill,2023-03-13,East,Inactive
+M741,Mixer,2024-04-06,South,Active
+M742,CNC-Machine,2023-01-12,East,Active
+M743,Lathe,2024-05-22,North,Inactive
+M744,Packaging Unit,2024-01-09,East,Active
+M745,Furnace,2024-07-11,East,Inactive
+M746,Pump,2024-08-21,West,Active
+M747,Compressor,2024-06-09,North,Inactive
+M748,Packaging Unit,2024-05-13,South,Active
+M749,Pump,2023-04-24,South,Active
+M750,Press,2025-03-31,South,Active
+M751,Laser Cutter,2024-09-23,West,Active
+M752,Welder,2024-09-21,North,Active
+M753,Drill,2024-05-21,East,Inactive
+M754,Mixer,2024-01-26,East,Active
+M755,Welder,2022-10-26,South,Active
+M756,Drill,2023-12-20,East,Inactive
+M757,Grinder,2025-01-27,South,Active
+M758,Conveyor,2024-08-19,East,Inactive
+M759,CNC-Machine,2024-09-30,East,Active
+M760,Mixer,2024-04-23,North,Active
+M761,Packaging Unit,2022-08-02,North,Active
+M762,Compressor,2022-09-12,North,Inactive
+M763,Compressor,2023-07-22,South,Active
+M764,Welder,2025-01-16,East,Inactive
+M765,Pump,2024-10-16,West,Inactive
+M766,Laser Cutter,2023-02-18,South,Active
+M767,Mixer,2024-04-08,West,Inactive
+M768,Pump,2024-04-13,East,Inactive
+M769,CNC-Machine,2023-09-13,North,Active
+M770,Lathe,2022-10-29,West,Inactive
+M771,Drill,2025-01-22,North,Inactive
+M772,Lathe,2023-10-14,East,Active
+M773,Drill,2022-09-09,East,Inactive
+M774,Compressor,2022-10-11,South,Inactive
+M775,Furnace,2025-03-10,West,Inactive
+M776,Packaging Unit,2023-04-03,South,Inactive
+M777,Conveyor,2024-04-05,North,Inactive
+M778,Furnace,2023-01-19,North,Active
+M779,Pump,2024-01-21,North,Inactive
+M780,Furnace,2024-05-13,South,Active
+M781,Drill,2023-09-19,South,Inactive
+M782,Grinder,2023-04-25,East,Active
+M783,Drill,2023-04-11,South,Active
+M784,Laser Cutter,2022-08-06,East,Inactive
+M785,Welder,2025-05-25,South,Active
+M786,Laser Cutter,2024-03-20,North,Active
+M787,Welder,2024-05-10,South,Active
+M788,Press,2024-01-17,West,Active
+M789,3D Print,2023-12-18,South,Inactive
+M790,Conveyor,2024-02-21,South,Active
+M791,Welder,2024-09-05,North,Inactive
+M792,Pump,2022-08-18,North,Inactive
+M793,CNC-Machine,2023-08-01,South,Inactive
+M794,Compressor,2025-06-26,East,Active
+M795,Furnace,2023-09-26,South,Inactive
+M796,Laser Cutter,2024-05-10,West,Inactive
+M797,Welder,2023-08-16,West,Inactive
+M798,CNC-Machine,2023-08-01,East,Inactive
+M799,Pump,2024-07-09,West,Inactive
+M800,Pump,2022-10-27,South,Inactive
+M801,3D Print,2023-08-30,South,Active
+M802,Laser Cutter,2023-05-18,North,Active
+M803,Lathe,2025-03-12,South,Active
+M804,Lathe,2023-10-15,North,Inactive
+M805,CNC-Machine,2025-03-26,South,Inactive
+M806,Laser Cutter,2025-07-15,South,Active
+M807,Press,2024-08-17,East,Inactive
+M808,Welder,2024-09-16,North,Active
+M809,Compressor,2024-12-22,South,Inactive
+M810,Drill,2023-09-23,West,Inactive
+M811,Mixer,2022-11-03,North,Active
+M812,CNC-Machine,2022-08-26,North,Inactive
+M813,Conveyor,2025-01-14,North,Active
+M814,Mixer,2024-01-14,North,Inactive
+M815,Lathe,2022-11-26,South,Active
+M816,Compressor,2025-02-05,West,Inactive
+M817,Packaging Unit,2023-09-23,West,Inactive
+M818,Conveyor,2025-01-10,East,Inactive
+M819,Packaging Unit,2022-10-09,West,Inactive
+M820,Lathe,2022-09-25,North,Inactive
+M821,Drill,2025-06-21,East,Inactive
+M822,Grinder,2025-07-02,West,Inactive
+M823,CNC-Machine,2024-06-21,South,Active
+M824,Welder,2023-01-17,East,Active
+M825,Welder,2023-02-08,South,Inactive
+M826,Mixer,2024-01-12,North,Active
+M827,Furnace,2022-07-20,South,Active
+M828,Welder,2023-01-28,South,Active
+M829,Grinder,2023-06-13,North,Active
+M830,Furnace,2022-09-16,West,Active
+M831,Compressor,2023-07-09,South,Inactive
+M832,Furnace,2024-02-01,East,Inactive
+M833,Laser Cutter,2025-07-14,North,Active
+M834,3D Print,2023-07-11,East,Inactive
+M835,Laser Cutter,2024-01-06,South,Inactive
+M836,Drill,2024-06-21,North,Active
+M837,CNC-Machine,2022-12-09,North,Inactive
+M838,Press,2023-07-15,South,Inactive
+M839,Grinder,2024-10-25,East,Inactive
+M840,3D Print,2023-02-07,West,Active
+M841,CNC-Machine,2022-08-08,West,Active
+M842,Welder,2023-06-01,East,Active
+M843,Press,2022-10-24,East,Active
+M844,Conveyor,2022-08-16,East,Active
+M845,Drill,2024-06-07,North,Active
+M846,Conveyor,2024-10-07,North,Inactive
+M847,Mixer,2023-11-04,West,Inactive
+M848,Lathe,2025-06-12,East,Active
+M849,Grinder,2025-04-07,West,Inactive
+M850,Press,2025-07-10,West,Active
+M851,Pump,2022-12-09,North,Inactive
+M852,Welder,2024-08-10,North,Active
+M853,Mixer,2025-03-19,North,Active
+M854,Pump,2023-03-22,West,Active
+M855,3D Print,2025-05-27,South,Active
+M856,Conveyor,2022-09-07,North,Inactive
+M857,Laser Cutter,2024-03-21,South,Active
+M858,Furnace,2025-01-23,North,Inactive
+M859,3D Print,2024-08-19,East,Inactive
+M860,Welder,2024-04-22,East,Inactive
+M861,Furnace,2022-10-09,West,Active
+M862,CNC-Machine,2023-09-10,South,Active
+M863,Compressor,2024-06-01,South,Active
+M864,Packaging Unit,2023-06-05,South,Active
+M865,Packaging Unit,2023-05-17,West,Active
+M866,Packaging Unit,2023-12-17,South,Inactive
+M867,Drill,2023-08-03,South,Inactive
+M868,Press,2022-10-15,West,Inactive
+M869,Press,2024-12-08,West,Inactive
+M870,Welder,2025-02-21,East,Inactive
+M871,Mixer,2023-02-22,West,Active
+M872,Laser Cutter,2025-04-25,West,Inactive
+M873,Furnace,2023-01-19,North,Inactive
+M874,Laser Cutter,2024-02-04,East,Active
+M875,Compressor,2024-11-07,West,Active
+M876,Lathe,2023-01-12,South,Inactive
+M877,CNC-Machine,2024-12-20,East,Inactive
+M878,Grinder,2023-07-01,North,Active
+M879,Compressor,2024-04-19,South,Active
+M880,Pump,2024-11-16,South,Inactive
+M881,Compressor,2024-11-03,East,Active
+M882,3D Print,2024-06-25,North,Inactive
+M883,CNC-Machine,2023-03-15,West,Inactive
+M884,Packaging Unit,2025-02-01,East,Active
+M885,CNC-Machine,2024-04-27,West,Active
+M886,3D Print,2023-08-18,East,Inactive
+M887,Press,2022-11-21,South,Inactive
+M888,Drill,2022-09-26,South,Active
+M889,CNC-Machine,2025-05-03,South,Active
+M890,Furnace,2025-03-10,South,Active
+M891,Grinder,2024-11-28,North,Active
+M892,Lathe,2022-12-08,West,Inactive
+M893,CNC-Machine,2023-02-05,North,Active
+M894,Conveyor,2024-04-21,North,Inactive
+M895,Mixer,2022-10-21,North,Active
+M896,Grinder,2023-03-27,North,Active
+M897,Grinder,2025-06-25,South,Inactive
+M898,Packaging Unit,2023-06-28,South,Active
+M899,Lathe,2022-08-22,South,Inactive
+M900,Pump,2024-01-17,South,Active
+M901,Lathe,2023-05-15,South,Active
+M902,Pump,2025-05-03,West,Inactive
+M903,Press,2024-03-15,West,Inactive
+M904,Mixer,2022-11-04,North,Inactive
+M905,Compressor,2022-08-09,South,Active
+M906,Press,2024-07-25,South,Active
+M907,Welder,2024-03-27,West,Active
+M908,Welder,2024-05-29,West,Active
+M909,CNC-Machine,2022-12-12,North,Active
+M910,CNC-Machine,2023-12-07,East,Inactive
+M911,Packaging Unit,2025-05-16,North,Inactive
+M912,Drill,2022-08-14,East,Active
+M913,Pump,2023-05-03,East,Inactive
+M914,Furnace,2024-02-19,North,Inactive
+M915,3D Print,2024-08-27,West,Inactive
+M916,Welder,2025-06-04,South,Inactive
+M917,Lathe,2024-10-07,West,Inactive
+M918,Lathe,2023-02-02,South,Active
+M919,Pump,2024-11-06,South,Active
+M920,Drill,2025-06-29,South,Inactive
+M921,Drill,2022-09-14,West,Inactive
+M922,Packaging Unit,2022-09-18,East,Active
+M923,Press,2025-02-17,West,Active
+M924,Drill,2023-12-28,North,Inactive
+M925,Press,2023-03-24,East,Inactive
+M926,Lathe,2024-05-13,South,Active
+M927,Laser Cutter,2023-03-11,West,Active
+M928,Pump,2023-08-01,North,Inactive
+M929,Packaging Unit,2023-11-15,East,Active
+M930,Packaging Unit,2024-06-24,East,Inactive
+M931,CNC-Machine,2024-08-30,South,Inactive
+M932,CNC-Machine,2024-05-18,North,Inactive
+M933,Lathe,2024-05-04,West,Inactive
+M934,Press,2022-09-14,West,Active
+M935,Compressor,2022-12-04,East,Inactive
+M936,Lathe,2024-04-23,North,Inactive
+M937,Compressor,2024-01-10,South,Inactive
+M938,Pump,2023-02-20,North,Active
+M939,Grinder,2024-10-24,South,Active
+M940,Pump,2023-07-05,North,Inactive
+M941,Drill,2024-11-26,North,Inactive
+M942,Mixer,2024-10-02,West,Active
+M943,Laser Cutter,2024-09-10,East,Inactive
+M944,Pump,2023-01-10,North,Active
+M945,3D Print,2023-09-04,East,Active
+M946,Welder,2023-04-09,East,Active
+M947,Grinder,2024-08-20,West,Active
+M948,Furnace,2024-08-18,West,Inactive
+M949,Grinder,2024-12-13,East,Active
+M950,Furnace,2024-10-04,East,Active
+M951,Furnace,2023-12-31,North,Active
+M952,Pump,2024-11-04,West,Inactive
+M953,Laser Cutter,2024-07-22,South,Inactive
+M954,Welder,2024-01-11,East,Active
+M955,CNC-Machine,2025-03-09,West,Active
+M956,3D Print,2025-01-25,South,Active
+M957,3D Print,2024-11-09,North,Inactive
+M958,Welder,2023-01-22,North,Inactive
+M959,Lathe,2024-01-10,South,Active
+M960,3D Print,2023-01-02,North,Active
+M961,Furnace,2024-02-01,West,Active
+M962,Compressor,2025-07-10,East,Inactive
+M963,Mixer,2024-12-25,East,Active
+M964,Mixer,2023-02-06,North,Inactive
+M965,CNC-Machine,2024-03-16,North,Inactive
+M966,Drill,2022-08-23,East,Inactive
+M967,Pump,2023-02-04,South,Active
+M968,Press,2023-06-12,East,Active
+M969,Conveyor,2024-02-18,West,Active
+M970,3D Print,2025-06-08,East,Inactive
+M971,Drill,2024-12-22,South,Inactive
+M972,Mixer,2023-12-17,West,Inactive
+M973,Conveyor,2024-06-29,South,Active
+M974,Laser Cutter,2025-02-23,West,Active
+M975,Pump,2023-01-04,South,Active
+M976,CNC-Machine,2025-01-19,East,Active
+M977,CNC-Machine,2023-09-06,West,Active
+M978,3D Print,2024-09-07,East,Active
+M979,Compressor,2023-09-22,West,Inactive
+M980,3D Print,2025-05-04,South,Active
+M981,Lathe,2024-12-10,West,Inactive
+M982,Welder,2025-02-24,East,Inactive
+M983,Press,2024-01-19,East,Active
+M984,Laser Cutter,2023-11-04,East,Inactive
+M985,3D Print,2022-09-04,North,Active
+M986,Drill,2023-06-07,East,Inactive
+M987,Mixer,2024-03-30,North,Active
+M988,Grinder,2025-05-18,North,Active
+M989,Grinder,2025-03-25,West,Inactive
+M990,Laser Cutter,2023-05-31,North,Active
+M991,Pump,2025-06-09,South,Inactive
+M992,Welder,2024-10-26,East,Inactive
+M993,Packaging Unit,2023-09-21,East,Inactive
+M994,3D Print,2024-02-03,North,Inactive
+M995,Pump,2023-12-02,North,Inactive
+M996,Packaging Unit,2024-08-30,East,Inactive
+M997,CNC-Machine,2023-02-21,South,Active
+M998,3D Print,2024-12-16,East,Inactive
+M999,Mixer,2024-12-13,East,Inactive
+M1000,Grinder,2023-08-21,West,Inactive
+M1001,Drill,2023-12-10,North,Inactive
+M1002,Compressor,2023-05-13,North,Active
+M1003,Furnace,2023-10-19,North,Inactive
+M1004,Press,2025-05-08,South,Inactive
+M1005,Pump,2024-07-05,West,Inactive
+M1006,Conveyor,2023-03-21,South,Inactive
+M1007,Furnace,2025-02-11,West,Active
+M1008,Pump,2024-03-24,North,Inactive
+M1009,Laser Cutter,2023-06-04,South,Active
+M1010,Mixer,2024-11-18,West,Inactive
+M1011,Compressor,2022-11-06,West,Inactive
+M1012,CNC-Machine,2023-02-06,South,Inactive
+M1013,Compressor,2025-06-30,North,Inactive
+M1014,Mixer,2024-11-09,West,Inactive
+M1015,Welder,2023-09-24,South,Active
+M1016,Laser Cutter,2023-07-01,East,Inactive
+M1017,CNC-Machine,2025-01-30,North,Inactive
+M1018,Welder,2025-01-13,East,Inactive
+M1019,Packaging Unit,2023-12-18,North,Active
+M1020,Furnace,2024-07-30,West,Inactive
+M1021,Furnace,2022-09-27,East,Inactive
+M1022,Conveyor,2022-12-15,East,Active
+M1023,Furnace,2023-11-27,South,Inactive
+M1024,Conveyor,2022-07-23,North,Active
+M1025,Compressor,2024-12-12,East,Active
+M1026,Compressor,2025-02-18,South,Active
+M1027,Conveyor,2024-03-14,East,Inactive
+M1028,Furnace,2025-04-16,South,Inactive
+M1029,Conveyor,2024-07-01,South,Inactive
+M1030,Pump,2024-10-05,West,Inactive
+M1031,Welder,2022-12-29,West,Active
+M1032,Press,2023-05-04,East,Inactive
+M1033,CNC-Machine,2024-12-29,West,Inactive
+M1034,Grinder,2023-02-13,North,Active
+M1035,Conveyor,2024-08-06,West,Active
+M1036,Drill,2024-03-30,South,Inactive
+M1037,Grinder,2024-06-24,South,Inactive
+M1038,Drill,2023-05-25,North,Inactive
+M1039,Welder,2024-01-04,East,Active
+M1040,Lathe,2023-07-20,North,Inactive
+M1041,Drill,2024-11-12,East,Active
+M1042,Pump,2024-12-22,East,Active
+M1043,Welder,2022-12-06,East,Inactive
+M1044,Mixer,2025-07-12,South,Active
+M1045,Packaging Unit,2022-11-23,East,Active
+M1046,Press,2023-05-16,North,Active
+M1047,Conveyor,2023-05-29,South,Inactive
+M1048,Lathe,2023-05-20,East,Active
+M1049,Furnace,2025-06-05,East,Inactive
+M1050,Lathe,2023-11-02,North,Active
+M1051,Conveyor,2023-12-31,North,Inactive
+M1052,Conveyor,2024-10-12,West,Active
+M1053,Press,2023-09-04,West,Inactive
+M1054,CNC-Machine,2024-06-20,East,Active
+M1055,Lathe,2024-10-13,South,Active
+M1056,Grinder,2023-01-26,South,Active
+M1057,Grinder,2023-06-21,West,Active
+M1058,Pump,2025-05-15,West,Active
+M1059,CNC-Machine,2024-05-04,North,Inactive
+M1060,Furnace,2024-02-21,West,Inactive
+M1061,Laser Cutter,2023-01-17,South,Inactive
+M1062,Conveyor,2022-07-19,South,Inactive
+M1063,3D Print,2023-10-15,North,Inactive
+M1064,Press,2022-08-20,West,Active
+M1065,CNC-Machine,2024-03-25,North,Inactive
+M1066,CNC-Machine,2022-11-30,South,Inactive
+M1067,Pump,2025-05-28,East,Inactive
+M1068,Grinder,2022-09-08,West,Active
+M1069,CNC-Machine,2024-08-28,North,Active
+M1070,Compressor,2023-06-28,South,Active
+M1071,Laser Cutter,2024-11-08,North,Active
+M1072,Press,2025-02-24,East,Active
+M1073,Welder,2023-08-06,West,Active
+M1074,Welder,2024-05-28,South,Inactive
+M1075,Packaging Unit,2025-06-02,North,Active
+M1076,Grinder,2022-07-25,West,Active
+M1077,Furnace,2024-10-15,West,Active
+M1078,3D Print,2025-06-11,East,Active
+M1079,3D Print,2024-10-18,South,Inactive
+M1080,Packaging Unit,2024-11-22,East,Inactive
+M1081,Furnace,2023-06-15,East,Inactive
+M1082,3D Print,2025-05-15,East,Active
+M1083,Compressor,2023-03-04,North,Active
+M1084,Packaging Unit,2025-04-08,East,Inactive
+M1085,CNC-Machine,2025-05-23,West,Inactive
+M1086,CNC-Machine,2022-11-03,South,Inactive
+M1087,Laser Cutter,2022-08-20,West,Inactive
+M1088,Compressor,2023-04-24,West,Active
+M1089,Drill,2023-11-11,West,Inactive
+M1090,3D Print,2023-07-11,North,Inactive
+M1091,Press,2023-12-05,South,Active
+M1092,Conveyor,2023-07-08,East,Active
+M1093,Grinder,2025-06-20,East,Active
+M1094,Compressor,2024-05-15,East,Active
+M1095,3D Print,2023-03-09,East,Active
+M1096,Furnace,2024-09-08,West,Active
+M1097,CNC-Machine,2023-03-31,North,Inactive
+M1098,Compressor,2025-04-11,West,Inactive
+M1099,Mixer,2022-08-18,West,Active
+M1100,Packaging Unit,2025-07-12,West,Active
+M1101,Drill,2025-05-12,North,Active
+M1102,3D Print,2024-01-17,South,Active
+M1103,Packaging Unit,2024-11-19,North,Inactive
+M1104,Grinder,2024-05-05,East,Active
+M1105,Press,2025-07-11,North,Active
+M1106,Welder,2023-07-19,East,Active
+M1107,Lathe,2022-08-20,North,Active
+M1108,Welder,2022-09-18,South,Active
+M1109,CNC-Machine,2022-11-20,West,Inactive
+M1110,Furnace,2023-10-18,South,Inactive
+M1111,Mixer,2025-04-22,South,Inactive
+M1112,Laser Cutter,2023-03-29,East,Active
+M1113,Press,2023-07-23,North,Inactive
+M1114,Press,2023-10-10,South,Inactive
+M1115,Press,2023-04-13,West,Active
+M1116,Packaging Unit,2024-12-18,South,Inactive
+M1117,Laser Cutter,2023-12-19,East,Active
+M1118,Press,2024-02-08,South,Active
+M1119,Packaging Unit,2025-05-15,East,Active
+M1120,Packaging Unit,2023-01-22,West,Inactive
+M1121,Lathe,2024-10-14,West,Active
+M1122,Furnace,2024-09-22,South,Active
+M1123,Compressor,2023-07-22,North,Active
+M1124,3D Print,2023-06-18,East,Active
+M1125,Press,2025-03-03,North,Inactive
+M1126,Compressor,2024-05-16,South,Inactive
+M1127,Mixer,2024-12-09,North,Active
+M1128,Laser Cutter,2022-08-01,North,Active
+M1129,Mixer,2024-06-25,East,Inactive
+M1130,Drill,2024-01-31,South,Inactive
+M1131,Lathe,2024-02-20,East,Inactive
+M1132,Drill,2022-09-27,North,Inactive
+M1133,Lathe,2023-08-30,West,Inactive
+M1134,Lathe,2022-11-24,North,Inactive
+M1135,Laser Cutter,2024-05-28,East,Inactive
+M1136,CNC-Machine,2024-02-02,South,Active
+M1137,Laser Cutter,2023-05-19,West,Active
+M1138,Press,2023-04-22,South,Active
+M1139,Lathe,2024-04-10,South,Active
+M1140,Conveyor,2023-08-23,South,Active
+M1141,Conveyor,2023-09-10,North,Inactive
+M1142,Pump,2023-01-23,West,Inactive
+M1143,Press,2023-04-28,North,Inactive
+M1144,Welder,2024-03-14,North,Active
+M1145,Press,2023-10-21,North,Inactive
+M1146,Pump,2023-07-31,North,Active
+M1147,Press,2023-06-25,North,Active
+M1148,Laser Cutter,2024-03-02,West,Active
+M1149,Furnace,2023-04-27,East,Inactive
+M1150,Drill,2024-10-22,West,Active
+M1151,Compressor,2025-02-20,East,Active
+M1152,Drill,2025-06-16,North,Inactive
+M1153,CNC-Machine,2024-06-11,South,Inactive
+M1154,Conveyor,2023-11-11,North,Inactive
+M1155,3D Print,2024-12-05,West,Inactive
+M1156,CNC-Machine,2024-01-01,East,Inactive
+M1157,Press,2024-02-18,West,Active
+M1158,Conveyor,2023-10-04,East,Inactive
+M1159,Welder,2023-07-05,North,Active
+M1160,Conveyor,2025-02-27,West,Inactive
+M1161,Conveyor,2023-07-24,West,Inactive
+M1162,Lathe,2023-01-05,West,Inactive
+M1163,Lathe,2024-06-09,South,Active
+M1164,Press,2024-08-24,East,Inactive
+M1165,Laser Cutter,2025-02-17,South,Active
+M1166,Pump,2025-05-14,East,Inactive
+M1167,CNC-Machine,2022-10-15,South,Active
+M1168,CNC-Machine,2023-09-10,South,Active
+M1169,Lathe,2024-05-01,West,Inactive
+M1170,Laser Cutter,2024-07-20,West,Inactive
+M1171,Lathe,2025-01-01,East,Active
+M1172,Grinder,2023-04-02,East,Inactive
+M1173,3D Print,2023-02-06,North,Inactive
+M1174,Laser Cutter,2024-03-05,West,Inactive
+M1175,Packaging Unit,2022-08-24,South,Inactive
+M1176,Furnace,2025-04-16,East,Active
+M1177,Furnace,2024-06-21,East,Inactive
+M1178,Press,2023-04-04,South,Inactive
+M1179,Compressor,2022-07-30,East,Active
+M1180,Laser Cutter,2023-10-08,West,Active
+M1181,Laser Cutter,2024-09-27,North,Active
+M1182,Packaging Unit,2023-07-31,North,Active
+M1183,Laser Cutter,2022-08-07,East,Active
+M1184,Grinder,2024-11-19,South,Inactive
+M1185,Press,2023-01-15,West,Active
+M1186,Welder,2024-04-06,South,Active
+M1187,Press,2025-03-27,South,Inactive
+M1188,Mixer,2023-11-27,South,Active
+M1189,Compressor,2024-02-28,South,Inactive
+M1190,Packaging Unit,2023-10-11,West,Inactive
+M1191,Lathe,2022-11-07,West,Inactive
+M1192,Lathe,2025-02-17,South,Inactive
+M1193,Pump,2022-07-20,East,Inactive
+M1194,Press,2023-02-06,South,Inactive
+M1195,Compressor,2024-09-28,East,Active
+M1196,Welder,2023-08-03,East,Active
+M1197,Mixer,2023-01-07,West,Inactive
+M1198,CNC-Machine,2023-12-31,North,Inactive
+M1199,Packaging Unit,2024-10-04,North,Active
+M1200,Compressor,2025-05-30,West,Inactive
+M1201,Drill,2025-04-04,East,Inactive
+M1202,Compressor,2024-04-14,East,Inactive
+M1203,Compressor,2024-12-09,South,Inactive
+M1204,Packaging Unit,2022-09-09,West,Inactive
+M1205,Welder,2025-03-18,North,Inactive
+M1206,Laser Cutter,2025-02-16,East,Active
+M1207,Drill,2024-08-06,South,Active
+M1208,Press,2024-08-08,North,Active
+M1209,Press,2023-10-28,East,Inactive
+M1210,Conveyor,2024-06-02,South,Active
+M1211,Packaging Unit,2022-08-23,North,Active
+M1212,Compressor,2024-10-06,West,Inactive
+M1213,Grinder,2023-09-20,East,Active
+M1214,Lathe,2024-10-26,West,Inactive
+M1215,Furnace,2025-07-04,South,Inactive
+M1216,Furnace,2025-01-14,East,Active
+M1217,Furnace,2025-02-22,North,Inactive
+M1218,CNC-Machine,2025-06-04,North,Inactive
+M1219,Furnace,2023-10-21,South,Active
+M1220,Conveyor,2022-07-22,East,Inactive
+M1221,3D Print,2023-04-18,East,Active
+M1222,Press,2025-03-06,North,Active
+M1223,Grinder,2022-12-07,East,Active
+M1224,Mixer,2025-06-18,South,Active
+M1225,Laser Cutter,2022-10-19,West,Active
+M1226,Mixer,2023-08-04,West,Inactive
+M1227,Lathe,2023-12-25,North,Active
+M1228,Drill,2024-12-30,North,Inactive
+M1229,CNC-Machine,2023-04-30,West,Inactive
+M1230,Packaging Unit,2023-05-16,South,Inactive
+M1231,Laser Cutter,2023-10-26,West,Inactive
+M1232,Conveyor,2022-10-08,North,Active
+M1233,Conveyor,2022-10-10,West,Active
+M1234,CNC-Machine,2024-11-24,North,Inactive
+M1235,Compressor,2024-09-07,North,Active
+M1236,Furnace,2023-02-15,North,Active
+M1237,Welder,2022-08-07,South,Active
+M1238,Mixer,2023-04-22,North,Inactive
+M1239,Welder,2022-12-01,South,Active
+M1240,Welder,2023-04-30,North,Inactive
+M1241,Lathe,2025-05-11,East,Active
+M1242,Furnace,2023-07-13,South,Active
+M1243,Drill,2023-11-15,North,Inactive
+M1244,Grinder,2024-05-07,South,Active
+M1245,Furnace,2022-09-17,North,Active
+M1246,Pump,2025-03-27,North,Active
+M1247,Press,2025-06-03,West,Inactive
+M1248,Conveyor,2025-04-30,South,Active
+M1249,CNC-Machine,2025-05-01,South,Active
+M1250,Lathe,2025-04-02,West,Active
+M1251,Pump,2024-01-11,North,Active
+M1252,Welder,2025-06-21,West,Inactive
+M1253,Furnace,2023-10-06,West,Inactive
+M1254,Furnace,2025-05-19,East,Active
+M1255,Grinder,2024-04-05,South,Inactive
+M1256,Grinder,2024-02-25,East,Active
+M1257,Pump,2024-03-29,East,Active
+M1258,CNC-Machine,2024-05-25,East,Inactive
+M1259,Packaging Unit,2022-09-19,North,Active
+M1260,Pump,2022-12-07,East,Active
+M1261,Laser Cutter,2023-06-28,West,Inactive
+M1262,Laser Cutter,2023-02-05,West,Active
+M1263,Conveyor,2024-11-04,West,Active
+M1264,CNC-Machine,2024-10-10,East,Active
+M1265,Mixer,2025-04-15,North,Active
+M1266,Furnace,2024-05-06,East,Inactive
+M1267,Compressor,2023-07-10,East,Active
+M1268,Welder,2023-08-08,South,Active
+M1269,Packaging Unit,2023-06-14,West,Active
+M1270,Mixer,2023-07-03,East,Active
+M1271,Furnace,2023-06-28,East,Active
+M1272,Laser Cutter,2023-12-10,South,Inactive
+M1273,Packaging Unit,2023-07-19,North,Active
+M1274,3D Print,2024-09-24,South,Inactive
+M1275,CNC-Machine,2024-02-24,North,Active
+M1276,Drill,2024-06-05,North,Active
+M1277,Pump,2022-10-10,North,Active
+M1278,Furnace,2023-10-30,South,Active
+M1279,Furnace,2023-08-08,East,Active
+M1280,Drill,2023-06-28,South,Inactive
+M1281,Welder,2023-06-11,North,Inactive
+M1282,Furnace,2024-02-26,North,Active
+M1283,Lathe,2024-07-03,North,Active
+M1284,Drill,2024-12-26,East,Inactive
+M1285,3D Print,2024-04-23,South,Active
+M1286,Packaging Unit,2023-10-14,South,Active
+M1287,3D Print,2023-03-26,North,Active
+M1288,Press,2023-12-25,South,Inactive
+M1289,3D Print,2022-07-18,South,Active
+M1290,Conveyor,2024-04-11,East,Active
+M1291,Press,2024-10-07,West,Active
+M1292,3D Print,2025-04-20,North,Inactive
+M1293,Laser Cutter,2024-04-18,East,Active
+M1294,Packaging Unit,2024-05-20,East,Inactive
+M1295,Laser Cutter,2023-10-28,North,Active
+M1296,Welder,2024-10-23,North,Active
+M1297,Lathe,2025-06-24,West,Inactive
+M1298,3D Print,2024-05-29,West,Active
+M1299,Lathe,2022-10-29,West,Active
+M1300,Packaging Unit,2023-02-02,East,Active
+M1301,Press,2024-09-01,East,Active
+M1302,Press,2024-02-28,East,Inactive
+M1303,Packaging Unit,2023-08-21,North,Inactive
+M1304,Laser Cutter,2023-11-21,South,Inactive
+M1305,Laser Cutter,2025-02-12,South,Inactive
+M1306,3D Print,2024-09-25,East,Active
+M1307,Pump,2025-02-19,West,Inactive
+M1308,Furnace,2025-02-04,South,Inactive
+M1309,Packaging Unit,2023-12-14,East,Active
+M1310,Press,2024-03-30,East,Inactive
+M1311,Drill,2023-02-22,West,Active
+M1312,Drill,2022-10-02,West,Inactive
+M1313,Drill,2024-05-05,North,Active
+M1314,CNC-Machine,2023-05-05,South,Active
+M1315,Packaging Unit,2025-06-22,East,Inactive
+M1316,Conveyor,2023-01-21,South,Active
+M1317,Grinder,2025-07-14,West,Active
+M1318,Laser Cutter,2023-12-20,South,Active
+M1319,Press,2025-06-22,East,Active
+M1320,Compressor,2025-04-20,West,Inactive
+M1321,CNC-Machine,2022-11-03,North,Inactive
+M1322,3D Print,2023-07-09,South,Inactive
+M1323,Lathe,2025-06-15,South,Inactive
+M1324,Press,2022-08-21,West,Inactive
+M1325,Drill,2023-03-31,North,Inactive
+M1326,Drill,2023-05-09,West,Inactive
+M1327,Lathe,2024-10-23,North,Inactive
+M1328,Mixer,2025-02-24,West,Inactive
+M1329,Packaging Unit,2024-12-09,North,Active
+M1330,Conveyor,2024-10-23,South,Inactive
+M1331,Mixer,2024-05-17,East,Inactive
+M1332,3D Print,2025-06-20,North,Active
+M1333,Compressor,2023-07-30,East,Inactive
+M1334,3D Print,2023-01-24,North,Inactive
+M1335,Grinder,2023-05-19,East,Inactive
+M1336,Press,2024-09-13,East,Inactive
+M1337,Welder,2025-03-18,North,Active
+M1338,Mixer,2024-12-02,East,Active
+M1339,CNC-Machine,2024-07-28,South,Inactive
+M1340,Packaging Unit,2022-07-28,West,Inactive
+M1341,CNC-Machine,2024-07-19,South,Active
+M1342,Lathe,2024-10-19,West,Inactive
+M1343,3D Print,2023-05-29,East,Inactive
+M1344,CNC-Machine,2025-05-08,West,Active
+M1345,Laser Cutter,2023-06-04,West,Inactive
+M1346,3D Print,2024-12-07,North,Active
+M1347,Conveyor,2023-01-21,East,Active
+M1348,Grinder,2022-11-30,East,Inactive
+M1349,Compressor,2024-12-08,North,Inactive
+M1350,Pump,2025-07-09,West,Active
+M1351,Press,2025-03-29,East,Inactive
+M1352,Welder,2022-09-20,North,Active
+M1353,Packaging Unit,2024-12-23,South,Active
+M1354,Drill,2025-02-01,West,Active
+M1355,Grinder,2024-04-07,East,Inactive
+M1356,Conveyor,2023-02-09,North,Active
+M1357,Mixer,2023-07-26,South,Inactive
+M1358,Furnace,2025-01-30,South,Active
+M1359,Grinder,2024-09-22,South,Active
+M1360,Lathe,2024-09-20,West,Inactive
+M1361,Grinder,2025-04-18,East,Inactive
+M1362,Compressor,2023-01-23,West,Inactive
+M1363,Conveyor,2025-07-07,West,Active
+M1364,3D Print,2022-08-10,South,Inactive
+M1365,Welder,2024-06-28,West,Active
+M1366,Grinder,2023-09-13,East,Active
+M1367,Grinder,2024-05-20,West,Active
+M1368,Laser Cutter,2024-04-30,South,Inactive
+M1369,Packaging Unit,2022-08-09,North,Inactive
+M1370,Furnace,2024-03-30,West,Active
+M1371,Pump,2025-02-14,West,Active
+M1372,3D Print,2023-07-23,East,Inactive
+M1373,3D Print,2024-03-23,South,Active
+M1374,Packaging Unit,2023-09-01,North,Active
+M1375,Furnace,2023-02-10,South,Active
+M1376,Lathe,2024-03-01,North,Active
+M1377,Lathe,2024-08-28,East,Inactive
+M1378,Press,2025-06-25,West,Active
+M1379,Drill,2023-02-11,North,Active
+M1380,Welder,2024-03-22,North,Inactive
+M1381,Press,2025-07-04,East,Inactive
+M1382,CNC-Machine,2022-12-04,East,Active
+M1383,Packaging Unit,2025-06-24,West,Active
+M1384,Pump,2023-10-03,West,Active
+M1385,Laser Cutter,2022-12-20,South,Inactive
+M1386,Packaging Unit,2024-06-21,West,Active
+M1387,Grinder,2025-05-11,West,Inactive
+M1388,Mixer,2022-08-09,East,Active
+M1389,Lathe,2025-01-13,North,Active
+M1390,Mixer,2024-12-01,East,Active
+M1391,Lathe,2025-07-14,West,Inactive
+M1392,Press,2024-12-22,South,Inactive
+M1393,Grinder,2023-01-19,West,Inactive
+M1394,Press,2025-01-13,South,Active
+M1395,Mixer,2022-11-02,East,Inactive
+M1396,Lathe,2024-08-13,East,Active
+M1397,Conveyor,2024-01-15,North,Inactive
+M1398,Packaging Unit,2024-11-26,West,Inactive
+M1399,Furnace,2024-12-24,South,Inactive
+M1400,Mixer,2023-08-13,West,Active
+M1401,Furnace,2023-10-28,West,Inactive
+M1402,Compressor,2022-11-26,West,Inactive
+M1403,Grinder,2022-08-12,East,Active
+M1404,Mixer,2024-12-02,West,Inactive
+M1405,CNC-Machine,2024-12-26,East,Inactive
+M1406,Press,2022-08-22,West,Inactive
+M1407,Press,2023-10-28,East,Active
+M1408,Laser Cutter,2025-06-11,West,Inactive
+M1409,Press,2024-07-23,North,Inactive
+M1410,Press,2023-10-03,North,Active
+M1411,CNC-Machine,2024-06-22,North,Active
+M1412,Welder,2025-03-10,South,Inactive
+M1413,Lathe,2023-01-01,South,Active
+M1414,CNC-Machine,2022-09-08,West,Inactive
+M1415,Pump,2023-09-12,South,Active
+M1416,Press,2023-03-28,West,Active
+M1417,Packaging Unit,2023-04-14,East,Active
+M1418,Conveyor,2024-01-09,West,Inactive
+M1419,Pump,2023-08-30,East,Inactive
+M1420,Mixer,2025-01-22,South,Active
+M1421,Press,2024-08-22,South,Inactive
+M1422,Compressor,2023-07-22,South,Active
+M1423,Drill,2025-06-15,West,Inactive
+M1424,Compressor,2024-04-02,North,Inactive
+M1425,Welder,2023-11-12,West,Active
+M1426,Drill,2022-09-16,North,Inactive
+M1427,Compressor,2023-11-04,East,Inactive
+M1428,Compressor,2023-06-28,West,Inactive
+M1429,Mixer,2024-03-13,East,Active
+M1430,CNC-Machine,2022-08-22,North,Inactive
+M1431,Mixer,2023-12-12,North,Inactive
+M1432,3D Print,2025-05-28,North,Inactive
+M1433,Furnace,2025-03-28,East,Active
+M1434,Conveyor,2024-12-18,North,Active
+M1435,Drill,2025-05-18,East,Active
+M1436,Conveyor,2025-01-22,North,Active
+M1437,Compressor,2023-04-30,West,Inactive
+M1438,CNC-Machine,2023-06-05,South,Inactive
+M1439,Pump,2024-10-23,West,Inactive
+M1440,Grinder,2024-07-31,South,Active
+M1441,CNC-Machine,2023-03-22,East,Active
+M1442,Conveyor,2022-09-16,South,Inactive
+M1443,Welder,2023-04-07,South,Inactive
+M1444,Mixer,2023-09-12,South,Active
+M1445,Packaging Unit,2023-04-17,South,Active
+M1446,Drill,2022-11-29,West,Active
+M1447,Press,2022-08-09,West,Inactive
+M1448,Furnace,2025-02-12,West,Inactive
+M1449,3D Print,2024-04-01,North,Active
+M1450,Lathe,2024-01-13,East,Inactive
+M1451,Grinder,2025-03-21,East,Inactive
+M1452,Furnace,2023-03-28,East,Active
+M1453,Drill,2023-03-08,West,Inactive
+M1454,Pump,2025-02-25,East,Active
+M1455,CNC-Machine,2022-11-11,North,Inactive
+M1456,Welder,2024-12-01,South,Active
+M1457,Compressor,2023-07-22,West,Active
+M1458,Conveyor,2024-05-02,South,Active
+M1459,CNC-Machine,2025-05-24,West,Inactive
+M1460,Lathe,2025-03-28,East,Active
+M1461,Lathe,2024-02-20,East,Active
+M1462,Conveyor,2024-12-19,North,Inactive
+M1463,CNC-Machine,2025-01-07,North,Inactive
+M1464,Packaging Unit,2024-03-06,East,Inactive
+M1465,Drill,2024-11-29,South,Inactive
+M1466,Mixer,2022-11-04,South,Inactive
+M1467,Mixer,2023-12-08,East,Active
+M1468,Compressor,2025-06-02,South,Inactive
+M1469,CNC-Machine,2022-10-27,South,Active
+M1470,Press,2025-05-04,South,Active
+M1471,Grinder,2025-01-01,East,Active
+M1472,Press,2025-05-10,East,Inactive
+M1473,3D Print,2022-09-26,South,Active
+M1474,3D Print,2024-01-28,North,Active
+M1475,Conveyor,2022-10-04,South,Active
+M1476,Lathe,2023-01-07,West,Active
+M1477,Welder,2025-03-26,South,Inactive
+M1478,Grinder,2024-08-22,North,Active
+M1479,Press,2022-11-16,South,Inactive
+M1480,Laser Cutter,2023-01-19,East,Inactive
+M1481,Conveyor,2025-05-11,North,Active
+M1482,Furnace,2024-07-11,North,Active
+M1483,Lathe,2023-06-08,South,Active
+M1484,Laser Cutter,2025-02-03,South,Inactive
+M1485,Press,2024-07-16,West,Inactive
+M1486,Compressor,2023-03-07,East,Active
+M1487,Pump,2023-07-07,East,Active
+M1488,Conveyor,2022-12-14,East,Active
+M1489,CNC-Machine,2023-01-11,West,Inactive
+M1490,CNC-Machine,2025-01-22,West,Inactive
+M1491,Grinder,2024-08-27,West,Active
+M1492,Mixer,2025-01-06,West,Inactive
+M1493,Packaging Unit,2025-02-01,North,Inactive
+M1494,Laser Cutter,2023-11-10,South,Inactive
+M1495,Mixer,2024-04-26,North,Inactive
+M1496,Laser Cutter,2022-07-24,North,Inactive
+M1497,CNC-Machine,2022-09-04,South,Active
+M1498,3D Print,2025-04-24,South,Inactive
+M1499,Pump,2023-08-10,East,Active
+M1500,Press,2023-03-24,West,Inactive
+M1501,3D Print,2023-11-07,North,Inactive
+M1502,Welder,2023-09-01,East,Inactive
+M1503,3D Print,2025-02-17,West,Active
+M1504,Packaging Unit,2023-09-13,West,Inactive
+M1505,Lathe,2024-06-15,South,Inactive
+M1506,Mixer,2023-04-27,East,Active
+M1507,CNC-Machine,2024-05-24,South,Inactive
+M1508,3D Print,2023-02-18,North,Inactive
+M1509,Welder,2023-02-24,North,Active
+M1510,3D Print,2024-03-26,East,Active
+M1511,Furnace,2023-11-07,West,Inactive
+M1512,Laser Cutter,2022-10-14,North,Inactive
+M1513,Conveyor,2023-04-18,South,Active
+M1514,Mixer,2023-01-17,North,Active
+M1515,Packaging Unit,2024-10-26,West,Inactive
+M1516,Drill,2023-02-08,East,Active
+M1517,Press,2024-02-08,East,Inactive
+M1518,CNC-Machine,2024-08-12,West,Inactive
+M1519,Drill,2024-09-17,West,Active
+M1520,Compressor,2022-09-04,South,Inactive
+M1521,Grinder,2022-08-15,West,Inactive
+M1522,3D Print,2023-04-29,West,Active
+M1523,Mixer,2024-12-27,North,Active
+M1524,Laser Cutter,2025-01-06,South,Inactive
+M1525,Packaging Unit,2022-12-20,North,Inactive
+M1526,Grinder,2023-09-05,East,Active
+M1527,Mixer,2024-12-22,South,Inactive
+M1528,CNC-Machine,2023-08-13,North,Active
+M1529,Conveyor,2022-09-20,North,Inactive
+M1530,Lathe,2025-04-11,South,Active
+M1531,Pump,2023-09-15,East,Active
+M1532,Press,2024-04-02,West,Inactive
+M1533,Grinder,2022-08-16,West,Active
+M1534,Compressor,2025-06-27,South,Inactive
+M1535,Lathe,2023-11-23,East,Active
+M1536,Lathe,2024-05-06,North,Inactive
+M1537,Furnace,2023-06-08,North,Active
+M1538,Lathe,2023-11-04,East,Inactive
+M1539,Drill,2023-11-18,South,Inactive
+M1540,Drill,2024-07-11,West,Active
+M1541,Laser Cutter,2024-03-27,East,Inactive
+M1542,Conveyor,2024-08-04,East,Inactive
+M1543,CNC-Machine,2024-02-02,North,Active
+M1544,Lathe,2024-09-05,West,Active
+M1545,Laser Cutter,2024-04-08,West,Inactive
+M1546,Packaging Unit,2022-11-18,North,Inactive
+M1547,3D Print,2023-12-24,South,Active
+M1548,3D Print,2023-11-23,West,Inactive
+M1549,Furnace,2023-12-02,South,Inactive
+M1550,Lathe,2024-05-15,North,Inactive
+M1551,Compressor,2024-04-27,East,Inactive
+M1552,Furnace,2024-06-28,North,Active
+M1553,Compressor,2023-02-24,West,Active
+M1554,Furnace,2025-05-22,West,Active
+M1555,Pump,2023-04-21,South,Inactive
+M1556,CNC-Machine,2023-12-23,South,Active
+M1557,Press,2023-03-15,East,Active
+M1558,Mixer,2024-03-23,South,Active
+M1559,Grinder,2022-07-20,West,Active
+M1560,Laser Cutter,2023-02-02,West,Active
+M1561,Lathe,2025-07-08,West,Active
+M1562,Drill,2025-05-23,South,Inactive
+M1563,Welder,2022-10-08,North,Inactive
+M1564,Pump,2022-08-16,West,Inactive
+M1565,Mixer,2024-06-12,South,Active
+M1566,3D Print,2024-12-08,East,Inactive
+M1567,Conveyor,2024-06-25,West,Active
+M1568,Welder,2023-04-29,East,Active
+M1569,3D Print,2023-01-28,East,Inactive
+M1570,Compressor,2023-01-09,East,Inactive
+M1571,Welder,2025-02-23,East,Inactive
+M1572,Grinder,2024-05-23,North,Inactive
+M1573,Press,2024-06-08,South,Inactive
+M1574,CNC-Machine,2023-02-05,West,Active
+M1575,Furnace,2022-08-27,West,Active
+M1576,CNC-Machine,2023-03-14,East,Inactive
+M1577,Conveyor,2023-06-10,West,Inactive
+M1578,Compressor,2024-08-29,North,Inactive
+M1579,Press,2024-10-31,East,Active
+M1580,Grinder,2022-12-24,East,Inactive
+M1581,Packaging Unit,2024-07-30,East,Inactive
+M1582,Lathe,2023-02-08,South,Inactive
+M1583,Compressor,2024-07-05,South,Inactive
+M1584,Packaging Unit,2024-09-05,South,Active
+M1585,Grinder,2024-07-25,West,Active
+M1586,Drill,2024-09-20,West,Inactive
+M1587,Conveyor,2024-06-08,North,Active
+M1588,Compressor,2023-05-04,South,Inactive
+M1589,3D Print,2024-10-15,North,Inactive
+M1590,Laser Cutter,2024-01-07,North,Active
+M1591,Laser Cutter,2024-01-22,West,Inactive
+M1592,Pump,2024-11-28,North,Inactive
+M1593,Laser Cutter,2024-08-09,East,Inactive
+M1594,Conveyor,2025-02-18,South,Inactive
+M1595,Press,2022-08-10,East,Active
+M1596,Compressor,2024-10-10,West,Inactive
+M1597,Pump,2023-07-11,North,Inactive
+M1598,Laser Cutter,2022-11-22,West,Inactive
+M1599,3D Print,2025-05-19,North,Inactive
+M1600,Drill,2022-08-01,South,Inactive
+M1601,Lathe,2024-11-06,North,Inactive
+M1602,Compressor,2023-03-08,South,Inactive
+M1603,Lathe,2024-01-01,North,Inactive
+M1604,Welder,2023-04-07,East,Active
+M1605,3D Print,2024-10-01,North,Active
+M1606,Packaging Unit,2023-06-17,West,Inactive
+M1607,Welder,2025-06-13,North,Active
+M1608,Welder,2025-04-03,West,Inactive
+M1609,Mixer,2025-03-26,North,Inactive
+M1610,Furnace,2025-01-09,North,Active
+M1611,Grinder,2025-03-25,North,Active
+M1612,Mixer,2023-12-14,North,Active
+M1613,Conveyor,2025-05-28,South,Active
+M1614,Mixer,2023-05-12,South,Active
+M1615,Lathe,2023-12-27,West,Inactive
+M1616,Lathe,2025-03-10,East,Inactive
+M1617,Conveyor,2024-09-10,South,Inactive
+M1618,Grinder,2024-06-06,West,Inactive
+M1619,Drill,2023-02-28,North,Inactive
+M1620,3D Print,2023-12-02,North,Active
+M1621,Welder,2024-04-10,West,Inactive
+M1622,Grinder,2024-05-24,North,Active
+M1623,Mixer,2022-12-23,East,Active
+M1624,Pump,2023-07-13,West,Inactive
+M1625,Pump,2023-05-18,East,Inactive
+M1626,Packaging Unit,2025-06-27,West,Inactive
+M1627,Packaging Unit,2023-02-01,North,Inactive
+M1628,Conveyor,2025-03-25,East,Active
+M1629,Conveyor,2022-11-20,North,Inactive
+M1630,Laser Cutter,2025-02-17,South,Inactive
+M1631,Welder,2022-11-20,South,Inactive
+M1632,Drill,2022-11-10,South,Inactive
+M1633,Compressor,2023-06-13,West,Inactive
+M1634,Pump,2025-04-24,East,Inactive
+M1635,Mixer,2025-03-23,West,Active
+M1636,Furnace,2025-02-10,West,Inactive
+M1637,Conveyor,2024-11-24,East,Inactive
+M1638,Grinder,2023-02-02,West,Active
+M1639,3D Print,2023-03-08,East,Inactive
+M1640,Welder,2024-09-20,North,Active
+M1641,Laser Cutter,2024-04-30,East,Inactive
+M1642,Drill,2022-12-13,North,Active
+M1643,Packaging Unit,2023-04-30,West,Active
+M1644,Furnace,2022-10-17,South,Active
+M1645,Welder,2022-10-28,South,Active
+M1646,Pump,2023-05-08,North,Inactive
+M1647,Drill,2024-04-16,North,Inactive
+M1648,CNC-Machine,2024-02-14,West,Inactive
+M1649,3D Print,2025-01-16,North,Inactive
+M1650,Laser Cutter,2022-08-03,North,Active
+M1651,Press,2022-12-05,East,Active
+M1652,Conveyor,2024-06-20,North,Inactive
+M1653,Compressor,2023-11-09,South,Inactive
+M1654,Conveyor,2022-07-20,North,Active
+M1655,Compressor,2023-02-23,North,Inactive
+M1656,Drill,2025-06-16,West,Inactive
+M1657,Grinder,2024-11-29,South,Active
+M1658,3D Print,2024-04-08,West,Active
+M1659,Furnace,2022-09-01,East,Inactive
+M1660,Grinder,2024-02-06,West,Active
+M1661,Packaging Unit,2024-01-27,South,Inactive
+M1662,Lathe,2023-08-21,East,Active
+M1663,Pump,2025-06-12,North,Inactive
+M1664,Laser Cutter,2024-01-19,South,Active
+M1665,Drill,2023-10-01,East,Active
+M1666,Drill,2022-09-15,South,Active
+M1667,Lathe,2024-02-10,West,Inactive
+M1668,Drill,2022-11-20,East,Inactive
+M1669,Furnace,2023-03-11,North,Inactive
+M1670,Mixer,2025-05-07,North,Active
+M1671,Furnace,2023-03-21,North,Inactive
+M1672,3D Print,2024-12-20,South,Active
+M1673,Laser Cutter,2024-04-04,West,Inactive
+M1674,Furnace,2023-10-11,West,Inactive
+M1675,Conveyor,2023-12-20,South,Inactive
+M1676,Mixer,2023-10-30,South,Active
+M1677,Furnace,2023-10-30,North,Active
+M1678,Conveyor,2023-01-17,East,Active
+M1679,Packaging Unit,2023-01-14,South,Inactive
+M1680,Grinder,2023-06-07,East,Inactive
+M1681,Pump,2024-02-28,South,Inactive
+M1682,Compressor,2022-08-18,North,Active
+M1683,Packaging Unit,2024-08-02,East,Inactive
+M1684,Press,2024-04-12,South,Active
+M1685,Drill,2022-08-08,East,Active
+M1686,CNC-Machine,2022-10-20,South,Inactive
+M1687,Laser Cutter,2022-07-29,North,Inactive
+M1688,Grinder,2023-10-16,South,Active
+M1689,CNC-Machine,2022-10-17,East,Inactive
+M1690,Press,2025-05-26,East,Inactive
+M1691,Press,2024-12-16,East,Active
+M1692,Laser Cutter,2024-11-23,North,Inactive
+M1693,Press,2024-01-25,South,Inactive
+M1694,Furnace,2022-09-18,East,Inactive
+M1695,Compressor,2024-09-19,South,Inactive
+M1696,Drill,2025-06-01,South,Active
+M1697,Conveyor,2022-11-19,North,Active
+M1698,3D Print,2024-09-18,South,Active
+M1699,Grinder,2022-11-08,South,Active
+M1700,Drill,2022-08-27,East,Active
+M1701,Lathe,2023-10-14,East,Active
+M1702,Conveyor,2025-01-18,East,Inactive
+M1703,Furnace,2023-12-11,North,Inactive
+M1704,Furnace,2022-10-17,West,Active
+M1705,Welder,2025-07-08,East,Inactive
+M1706,Welder,2022-09-08,South,Inactive
+M1707,CNC-Machine,2023-11-30,North,Inactive
+M1708,Packaging Unit,2023-03-09,East,Inactive
+M1709,Lathe,2023-01-02,South,Active
+M1710,Compressor,2024-04-26,North,Active
+M1711,3D Print,2025-02-15,East,Inactive
+M1712,Packaging Unit,2024-07-27,East,Inactive
+M1713,Laser Cutter,2022-12-13,South,Inactive
+M1714,Conveyor,2024-06-25,North,Inactive
+M1715,Laser Cutter,2024-12-05,East,Inactive
+M1716,Pump,2024-02-01,North,Active
+M1717,Welder,2024-07-24,South,Active
+M1718,Packaging Unit,2023-12-17,East,Active
+M1719,3D Print,2024-03-05,East,Active
+M1720,Compressor,2024-02-06,West,Active
+M1721,Furnace,2023-12-27,South,Inactive
+M1722,Conveyor,2025-05-25,West,Active
+M1723,CNC-Machine,2024-03-09,West,Active
+M1724,Conveyor,2024-05-05,North,Active
+M1725,Drill,2023-08-08,South,Inactive
+M1726,Mixer,2024-05-30,West,Inactive
+M1727,Grinder,2022-09-17,South,Active
+M1728,Welder,2023-11-08,West,Active
+M1729,Lathe,2025-05-24,South,Inactive
+M1730,Grinder,2023-09-23,East,Inactive
+M1731,Laser Cutter,2024-12-13,East,Active
+M1732,Welder,2022-12-08,North,Active
+M1733,Pump,2024-07-16,East,Inactive
+M1734,Packaging Unit,2025-03-01,East,Active
+M1735,Compressor,2024-06-23,East,Inactive
+M1736,Laser Cutter,2025-04-22,South,Active
+M1737,Mixer,2023-06-25,South,Active
+M1738,Pump,2025-05-23,West,Inactive
+M1739,Laser Cutter,2025-01-05,East,Inactive
+M1740,3D Print,2023-08-10,West,Active
+M1741,Mixer,2025-04-16,South,Inactive
+M1742,Press,2025-02-17,East,Active
+M1743,Press,2022-11-08,East,Active
+M1744,Compressor,2025-07-04,North,Inactive
+M1745,Lathe,2024-02-11,West,Inactive
+M1746,Packaging Unit,2023-04-06,North,Active
+M1747,Compressor,2024-04-21,North,Inactive
+M1748,Drill,2024-11-21,West,Active
+M1749,Laser Cutter,2025-04-04,East,Inactive
+M1750,Drill,2023-03-13,South,Active
+M1751,Grinder,2024-01-05,West,Active
+M1752,Lathe,2024-09-28,South,Active
+M1753,CNC-Machine,2023-07-13,East,Active
+M1754,3D Print,2022-08-24,South,Active
+M1755,Pump,2023-06-14,East,Active
+M1756,Compressor,2025-07-08,West,Active
+M1757,Packaging Unit,2023-01-12,West,Active
+M1758,Compressor,2023-03-03,West,Inactive
+M1759,Laser Cutter,2025-04-14,South,Active
+M1760,Packaging Unit,2024-09-15,North,Active
+M1761,Packaging Unit,2024-02-24,West,Inactive
+M1762,CNC-Machine,2025-07-02,West,Active
+M1763,Press,2024-04-23,East,Inactive
+M1764,3D Print,2022-10-16,South,Active
+M1765,Grinder,2025-04-02,West,Inactive
+M1766,Laser Cutter,2022-11-16,West,Inactive
+M1767,Grinder,2023-04-18,North,Inactive
+M1768,Lathe,2023-06-11,South,Active
+M1769,Drill,2025-03-22,South,Inactive
+M1770,Packaging Unit,2023-09-09,South,Inactive
+M1771,Conveyor,2025-05-28,West,Active
+M1772,3D Print,2023-10-11,East,Active
+M1773,Pump,2022-07-28,North,Active
+M1774,Pump,2024-12-25,South,Active
+M1775,Conveyor,2024-06-26,West,Inactive
+M1776,Welder,2024-11-07,West,Inactive
+M1777,Packaging Unit,2023-03-04,East,Active
+M1778,Welder,2023-01-21,South,Active
+M1779,Grinder,2025-01-13,West,Active
+M1780,Lathe,2022-12-05,North,Active
+M1781,CNC-Machine,2023-03-13,East,Active
+M1782,Grinder,2023-05-21,East,Active
+M1783,Laser Cutter,2024-01-03,East,Active
+M1784,Welder,2024-06-05,South,Inactive
+M1785,Conveyor,2024-10-21,North,Inactive
+M1786,3D Print,2023-02-15,South,Active
+M1787,Drill,2024-01-04,East,Inactive
+M1788,Mixer,2023-07-03,South,Active
+M1789,3D Print,2023-06-27,North,Inactive
+M1790,Furnace,2024-09-06,South,Inactive
+M1791,Lathe,2022-09-09,North,Active
+M1792,Drill,2025-04-29,South,Inactive
+M1793,Drill,2024-03-23,South,Inactive
+M1794,CNC-Machine,2025-07-09,North,Active
+M1795,Compressor,2024-04-16,North,Inactive
+M1796,Lathe,2024-09-24,North,Active
+M1797,Compressor,2024-12-18,North,Inactive
+M1798,Lathe,2023-08-04,North,Inactive
+M1799,Furnace,2025-03-07,East,Inactive
+M1800,Drill,2023-03-04,North,Inactive
+M1801,Laser Cutter,2024-12-24,North,Inactive
+M1802,Conveyor,2022-10-30,East,Active
+M1803,Grinder,2025-05-16,South,Active
+M1804,Packaging Unit,2025-01-11,East,Inactive
+M1805,3D Print,2023-12-23,West,Inactive
+M1806,Compressor,2023-07-27,North,Inactive
+M1807,Conveyor,2025-03-05,South,Inactive
+M1808,Laser Cutter,2025-03-28,North,Inactive
+M1809,Press,2025-01-21,South,Inactive
+M1810,Welder,2025-01-17,East,Active
+M1811,3D Print,2024-02-10,South,Inactive
+M1812,Welder,2024-11-11,East,Inactive
+M1813,Welder,2023-01-14,South,Inactive
+M1814,Compressor,2024-04-03,West,Active
+M1815,Packaging Unit,2023-02-08,North,Active
+M1816,Welder,2024-10-28,West,Inactive
+M1817,Laser Cutter,2022-11-01,South,Active
+M1818,Drill,2024-03-01,South,Inactive
+M1819,Grinder,2023-06-17,North,Active
+M1820,Compressor,2022-10-31,South,Active
+M1821,Lathe,2024-07-21,South,Inactive
+M1822,Compressor,2022-10-29,West,Inactive
+M1823,Conveyor,2024-07-28,West,Active
+M1824,Pump,2024-08-24,North,Active
+M1825,Laser Cutter,2024-11-27,West,Active
+M1826,Conveyor,2023-03-03,West,Active
+M1827,Lathe,2023-04-30,East,Active
+M1828,Press,2022-08-28,North,Active
+M1829,Furnace,2023-05-28,West,Inactive
+M1830,Compressor,2024-02-09,West,Active
+M1831,3D Print,2024-12-03,West,Inactive
+M1832,Welder,2023-08-02,South,Active
+M1833,Drill,2022-09-03,West,Active
+M1834,Conveyor,2023-02-26,North,Active
+M1835,Press,2023-03-31,West,Inactive
+M1836,Pump,2024-11-27,North,Inactive
+M1837,Compressor,2023-04-04,South,Active
+M1838,Compressor,2023-10-10,East,Inactive
+M1839,Drill,2024-12-24,South,Inactive
+M1840,Welder,2024-01-01,North,Active
+M1841,Compressor,2024-06-07,South,Active
+M1842,Grinder,2022-11-17,North,Active
+M1843,CNC-Machine,2023-05-02,North,Active
+M1844,CNC-Machine,2025-05-21,North,Active
+M1845,CNC-Machine,2025-01-19,North,Active
+M1846,Press,2022-08-01,West,Active
+M1847,Laser Cutter,2023-06-17,South,Active
+M1848,Laser Cutter,2024-01-18,South,Active
+M1849,Grinder,2024-06-21,North,Active
+M1850,Press,2022-07-23,West,Inactive
+M1851,Compressor,2024-12-21,South,Inactive
+M1852,Press,2025-04-17,North,Active
+M1853,3D Print,2024-04-26,West,Active
+M1854,Mixer,2023-01-20,West,Inactive
+M1855,Compressor,2023-10-08,East,Inactive
+M1856,Mixer,2023-12-19,West,Inactive
+M1857,Compressor,2024-01-01,East,Inactive
+M1858,3D Print,2024-01-21,East,Inactive
+M1859,Conveyor,2024-02-08,West,Active
+M1860,Lathe,2022-09-08,North,Inactive
+M1861,Lathe,2025-01-05,South,Active
+M1862,Drill,2024-08-24,South,Inactive
+M1863,Compressor,2023-06-07,North,Inactive
+M1864,Packaging Unit,2024-07-09,East,Inactive
+M1865,Compressor,2023-05-25,South,Inactive
+M1866,Laser Cutter,2023-01-23,South,Active
+M1867,Lathe,2025-06-01,West,Active
+M1868,Lathe,2024-05-01,South,Active
+M1869,CNC-Machine,2022-10-27,South,Active
+M1870,Packaging Unit,2023-12-02,South,Inactive
+M1871,Pump,2023-03-29,West,Inactive
+M1872,Pump,2023-03-24,West,Inactive
+M1873,Press,2025-03-13,North,Inactive
+M1874,CNC-Machine,2024-09-16,East,Inactive
+M1875,CNC-Machine,2023-08-31,West,Active
+M1876,Drill,2025-01-11,North,Inactive
+M1877,Furnace,2025-01-15,North,Inactive
+M1878,Welder,2024-07-10,East,Active
+M1879,Grinder,2025-01-25,North,Inactive
+M1880,Packaging Unit,2024-11-23,South,Active
+M1881,Conveyor,2024-08-21,East,Active
+M1882,3D Print,2024-04-11,South,Inactive
+M1883,Grinder,2024-01-04,South,Active
+M1884,Grinder,2022-07-23,West,Active
+M1885,Grinder,2024-03-16,South,Inactive
+M1886,Lathe,2025-04-29,North,Inactive
+M1887,Packaging Unit,2025-02-28,North,Active
+M1888,Welder,2022-09-26,North,Inactive
+M1889,Packaging Unit,2025-01-28,West,Active
+M1890,Welder,2024-08-06,East,Inactive
+M1891,Laser Cutter,2025-02-06,South,Inactive
+M1892,CNC-Machine,2024-12-12,East,Inactive
+M1893,Furnace,2023-12-20,North,Inactive
+M1894,Conveyor,2023-10-23,East,Active
+M1895,CNC-Machine,2024-08-06,West,Active
+M1896,Pump,2022-08-11,South,Inactive
+M1897,Furnace,2023-07-26,South,Active
+M1898,Welder,2024-04-25,South,Active
+M1899,Mixer,2022-07-17,North,Active
+M1900,Conveyor,2024-05-10,South,Inactive
+M1901,Welder,2022-08-01,North,Active
+M1902,Packaging Unit,2025-05-31,North,Active
+M1903,3D Print,2025-02-07,South,Inactive
+M1904,Compressor,2024-08-20,West,Active
+M1905,CNC-Machine,2024-05-05,West,Inactive
+M1906,Compressor,2023-07-30,East,Active
+M1907,Pump,2025-01-03,West,Inactive
+M1908,Press,2022-11-15,South,Active
+M1909,Laser Cutter,2025-07-09,East,Inactive
+M1910,Compressor,2023-08-24,West,Active
+M1911,Conveyor,2024-04-17,West,Active
+M1912,Pump,2025-05-23,East,Inactive
+M1913,Conveyor,2023-03-16,North,Active
+M1914,Pump,2022-09-26,South,Active
+M1915,Lathe,2024-11-30,North,Active
+M1916,Grinder,2022-08-05,East,Inactive
+M1917,3D Print,2023-09-29,West,Inactive
+M1918,Compressor,2024-12-07,East,Active
+M1919,Compressor,2023-04-07,South,Inactive
+M1920,Furnace,2023-01-16,East,Active
+M1921,Furnace,2024-04-19,South,Inactive
+M1922,Laser Cutter,2025-01-19,South,Active
+M1923,Lathe,2022-07-25,North,Active
+M1924,Drill,2022-11-09,South,Inactive
+M1925,Press,2024-12-21,West,Inactive
+M1926,3D Print,2024-02-01,South,Inactive
+M1927,Grinder,2022-12-28,East,Inactive
+M1928,Grinder,2024-04-24,East,Active
+M1929,Welder,2022-12-17,West,Active
+M1930,Compressor,2024-01-19,South,Active
+M1931,Press,2023-04-05,West,Inactive
+M1932,Compressor,2022-11-07,North,Inactive
+M1933,CNC-Machine,2024-07-29,South,Inactive
+M1934,Furnace,2023-06-10,South,Active
+M1935,Furnace,2022-12-22,South,Inactive
+M1936,Welder,2024-07-27,West,Active
+M1937,Furnace,2024-11-02,South,Inactive
+M1938,Conveyor,2023-07-08,North,Active
+M1939,Grinder,2022-12-26,East,Active
+M1940,Drill,2022-08-05,West,Active
+M1941,Conveyor,2023-12-24,North,Inactive
+M1942,3D Print,2023-01-12,North,Active
+M1943,Laser Cutter,2023-05-16,North,Inactive
+M1944,Laser Cutter,2025-05-01,East,Inactive
+M1945,Conveyor,2024-06-05,North,Active
+M1946,Grinder,2022-09-21,West,Inactive
+M1947,Furnace,2024-10-01,East,Active
+M1948,Lathe,2024-09-02,South,Inactive
+M1949,Laser Cutter,2023-10-14,North,Inactive
+M1950,Grinder,2024-12-31,North,Active
+M1951,Drill,2023-08-11,West,Inactive
+M1952,Packaging Unit,2024-05-26,East,Active
+M1953,Laser Cutter,2023-11-23,West,Active
+M1954,3D Print,2025-02-21,North,Active
+M1955,Compressor,2024-09-02,West,Active
+M1956,Mixer,2024-10-24,North,Inactive
+M1957,Packaging Unit,2023-12-01,West,Active
+M1958,Pump,2023-11-25,East,Inactive
+M1959,Laser Cutter,2023-02-26,South,Active
+M1960,Pump,2024-10-14,North,Active
+M1961,Conveyor,2024-03-02,South,Inactive
+M1962,3D Print,2024-01-27,West,Active
+M1963,Furnace,2022-10-26,South,Active
+M1964,Grinder,2023-04-25,West,Inactive
+M1965,3D Print,2024-12-08,South,Active
+M1966,Press,2025-07-07,North,Inactive
+M1967,Conveyor,2024-12-13,East,Inactive
+M1968,Pump,2023-09-08,East,Active
+M1969,Conveyor,2023-12-06,North,Inactive
+M1970,Grinder,2024-10-19,West,Inactive
+M1971,Press,2022-10-11,East,Inactive
+M1972,Laser Cutter,2023-08-03,North,Inactive
+M1973,Grinder,2025-01-04,South,Active
+M1974,CNC-Machine,2025-02-01,South,Active
+M1975,Press,2023-04-10,West,Inactive
+M1976,Pump,2023-08-10,East,Inactive
+M1977,Lathe,2022-08-20,West,Inactive
+M1978,Lathe,2024-04-07,South,Active
+M1979,Welder,2023-10-23,West,Inactive
+M1980,3D Print,2024-05-27,East,Active
+M1981,Compressor,2024-04-05,East,Inactive
+M1982,Mixer,2025-07-05,East,Inactive
+M1983,Conveyor,2025-06-03,North,Inactive
+M1984,Laser Cutter,2024-08-09,West,Inactive
+M1985,Furnace,2023-10-01,West,Active
+M1986,Packaging Unit,2022-09-03,West,Inactive
+M1987,Mixer,2022-08-26,West,Inactive
+M1988,CNC-Machine,2025-03-15,West,Active
+M1989,Mixer,2022-10-09,East,Active
+M1990,3D Print,2022-09-04,North,Active
+M1991,Drill,2024-09-06,West,Inactive
+M1992,Mixer,2024-07-15,North,Active
+M1993,Packaging Unit,2023-06-14,West,Active
+M1994,CNC-Machine,2024-05-22,South,Active
+M1995,Lathe,2025-02-01,North,Inactive
+M1996,Press,2023-04-04,South,Inactive
+M1997,Laser Cutter,2024-12-20,West,Active
+M1998,Lathe,2024-09-06,West,Inactive
+M1999,Packaging Unit,2025-01-02,South,Active
+M2000,Drill,2023-05-24,North,Active
+M2001,Grinder,2024-06-09,West,Inactive
+M2002,Grinder,2022-09-16,North,Inactive
+M2003,Furnace,2023-06-13,North,Inactive
+M2004,Welder,2023-01-19,North,Inactive
+M2005,3D Print,2024-07-30,West,Inactive
+M2006,Packaging Unit,2023-07-12,East,Inactive
+M2007,Press,2024-09-07,West,Active
+M2008,3D Print,2023-12-03,North,Active
+M2009,Mixer,2024-07-15,South,Active
+M2010,Lathe,2022-09-27,North,Active
+M2011,CNC-Machine,2023-01-07,North,Active
+M2012,3D Print,2023-03-03,North,Active
+M2013,Mixer,2022-07-23,East,Active
+M2014,Furnace,2025-03-14,East,Active
+M2015,3D Print,2023-09-28,East,Active
+M2016,Conveyor,2025-05-03,East,Inactive
+M2017,3D Print,2024-05-04,East,Inactive
+M2018,Compressor,2023-04-19,South,Active
+M2019,Furnace,2024-10-06,West,Inactive
+M2020,Mixer,2023-07-22,North,Active
+M2021,Laser Cutter,2022-10-13,North,Active
+M2022,Conveyor,2023-06-16,South,Inactive
+M2023,Compressor,2024-01-15,North,Active
+M2024,Welder,2023-05-13,South,Active
+M2025,Conveyor,2022-09-19,North,Inactive
+M2026,Grinder,2024-10-05,South,Inactive
+M2027,Furnace,2024-06-21,East,Active
+M2028,3D Print,2024-06-06,West,Inactive
+M2029,Welder,2024-08-27,North,Inactive
+M2030,Furnace,2024-01-25,West,Active
+M2031,Compressor,2025-02-22,East,Active
+M2032,Press,2023-12-29,East,Inactive
+M2033,3D Print,2022-12-16,East,Inactive
+M2034,Lathe,2023-06-13,North,Active
+M2035,Lathe,2025-04-06,East,Active
+M2036,CNC-Machine,2023-03-20,South,Inactive
+M2037,Welder,2024-11-04,South,Inactive
+M2038,Welder,2023-10-28,North,Active
+M2039,Laser Cutter,2023-11-25,East,Active
+M2040,Compressor,2023-09-03,East,Inactive
+M2041,Laser Cutter,2023-10-03,South,Inactive
+M2042,3D Print,2023-03-05,North,Active
+M2043,Mixer,2023-04-13,West,Active
+M2044,Welder,2025-04-14,South,Inactive
+M2045,3D Print,2022-09-28,South,Active
+M2046,Mixer,2024-01-03,North,Active
+M2047,Pump,2023-10-18,North,Inactive
+M2048,Furnace,2024-04-12,North,Active
+M2049,Packaging Unit,2025-01-31,East,Inactive
+M2050,Packaging Unit,2024-03-05,West,Active
+M2051,3D Print,2023-09-28,South,Active
+M2052,Conveyor,2022-11-29,East,Active
+M2053,CNC-Machine,2025-04-28,North,Inactive
+M2054,Lathe,2024-04-21,South,Active
+M2055,Packaging Unit,2022-09-05,West,Active
+M2056,Grinder,2022-10-22,West,Inactive
+M2057,Grinder,2024-10-17,West,Inactive
+M2058,Lathe,2024-08-10,West,Active
+M2059,Welder,2024-02-12,West,Inactive
+M2060,Grinder,2024-09-11,East,Inactive
+M2061,Laser Cutter,2023-04-04,West,Inactive
+M2062,Drill,2025-06-20,West,Inactive
+M2063,CNC-Machine,2022-10-22,West,Active
+M2064,Drill,2024-03-21,East,Active
+M2065,3D Print,2025-01-09,East,Inactive
+M2066,Lathe,2024-09-29,West,Active
+M2067,Furnace,2024-01-03,South,Active
+M2068,Welder,2024-08-10,East,Active
+M2069,Conveyor,2025-03-28,North,Inactive
+M2070,Laser Cutter,2023-04-14,South,Active
+M2071,Grinder,2025-04-27,West,Inactive
+M2072,Pump,2024-04-07,South,Inactive
+M2073,Grinder,2024-09-27,West,Active
+M2074,Laser Cutter,2024-10-12,North,Inactive
+M2075,Mixer,2024-04-30,South,Inactive
+M2076,Laser Cutter,2025-03-25,North,Inactive
+M2077,Press,2022-10-09,North,Active
+M2078,Welder,2025-04-10,North,Active
+M2079,Compressor,2023-03-26,East,Active
+M2080,Furnace,2023-06-24,North,Active
+M2081,CNC-Machine,2024-07-24,North,Active
+M2082,Compressor,2024-04-13,North,Active
+M2083,Grinder,2025-07-04,East,Active
+M2084,Drill,2024-04-19,South,Active
+M2085,Furnace,2022-09-23,North,Inactive
+M2086,Furnace,2024-03-29,North,Active
+M2087,3D Print,2023-09-07,South,Active
+M2088,3D Print,2023-08-11,South,Active
+M2089,Conveyor,2025-04-22,East,Inactive
+M2090,Furnace,2023-06-07,South,Inactive
+M2091,Compressor,2024-08-06,East,Active
+M2092,3D Print,2023-11-20,West,Active
+M2093,Packaging Unit,2025-03-21,East,Active
+M2094,3D Print,2025-06-04,West,Inactive
+M2095,Press,2023-12-31,North,Active
+M2096,Welder,2024-06-25,North,Inactive
+M2097,Pump,2024-02-22,North,Inactive
+M2098,Lathe,2024-01-12,West,Inactive
+M2099,Press,2024-07-06,East,Inactive
+M2100,Grinder,2024-09-08,West,Inactive
+M2101,Press,2023-07-15,North,Active
+M2102,Welder,2022-09-06,North,Active
+M2103,Pump,2023-07-19,North,Inactive
+M2104,Mixer,2024-03-15,East,Inactive
+M2105,Mixer,2025-05-27,North,Active
+M2106,Mixer,2024-12-27,West,Active
+M2107,Drill,2025-02-05,South,Inactive
+M2108,Lathe,2024-08-14,East,Active
+M2109,Pump,2022-09-19,West,Inactive
+M2110,Mixer,2023-01-02,East,Inactive
+M2111,Press,2024-01-05,North,Active
+M2112,Packaging Unit,2024-03-16,West,Active
+M2113,Drill,2024-02-04,West,Active
+M2114,Grinder,2024-06-06,North,Inactive
+M2115,Grinder,2024-10-30,West,Active
+M2116,Mixer,2025-05-27,West,Inactive
+M2117,Mixer,2023-09-04,West,Active
+M2118,Laser Cutter,2023-08-25,East,Active
+M2119,Welder,2024-06-27,West,Active
+M2120,Conveyor,2024-06-24,East,Inactive
+M2121,Welder,2023-12-15,East,Inactive
+M2122,Conveyor,2025-05-08,East,Inactive
+M2123,Mixer,2024-07-19,South,Inactive
+M2124,Drill,2022-10-21,West,Inactive
+M2125,Furnace,2024-11-21,East,Inactive
+M2126,3D Print,2023-09-09,North,Active
+M2127,Conveyor,2023-10-24,North,Inactive
+M2128,Conveyor,2023-08-01,North,Active
+M2129,3D Print,2023-05-23,North,Inactive
+M2130,Pump,2025-01-26,West,Inactive
+M2131,Laser Cutter,2025-04-19,North,Inactive
+M2132,CNC-Machine,2025-03-16,South,Inactive
+M2133,CNC-Machine,2023-08-21,South,Active
+M2134,Conveyor,2024-10-10,West,Inactive
+M2135,Welder,2025-04-22,West,Inactive
+M2136,Pump,2022-07-20,South,Active
+M2137,CNC-Machine,2025-04-12,South,Inactive
+M2138,Pump,2023-12-13,South,Active
+M2139,Grinder,2025-02-18,West,Inactive
+M2140,Welder,2023-07-29,South,Active
+M2141,Drill,2024-04-13,West,Active
+M2142,Pump,2024-01-12,East,Active
+M2143,Lathe,2023-07-19,South,Active
+M2144,Laser Cutter,2025-04-05,West,Active
+M2145,Press,2023-01-23,West,Inactive
+M2146,Grinder,2024-09-11,West,Active
+M2147,Welder,2023-11-29,South,Active
+M2148,Lathe,2025-02-22,North,Inactive
+M2149,Welder,2024-10-17,South,Inactive
+M2150,Laser Cutter,2023-06-09,West,Inactive
+M2151,Pump,2024-11-28,East,Active
+M2152,3D Print,2024-06-15,West,Active
+M2153,Pump,2022-11-25,East,Active
+M2154,Laser Cutter,2023-03-02,West,Inactive
+M2155,Furnace,2024-02-07,South,Active
+M2156,Packaging Unit,2023-07-04,West,Active
+M2157,Conveyor,2023-10-07,North,Active
+M2158,Welder,2024-07-18,South,Active
+M2159,Mixer,2024-03-17,East,Inactive
+M2160,Pump,2023-11-10,South,Inactive
+M2161,Welder,2023-12-29,South,Active
+M2162,Grinder,2023-12-23,South,Inactive
+M2163,3D Print,2023-06-17,South,Inactive
+M2164,Grinder,2024-04-18,East,Inactive
+M2165,Laser Cutter,2024-10-22,West,Active
+M2166,3D Print,2025-06-13,South,Active
+M2167,Lathe,2024-04-11,North,Active
+M2168,3D Print,2024-09-11,South,Inactive
+M2169,Pump,2024-02-16,South,Active
+M2170,3D Print,2025-06-25,East,Active
+M2171,3D Print,2023-10-10,South,Active
+M2172,Compressor,2022-11-30,South,Inactive
+M2173,CNC-Machine,2023-10-20,North,Active
+M2174,Laser Cutter,2024-09-04,South,Active
+M2175,Conveyor,2024-10-31,West,Inactive
+M2176,Welder,2022-11-11,East,Active
+M2177,Mixer,2024-05-27,North,Inactive
+M2178,Press,2023-06-23,West,Active
+M2179,Grinder,2024-12-18,South,Inactive
+M2180,3D Print,2025-04-12,West,Active
+M2181,Grinder,2022-11-30,South,Inactive
+M2182,Compressor,2025-02-09,West,Inactive
+M2183,Furnace,2022-09-17,West,Active
+M2184,Conveyor,2022-12-20,North,Active
+M2185,Pump,2022-10-10,East,Active
+M2186,Compressor,2024-11-28,West,Inactive
+M2187,3D Print,2024-12-09,South,Active
+M2188,Compressor,2023-10-20,South,Active
+M2189,Furnace,2024-04-17,South,Active
+M2190,3D Print,2022-10-24,East,Active
+M2191,Press,2025-07-03,South,Active
+M2192,Furnace,2022-12-14,North,Inactive
+M2193,Packaging Unit,2025-01-25,North,Active
+M2194,Pump,2025-02-17,East,Active
+M2195,CNC-Machine,2022-10-25,North,Active
+M2196,Conveyor,2023-07-21,East,Inactive
+M2197,Grinder,2023-07-12,East,Inactive
+M2198,Mixer,2023-05-25,South,Active
+M2199,Grinder,2022-10-28,West,Inactive
+M2200,Furnace,2023-06-20,South,Inactive
+M2201,Mixer,2022-09-26,North,Inactive
+M2202,Compressor,2023-03-01,East,Inactive
+M2203,Lathe,2025-01-03,East,Inactive
+M2204,CNC-Machine,2024-12-16,North,Active
+M2205,Lathe,2023-03-07,South,Inactive
+M2206,Laser Cutter,2023-09-02,North,Inactive
+M2207,Grinder,2022-11-21,South,Active
+M2208,Press,2023-10-05,South,Active
+M2209,Grinder,2024-09-20,East,Inactive
+M2210,3D Print,2024-03-18,West,Active
+M2211,Welder,2022-12-12,South,Active
+M2212,3D Print,2022-08-09,East,Active
+M2213,Packaging Unit,2023-08-31,South,Inactive
+M2214,Drill,2024-07-11,North,Inactive
+M2215,Welder,2023-06-06,North,Inactive
+M2216,Compressor,2022-07-31,South,Active
+M2217,Mixer,2024-10-01,North,Inactive
+M2218,Laser Cutter,2024-04-13,West,Inactive
+M2219,Laser Cutter,2023-02-14,South,Active
+M2220,Furnace,2022-07-18,West,Active
+M2221,Mixer,2024-11-22,South,Inactive
+M2222,Pump,2025-07-15,East,Active
+M2223,Drill,2024-03-03,South,Inactive
+M2224,Lathe,2024-05-31,West,Inactive
+M2225,Welder,2023-05-10,North,Active
+M2226,Packaging Unit,2025-01-29,West,Active
+M2227,Drill,2022-09-23,South,Active
+M2228,Compressor,2023-06-05,East,Inactive
+M2229,3D Print,2025-02-05,West,Inactive
+M2230,Packaging Unit,2023-12-15,South,Inactive
+M2231,Grinder,2025-06-14,South,Active
+M2232,Pump,2022-10-01,West,Active
+M2233,CNC-Machine,2022-08-11,East,Inactive
+M2234,3D Print,2023-03-02,South,Active
+M2235,3D Print,2023-09-23,North,Inactive
+M2236,Furnace,2023-07-30,North,Inactive
+M2237,Laser Cutter,2023-09-29,East,Inactive
+M2238,Compressor,2022-09-26,West,Inactive
+M2239,Furnace,2023-04-12,South,Inactive
+M2240,Pump,2023-03-29,East,Active
+M2241,Drill,2024-04-28,South,Active
+M2242,Laser Cutter,2024-07-24,South,Active
+M2243,Press,2023-06-28,West,Active
+M2244,CNC-Machine,2025-03-11,South,Active
+M2245,Grinder,2023-06-04,West,Active
+M2246,Press,2023-05-30,East,Inactive
+M2247,3D Print,2023-03-27,South,Inactive
+M2248,3D Print,2024-09-04,South,Active
+M2249,Pump,2025-06-29,West,Inactive
+M2250,Pump,2025-01-18,North,Inactive
+M2251,Compressor,2024-07-03,East,Inactive
+M2252,Pump,2023-07-04,South,Inactive
+M2253,Press,2022-07-22,South,Active
+M2254,Drill,2025-01-07,North,Active
+M2255,Conveyor,2023-07-18,West,Inactive
+M2256,3D Print,2022-08-24,West,Inactive
+M2257,Welder,2023-04-19,North,Active
+M2258,Press,2024-05-14,West,Active
+M2259,Pump,2025-06-30,West,Inactive
+M2260,Mixer,2022-07-28,South,Active
+M2261,Furnace,2022-09-25,East,Inactive
+M2262,CNC-Machine,2023-08-24,East,Inactive
+M2263,Laser Cutter,2024-01-13,West,Active
+M2264,Welder,2024-05-18,North,Inactive
+M2265,Grinder,2025-04-01,North,Inactive
+M2266,Compressor,2022-08-18,North,Active
+M2267,Laser Cutter,2024-12-27,East,Active
+M2268,CNC-Machine,2023-05-02,West,Inactive
+M2269,Drill,2023-03-12,East,Active
+M2270,Conveyor,2023-07-30,West,Inactive
+M2271,Furnace,2023-11-01,East,Active
+M2272,Pump,2023-10-24,West,Inactive
+M2273,3D Print,2023-01-07,South,Inactive
+M2274,Furnace,2024-12-20,North,Inactive
+M2275,Drill,2024-02-04,West,Inactive
+M2276,Pump,2025-06-06,North,Active
+M2277,3D Print,2024-04-07,South,Active
+M2278,Compressor,2023-05-29,East,Inactive
+M2279,Mixer,2023-10-07,West,Inactive
+M2280,Pump,2024-06-26,East,Active
+M2281,Welder,2025-04-01,North,Active
+M2282,Press,2023-08-02,South,Active
+M2283,Packaging Unit,2024-07-10,East,Inactive
+M2284,Furnace,2023-03-15,East,Active
+M2285,3D Print,2024-09-14,North,Inactive
+M2286,Mixer,2024-09-03,North,Inactive
+M2287,Lathe,2024-08-05,South,Active
+M2288,Lathe,2023-02-01,South,Active
+M2289,3D Print,2022-12-13,South,Active
+M2290,Grinder,2022-07-20,North,Inactive
+M2291,Mixer,2023-01-23,East,Active
+M2292,Welder,2024-07-05,West,Active
+M2293,Welder,2024-01-25,East,Inactive
+M2294,CNC-Machine,2024-04-01,South,Active
+M2295,Compressor,2025-02-08,West,Inactive
+M2296,Lathe,2025-02-17,East,Inactive
+M2297,Drill,2025-02-05,West,Inactive
+M2298,Press,2024-02-17,North,Active
+M2299,Conveyor,2023-12-07,East,Active
+M2300,Packaging Unit,2023-11-21,West,Inactive
+M2301,Furnace,2024-04-28,North,Inactive
+M2302,Welder,2025-04-20,East,Active
+M2303,CNC-Machine,2024-01-03,North,Active
+M2304,CNC-Machine,2024-08-30,East,Active
+M2305,Press,2023-04-06,West,Inactive
+M2306,Lathe,2024-05-26,North,Active
+M2307,Welder,2022-10-04,East,Active
+M2308,Conveyor,2024-10-03,West,Active
+M2309,Pump,2025-03-18,East,Active
+M2310,Drill,2024-04-15,South,Active
+M2311,Welder,2022-09-07,East,Inactive
+M2312,Grinder,2022-10-06,West,Active
+M2313,Welder,2024-08-23,South,Inactive
+M2314,Mixer,2025-01-12,North,Inactive
+M2315,Welder,2025-03-01,West,Active
+M2316,Pump,2023-09-04,West,Active
+M2317,Press,2024-01-29,North,Active
+M2318,Furnace,2024-06-23,North,Inactive
+M2319,Laser Cutter,2023-07-27,North,Inactive
+M2320,Furnace,2023-07-04,North,Inactive
+M2321,3D Print,2025-01-20,West,Inactive
+M2322,Press,2023-02-03,East,Inactive
+M2323,Grinder,2022-08-30,West,Active
+M2324,Pump,2024-04-23,West,Active
+M2325,Packaging Unit,2023-11-07,South,Active
+M2326,CNC-Machine,2023-08-09,West,Active
+M2327,Laser Cutter,2023-04-30,East,Active
+M2328,3D Print,2023-08-24,West,Inactive
+M2329,Grinder,2024-05-13,East,Active
+M2330,Press,2025-05-21,South,Inactive
+M2331,Conveyor,2022-09-12,South,Inactive
+M2332,Press,2025-03-09,East,Inactive
+M2333,Conveyor,2024-07-17,West,Active
+M2334,Conveyor,2022-07-17,East,Active
+M2335,Conveyor,2023-10-02,West,Active
+M2336,3D Print,2025-03-18,West,Active
+M2337,Furnace,2025-04-22,South,Active
+M2338,Lathe,2024-12-19,North,Inactive
+M2339,Packaging Unit,2022-12-17,North,Active
+M2340,Drill,2022-08-12,East,Active
+M2341,Welder,2025-01-11,East,Active
+M2342,Drill,2024-09-26,South,Active
+M2343,Drill,2024-07-30,South,Active
+M2344,3D Print,2023-09-13,South,Inactive
+M2345,Press,2022-11-30,South,Inactive
+M2346,3D Print,2024-11-28,West,Inactive
+M2347,Pump,2024-01-17,North,Inactive
+M2348,Press,2023-05-02,North,Active
+M2349,Pump,2025-06-02,East,Inactive
+M2350,Mixer,2024-01-01,South,Inactive
+M2351,Grinder,2023-11-03,West,Active
+M2352,Compressor,2024-07-20,West,Active
+M2353,Mixer,2024-03-13,South,Active
+M2354,Press,2022-07-17,South,Active
+M2355,Welder,2023-04-26,South,Active
+M2356,Drill,2024-05-07,North,Inactive
+M2357,Mixer,2023-04-29,East,Active
+M2358,Furnace,2025-05-26,North,Inactive
+M2359,Furnace,2023-12-04,South,Active
+M2360,Welder,2022-12-03,South,Active
+M2361,Pump,2023-01-31,West,Inactive
+M2362,Furnace,2024-07-15,South,Active
+M2363,Lathe,2024-10-29,West,Active
+M2364,Compressor,2025-02-02,East,Active
+M2365,Laser Cutter,2022-10-06,West,Active
+M2366,Mixer,2023-01-14,East,Active
+M2367,Conveyor,2022-12-09,West,Active
+M2368,Grinder,2025-06-17,North,Active
+M2369,Conveyor,2024-03-16,East,Inactive
+M2370,Pump,2023-11-07,South,Inactive
+M2371,3D Print,2022-12-26,South,Inactive
+M2372,CNC-Machine,2022-10-25,South,Active
+M2373,Furnace,2022-10-06,North,Inactive
+M2374,Pump,2023-04-17,East,Inactive
+M2375,Grinder,2024-07-30,South,Inactive
+M2376,3D Print,2024-05-19,East,Inactive
+M2377,Drill,2024-10-19,West,Active
+M2378,Press,2023-04-17,North,Active
+M2379,CNC-Machine,2023-06-10,West,Inactive
+M2380,Mixer,2024-05-17,East,Active
+M2381,Packaging Unit,2023-08-05,East,Active
+M2382,Packaging Unit,2025-05-10,North,Active
+M2383,CNC-Machine,2023-12-05,West,Active
+M2384,Compressor,2023-04-15,East,Active
+M2385,Packaging Unit,2024-05-23,East,Active
+M2386,Lathe,2023-06-17,North,Inactive
+M2387,Compressor,2025-01-26,East,Active
+M2388,Packaging Unit,2023-12-28,North,Active
+M2389,CNC-Machine,2024-02-15,North,Active
+M2390,Pump,2024-05-24,South,Active
+M2391,Press,2023-04-13,South,Inactive
+M2392,Compressor,2025-05-15,North,Inactive
+M2393,Press,2022-07-28,West,Inactive
+M2394,Grinder,2023-10-31,East,Active
+M2395,Grinder,2022-09-06,West,Inactive
+M2396,Laser Cutter,2023-11-28,East,Inactive
+M2397,Compressor,2025-07-08,North,Active
+M2398,Mixer,2022-08-20,East,Active
+M2399,Press,2024-07-07,East,Inactive
+M2400,Lathe,2022-11-04,West,Inactive
+M2401,Compressor,2022-12-02,South,Inactive
+M2402,Press,2024-09-25,North,Active
+M2403,Furnace,2025-03-19,West,Inactive
+M2404,Packaging Unit,2022-09-09,East,Active
+M2405,Drill,2024-10-31,South,Active
+M2406,3D Print,2024-06-15,South,Inactive
+M2407,Grinder,2024-05-27,West,Active
+M2408,Grinder,2024-09-12,South,Active
+M2409,Laser Cutter,2025-05-14,West,Inactive
+M2410,Welder,2022-07-31,West,Active
+M2411,Pump,2024-06-13,North,Active
+M2412,Pump,2023-12-17,West,Active
+M2413,Packaging Unit,2023-06-17,South,Inactive
+M2414,Mixer,2025-03-28,West,Inactive
+M2415,Drill,2024-11-22,West,Inactive
+M2416,Pump,2024-07-18,East,Inactive
+M2417,Furnace,2024-06-03,East,Active
+M2418,Lathe,2022-08-08,South,Inactive
+M2419,Welder,2023-01-25,North,Inactive
+M2420,Press,2023-03-20,East,Active
+M2421,Laser Cutter,2022-08-06,North,Inactive
+M2422,Conveyor,2023-04-12,South,Inactive
+M2423,CNC-Machine,2024-11-10,North,Active
+M2424,CNC-Machine,2025-02-15,South,Inactive
+M2425,Conveyor,2024-11-30,East,Inactive
+M2426,3D Print,2025-05-30,South,Active
+M2427,Pump,2023-01-08,West,Inactive
+M2428,Packaging Unit,2024-11-29,East,Inactive
+M2429,Laser Cutter,2023-12-16,North,Active
+M2430,Packaging Unit,2023-11-23,East,Inactive
+M2431,Press,2024-04-14,East,Active
+M2432,Laser Cutter,2023-07-25,North,Inactive
+M2433,Laser Cutter,2024-01-08,North,Active
+M2434,CNC-Machine,2023-01-16,North,Inactive
+M2435,Compressor,2024-03-15,North,Inactive
+M2436,Drill,2023-03-28,East,Active
+M2437,Grinder,2024-08-17,West,Inactive
+M2438,Furnace,2023-03-25,South,Inactive
+M2439,Lathe,2025-06-27,South,Inactive
+M2440,Drill,2024-10-18,East,Inactive
+M2441,Furnace,2022-11-05,North,Inactive
+M2442,CNC-Machine,2023-02-27,West,Active
+M2443,Conveyor,2023-06-12,North,Active
+M2444,CNC-Machine,2025-05-19,West,Inactive
+M2445,Furnace,2025-02-14,South,Inactive
+M2446,3D Print,2023-08-10,North,Active
+M2447,Grinder,2025-03-14,West,Active
+M2448,Pump,2023-04-21,East,Inactive
+M2449,Welder,2022-10-23,West,Inactive
+M2450,Furnace,2025-06-23,South,Inactive
+M2451,Welder,2023-04-29,West,Active
+M2452,Compressor,2022-12-31,North,Active
+M2453,Conveyor,2023-09-17,South,Active
+M2454,Furnace,2025-04-02,South,Inactive
+M2455,Drill,2023-08-18,South,Inactive
+M2456,Pump,2022-10-16,West,Active
+M2457,Press,2025-01-30,East,Inactive
+M2458,Furnace,2024-05-18,North,Active
+M2459,Grinder,2023-01-11,East,Inactive
+M2460,Drill,2024-01-18,West,Inactive
+M2461,3D Print,2025-02-18,North,Active
+M2462,Laser Cutter,2023-07-23,East,Active
+M2463,Press,2024-02-07,West,Inactive
+M2464,Mixer,2023-05-05,West,Inactive
+M2465,Furnace,2022-10-19,East,Active
+M2466,Welder,2024-07-08,West,Inactive
+M2467,CNC-Machine,2024-10-24,East,Inactive
+M2468,3D Print,2025-06-29,South,Inactive
+M2469,Conveyor,2022-11-30,North,Inactive
+M2470,Lathe,2024-07-21,South,Active
+M2471,Furnace,2023-04-08,West,Inactive
+M2472,Packaging Unit,2023-11-06,East,Inactive
+M2473,Packaging Unit,2022-12-17,North,Active
+M2474,Packaging Unit,2025-04-07,East,Inactive
+M2475,Welder,2022-09-26,North,Inactive
+M2476,Compressor,2024-11-28,West,Inactive
+M2477,Drill,2022-09-11,North,Inactive
+M2478,Mixer,2022-09-06,East,Active
+M2479,Drill,2023-06-16,North,Active
+M2480,Grinder,2022-10-02,East,Inactive
+M2481,Welder,2024-03-22,South,Inactive
+M2482,Furnace,2023-05-29,West,Active
+M2483,Press,2025-04-11,West,Inactive
+M2484,Welder,2024-11-29,East,Inactive
+M2485,Laser Cutter,2024-03-19,East,Inactive
+M2486,Lathe,2023-01-17,East,Active
+M2487,Press,2025-03-29,East,Active
+M2488,Packaging Unit,2024-03-23,South,Active
+M2489,3D Print,2024-05-23,West,Inactive
+M2490,Press,2024-09-08,South,Active
+M2491,Lathe,2024-05-28,South,Active
+M2492,Lathe,2025-05-12,East,Inactive
+M2493,Laser Cutter,2022-12-14,East,Active
+M2494,Compressor,2023-06-04,North,Active
+M2495,Packaging Unit,2024-11-14,East,Inactive
+M2496,Lathe,2023-05-17,South,Inactive
+M2497,Laser Cutter,2023-02-14,North,Inactive
+M2498,Pump,2025-06-10,East,Inactive
+M2499,Welder,2024-04-19,West,Inactive
+M2500,Conveyor,2025-06-22,East,Inactive
+M2501,Pump,2022-11-24,South,Active
+M2502,Conveyor,2024-12-31,East,Active
+M2503,Welder,2025-06-07,South,Inactive
+M2504,Grinder,2023-11-26,East,Active
+M2505,Compressor,2022-12-26,North,Active
+M2506,Packaging Unit,2022-11-15,South,Active
+M2507,Conveyor,2025-04-05,North,Active
+M2508,3D Print,2023-06-12,South,Active
+M2509,Drill,2023-06-04,South,Inactive
+M2510,Furnace,2025-01-29,South,Inactive
+M2511,Laser Cutter,2025-05-21,North,Inactive
+M2512,Grinder,2024-04-23,West,Active
+M2513,Compressor,2023-07-30,West,Active
+M2514,Grinder,2025-05-28,North,Inactive
+M2515,Laser Cutter,2024-03-05,South,Inactive
+M2516,Drill,2025-01-08,South,Active
+M2517,Grinder,2023-07-16,East,Active
+M2518,Press,2024-10-30,West,Inactive
+M2519,Drill,2023-12-20,West,Inactive
+M2520,Press,2023-12-04,North,Active
+M2521,3D Print,2023-09-07,East,Inactive
+M2522,Conveyor,2024-02-11,North,Inactive
+M2523,CNC-Machine,2024-01-11,North,Active
+M2524,Furnace,2024-10-30,North,Inactive
+M2525,Mixer,2025-01-13,West,Active
+M2526,Press,2022-08-28,West,Active
+M2527,Pump,2025-05-29,North,Inactive
+M2528,Drill,2022-12-11,North,Inactive
+M2529,Mixer,2023-04-21,East,Inactive
+M2530,Drill,2024-05-08,West,Active
+M2531,Pump,2025-04-07,East,Inactive
+M2532,Mixer,2023-11-17,South,Inactive
+M2533,Lathe,2024-12-11,South,Inactive
+M2534,Welder,2022-11-03,North,Active
+M2535,Drill,2024-12-15,South,Active
+M2536,Mixer,2024-06-22,South,Inactive
+M2537,Pump,2025-05-04,South,Active
+M2538,Pump,2024-05-29,East,Active
+M2539,Grinder,2023-05-14,East,Active
+M2540,3D Print,2022-10-22,East,Active
+M2541,Furnace,2022-08-04,South,Inactive
+M2542,Furnace,2023-03-09,West,Active
+M2543,CNC-Machine,2022-12-06,East,Inactive
+M2544,Drill,2023-08-02,East,Active
+M2545,Laser Cutter,2023-09-05,North,Inactive
+M2546,Lathe,2023-02-04,North,Active
+M2547,Furnace,2024-03-08,South,Active
+M2548,Mixer,2023-04-13,North,Inactive
+M2549,Drill,2022-09-23,West,Inactive
+M2550,Compressor,2024-10-16,North,Active
+M2551,Furnace,2023-02-05,South,Active
+M2552,Lathe,2023-06-26,South,Inactive
+M2553,Welder,2024-09-15,North,Active
+M2554,Laser Cutter,2025-05-30,South,Active
+M2555,Lathe,2023-04-15,North,Active
+M2556,Mixer,2025-04-26,South,Active
+M2557,Press,2025-03-20,West,Inactive
+M2558,Furnace,2023-12-05,West,Active
+M2559,Drill,2022-10-09,West,Active
+M2560,CNC-Machine,2024-09-16,East,Inactive
+M2561,Packaging Unit,2023-10-06,West,Inactive
+M2562,Welder,2023-09-26,South,Inactive
+M2563,Lathe,2024-08-10,South,Active
+M2564,CNC-Machine,2023-04-21,North,Inactive
+M2565,Conveyor,2024-12-25,North,Inactive
+M2566,CNC-Machine,2025-06-12,East,Inactive
+M2567,Mixer,2023-05-31,East,Active
+M2568,Pump,2022-12-31,North,Active
+M2569,Furnace,2024-10-31,North,Active
+M2570,Press,2025-06-05,North,Inactive
+M2571,Press,2022-10-08,East,Active
+M2572,Laser Cutter,2022-10-01,North,Inactive
+M2573,Press,2024-01-24,East,Active
+M2574,Drill,2023-12-09,East,Inactive
+M2575,Welder,2025-06-03,West,Active
+M2576,Grinder,2022-12-06,South,Inactive
+M2577,Packaging Unit,2025-07-08,West,Active
+M2578,Mixer,2023-01-29,North,Inactive
+M2579,Compressor,2022-12-05,South,Inactive
+M2580,Pump,2024-05-14,South,Active
+M2581,Lathe,2022-10-31,North,Active
+M2582,Grinder,2025-06-14,South,Inactive
+M2583,CNC-Machine,2022-11-25,East,Inactive
+M2584,CNC-Machine,2023-04-04,West,Inactive
+M2585,3D Print,2024-10-05,East,Active
+M2586,Packaging Unit,2024-10-20,North,Inactive
+M2587,Welder,2022-12-31,East,Active
+M2588,Press,2024-01-30,East,Active
+M2589,Pump,2022-12-28,South,Active
+M2590,Mixer,2024-01-19,North,Inactive
+M2591,Conveyor,2023-02-28,East,Active
+M2592,Furnace,2025-03-15,North,Inactive
+M2593,Laser Cutter,2024-12-05,South,Inactive
+M2594,Packaging Unit,2024-05-14,North,Active
+M2595,Pump,2025-04-08,West,Active
+M2596,Furnace,2024-03-17,East,Active
+M2597,Welder,2023-10-11,East,Active
+M2598,CNC-Machine,2023-01-06,West,Active
+M2599,Press,2023-02-20,East,Inactive
+M2600,Lathe,2023-07-23,South,Active
+M2601,Furnace,2024-12-29,West,Active
+M2602,CNC-Machine,2023-01-29,North,Inactive
+M2603,Drill,2023-03-29,East,Active
+M2604,Packaging Unit,2025-01-02,West,Active
+M2605,Mixer,2024-12-17,South,Active
+M2606,Laser Cutter,2024-09-29,South,Inactive
+M2607,Laser Cutter,2024-09-02,North,Inactive
+M2608,Conveyor,2022-11-17,West,Inactive
+M2609,Conveyor,2024-04-13,South,Active
+M2610,Mixer,2025-02-21,North,Active
+M2611,Lathe,2024-10-02,North,Inactive
+M2612,CNC-Machine,2025-02-28,South,Inactive
+M2613,Packaging Unit,2024-08-21,West,Inactive
+M2614,Mixer,2023-05-11,South,Active
+M2615,Press,2024-06-07,South,Active
+M2616,CNC-Machine,2025-01-17,South,Inactive
+M2617,Mixer,2025-06-01,South,Inactive
+M2618,Conveyor,2024-09-05,South,Inactive
+M2619,3D Print,2024-09-07,West,Inactive
+M2620,Packaging Unit,2024-11-06,North,Active
+M2621,Mixer,2024-04-20,South,Active
+M2622,Mixer,2024-06-26,South,Inactive
+M2623,Drill,2023-04-25,West,Inactive
+M2624,Lathe,2024-06-24,North,Inactive
+M2625,CNC-Machine,2025-02-04,East,Inactive
+M2626,Lathe,2024-10-16,East,Active
+M2627,Press,2024-11-09,West,Active
+M2628,Welder,2023-04-26,South,Inactive
+M2629,Compressor,2023-03-04,West,Active
+M2630,Welder,2022-09-22,East,Active
+M2631,Conveyor,2025-02-18,South,Active
+M2632,Conveyor,2023-01-21,West,Inactive
+M2633,Packaging Unit,2022-09-09,West,Active
+M2634,3D Print,2023-06-11,South,Active
+M2635,Press,2024-04-06,East,Inactive
+M2636,Laser Cutter,2024-03-10,North,Inactive
+M2637,Conveyor,2023-10-14,North,Inactive
+M2638,Packaging Unit,2023-10-11,West,Inactive
+M2639,Furnace,2024-06-16,East,Inactive
+M2640,Compressor,2024-01-31,North,Active
+M2641,Compressor,2025-03-15,West,Active
+M2642,Conveyor,2023-09-28,East,Inactive
+M2643,Mixer,2022-10-26,North,Inactive
+M2644,3D Print,2025-05-16,North,Inactive
+M2645,Welder,2025-01-03,West,Active
+M2646,Pump,2025-07-15,South,Active
+M2647,Lathe,2024-08-21,East,Active
+M2648,Grinder,2022-09-17,East,Inactive
+M2649,Welder,2024-10-14,North,Active
+M2650,Conveyor,2024-02-02,West,Inactive
+M2651,Furnace,2024-12-02,North,Inactive
+M2652,Laser Cutter,2024-01-23,West,Inactive
+M2653,Lathe,2023-08-11,North,Inactive
+M2654,Furnace,2023-08-30,West,Active
+M2655,Pump,2024-09-05,South,Inactive
+M2656,Pump,2023-02-11,West,Inactive
+M2657,Laser Cutter,2023-04-13,South,Inactive
+M2658,Drill,2024-11-10,North,Inactive
+M2659,Furnace,2024-04-09,South,Active
+M2660,Lathe,2023-11-12,North,Inactive
+M2661,CNC-Machine,2023-04-29,East,Inactive
+M2662,CNC-Machine,2024-01-26,West,Active
+M2663,Packaging Unit,2023-07-11,South,Active
+M2664,3D Print,2025-01-11,North,Inactive
+M2665,Lathe,2024-12-21,South,Active
+M2666,3D Print,2023-11-06,East,Active
+M2667,Grinder,2025-05-25,East,Inactive
+M2668,Lathe,2025-02-13,North,Active
+M2669,Grinder,2025-07-02,East,Inactive
+M2670,3D Print,2024-03-13,South,Inactive
+M2671,3D Print,2024-10-16,South,Active
+M2672,Packaging Unit,2022-12-31,East,Inactive
+M2673,3D Print,2023-10-18,East,Active
+M2674,3D Print,2022-09-01,North,Active
+M2675,Conveyor,2024-11-28,West,Active
+M2676,Grinder,2023-05-08,North,Active
+M2677,Compressor,2022-07-30,East,Inactive
+M2678,Compressor,2025-06-01,West,Active
+M2679,Press,2023-11-13,North,Inactive
+M2680,CNC-Machine,2024-01-07,East,Active
+M2681,Conveyor,2024-07-04,North,Inactive
+M2682,Drill,2022-12-05,South,Inactive
+M2683,Packaging Unit,2023-11-13,North,Active
+M2684,Welder,2025-05-19,North,Inactive
+M2685,CNC-Machine,2023-07-29,South,Active
+M2686,Compressor,2023-07-23,North,Active
+M2687,Drill,2023-01-06,East,Active
+M2688,Lathe,2023-10-21,West,Inactive
+M2689,3D Print,2023-01-24,South,Active
+M2690,Conveyor,2023-09-23,East,Active
+M2691,Welder,2023-06-24,North,Inactive
+M2692,Laser Cutter,2024-08-09,East,Inactive
+M2693,Packaging Unit,2024-10-03,East,Active
+M2694,Packaging Unit,2024-08-14,East,Inactive
+M2695,Press,2024-05-17,South,Inactive
+M2696,Conveyor,2024-08-13,East,Inactive
+M2697,Packaging Unit,2024-03-24,West,Inactive
+M2698,Pump,2024-12-26,West,Active
+M2699,Drill,2024-06-25,West,Active
+M2700,Mixer,2024-02-21,South,Inactive
+M2701,Press,2023-11-06,West,Inactive
+M2702,Furnace,2024-05-08,North,Inactive
+M2703,Packaging Unit,2023-12-27,North,Active
+M2704,Pump,2024-06-11,North,Inactive
+M2705,Mixer,2025-03-15,West,Inactive
+M2706,Lathe,2022-10-31,North,Active
+M2707,3D Print,2023-11-17,South,Active
+M2708,Press,2022-11-06,South,Active
+M2709,Conveyor,2023-07-31,North,Inactive
+M2710,Compressor,2022-09-25,North,Inactive
+M2711,Compressor,2023-12-26,South,Inactive
+M2712,Laser Cutter,2024-06-24,South,Active
+M2713,3D Print,2024-09-09,East,Active
+M2714,Furnace,2024-02-03,East,Active
+M2715,Compressor,2023-01-21,South,Inactive
+M2716,Furnace,2024-05-28,East,Inactive
+M2717,Lathe,2023-08-26,North,Active
+M2718,CNC-Machine,2023-05-12,North,Active
+M2719,CNC-Machine,2025-02-08,West,Active
+M2720,Mixer,2025-06-23,East,Inactive
+M2721,Pump,2023-04-22,East,Active
+M2722,Press,2024-12-13,East,Active
+M2723,Mixer,2024-04-27,North,Inactive
+M2724,Compressor,2023-11-27,West,Inactive
+M2725,Pump,2023-01-12,East,Inactive
+M2726,Welder,2025-01-28,North,Inactive
+M2727,Compressor,2024-04-04,West,Active
+M2728,Conveyor,2022-10-28,South,Inactive
+M2729,Lathe,2023-01-30,East,Active
+M2730,Welder,2022-08-23,West,Active
+M2731,Drill,2025-07-07,South,Active
+M2732,Pump,2024-03-12,East,Active
+M2733,CNC-Machine,2023-04-15,North,Active
+M2734,Grinder,2023-06-22,East,Inactive
+M2735,Drill,2023-03-08,North,Active
+M2736,Furnace,2025-07-15,East,Active
+M2737,Pump,2025-02-07,South,Active
+M2738,Grinder,2024-03-26,North,Active
+M2739,Press,2024-12-05,South,Inactive
+M2740,Welder,2022-12-26,West,Active
+M2741,Lathe,2024-02-01,East,Active
+M2742,Laser Cutter,2024-11-05,East,Inactive
+M2743,Pump,2023-06-02,South,Active
+M2744,Welder,2023-06-10,South,Active
+M2745,Packaging Unit,2024-12-14,East,Active
+M2746,CNC-Machine,2023-10-05,West,Active
+M2747,Grinder,2024-07-05,North,Inactive
+M2748,Furnace,2024-07-07,East,Inactive
+M2749,Press,2024-06-01,South,Active
+M2750,Conveyor,2022-12-14,West,Inactive
+M2751,Pump,2023-04-01,West,Inactive
+M2752,Mixer,2023-09-26,North,Inactive
+M2753,Welder,2023-06-25,North,Active
+M2754,Laser Cutter,2023-07-02,South,Active
+M2755,Press,2025-05-13,South,Active
+M2756,CNC-Machine,2023-10-18,West,Inactive
+M2757,Laser Cutter,2023-07-18,South,Active
+M2758,Mixer,2025-03-03,North,Inactive
+M2759,Packaging Unit,2025-03-09,North,Inactive
+M2760,Packaging Unit,2023-03-10,West,Active
+M2761,Compressor,2023-12-13,East,Inactive
+M2762,Mixer,2024-01-27,North,Active
+M2763,Welder,2023-11-23,North,Inactive
+M2764,Lathe,2023-04-05,South,Active
+M2765,Compressor,2025-04-03,West,Active
+M2766,Lathe,2024-07-09,North,Active
+M2767,Grinder,2022-08-15,East,Active
+M2768,Lathe,2024-02-28,West,Active
+M2769,Mixer,2025-05-08,North,Active
+M2770,CNC-Machine,2024-04-03,West,Inactive
+M2771,Press,2024-09-16,North,Inactive
+M2772,Press,2023-03-09,North,Inactive
+M2773,Packaging Unit,2023-06-22,South,Active
+M2774,Lathe,2023-12-19,West,Active
+M2775,Packaging Unit,2022-08-22,East,Inactive
+M2776,Packaging Unit,2024-01-19,East,Active
+M2777,Lathe,2024-11-08,South,Active
+M2778,CNC-Machine,2024-02-05,North,Inactive
+M2779,Furnace,2023-09-03,East,Active
+M2780,3D Print,2025-01-01,North,Inactive
+M2781,Laser Cutter,2023-06-18,East,Inactive
+M2782,Conveyor,2023-03-18,South,Inactive
+M2783,Compressor,2022-08-07,West,Active
+M2784,Conveyor,2024-10-18,East,Inactive
+M2785,Furnace,2024-08-28,East,Inactive
+M2786,Compressor,2023-03-05,East,Inactive
+M2787,Mixer,2025-06-06,North,Active
+M2788,Pump,2025-01-22,East,Active
+M2789,Lathe,2024-05-25,West,Inactive
+M2790,Pump,2025-01-09,West,Active
+M2791,Laser Cutter,2023-02-07,West,Active
+M2792,CNC-Machine,2024-12-14,West,Inactive
+M2793,Mixer,2024-04-06,West,Active
+M2794,Press,2023-05-13,South,Inactive
+M2795,Grinder,2024-01-13,East,Active
+M2796,Pump,2024-03-25,West,Inactive
+M2797,Press,2024-04-26,West,Active
+M2798,Packaging Unit,2023-08-01,South,Active
+M2799,Pump,2022-09-26,North,Inactive
+M2800,Packaging Unit,2022-12-06,North,Inactive
+M2801,Press,2025-06-21,West,Inactive
+M2802,Conveyor,2023-04-19,North,Inactive
+M2803,Laser Cutter,2025-04-28,North,Active
+M2804,3D Print,2025-05-04,East,Inactive
+M2805,Compressor,2023-06-28,South,Active
+M2806,3D Print,2022-12-02,East,Active
+M2807,Packaging Unit,2023-01-19,West,Active
+M2808,Lathe,2022-10-18,East,Inactive
+M2809,Mixer,2024-06-11,East,Inactive
+M2810,3D Print,2022-08-12,East,Active
+M2811,3D Print,2025-01-31,East,Active
+M2812,Laser Cutter,2024-07-25,North,Inactive
+M2813,Furnace,2025-01-26,West,Inactive
+M2814,Compressor,2022-12-29,East,Inactive
+M2815,Press,2024-07-29,East,Active
+M2816,Welder,2023-02-11,South,Active
+M2817,Furnace,2025-04-12,East,Inactive
+M2818,Packaging Unit,2024-09-29,South,Active
+M2819,CNC-Machine,2024-09-10,East,Inactive
+M2820,Welder,2022-08-09,East,Active
+M2821,Packaging Unit,2024-06-01,South,Inactive
+M2822,Press,2025-05-07,West,Inactive
+M2823,Grinder,2023-01-03,South,Inactive
+M2824,Grinder,2022-12-19,South,Active
+M2825,Packaging Unit,2024-06-12,South,Active
+M2826,Compressor,2024-04-25,South,Inactive
+M2827,Lathe,2023-08-19,North,Inactive
+M2828,Mixer,2024-01-15,West,Active
+M2829,Press,2022-12-05,East,Active
+M2830,Packaging Unit,2023-07-02,West,Inactive
+M2831,Press,2025-06-18,East,Active
+M2832,Welder,2022-10-08,South,Inactive
+M2833,Furnace,2023-03-24,West,Inactive
+M2834,Drill,2022-10-19,South,Inactive
+M2835,Drill,2024-05-24,East,Active
+M2836,Furnace,2024-05-16,East,Inactive
+M2837,Mixer,2023-10-23,West,Active
+M2838,Press,2024-01-27,South,Inactive
+M2839,Welder,2022-11-07,North,Inactive
+M2840,Press,2022-09-01,South,Inactive
+M2841,Welder,2023-03-28,South,Active
+M2842,Conveyor,2023-11-04,North,Inactive
+M2843,Drill,2022-07-31,East,Active
+M2844,Pump,2025-02-27,South,Active
+M2845,Compressor,2023-03-26,North,Active
+M2846,CNC-Machine,2023-10-18,West,Active
+M2847,Press,2023-01-17,North,Active
+M2848,Drill,2024-04-02,North,Active
+M2849,Pump,2023-07-03,South,Inactive
+M2850,CNC-Machine,2022-08-03,North,Active
+M2851,Packaging Unit,2025-02-19,North,Inactive
+M2852,Lathe,2025-05-25,North,Active
+M2853,Conveyor,2025-06-02,West,Inactive
+M2854,Mixer,2023-07-31,North,Active
+M2855,Drill,2022-07-17,West,Inactive
+M2856,3D Print,2023-11-19,North,Active
+M2857,Press,2024-06-02,North,Active
+M2858,Drill,2022-09-08,North,Active
+M2859,Packaging Unit,2024-10-14,South,Inactive
+M2860,Drill,2023-10-04,West,Inactive
+M2861,Compressor,2023-11-25,North,Inactive
+M2862,Lathe,2024-10-25,West,Active
+M2863,Drill,2025-06-26,West,Active
+M2864,3D Print,2023-09-05,East,Active
+M2865,Lathe,2022-12-03,East,Inactive
+M2866,Pump,2024-06-20,West,Active
+M2867,Conveyor,2023-10-14,West,Inactive
+M2868,Press,2024-08-04,South,Inactive
+M2869,Compressor,2022-10-15,North,Inactive
+M2870,Pump,2022-07-24,North,Inactive
+M2871,Drill,2024-09-21,East,Active
+M2872,Compressor,2025-06-01,South,Active
+M2873,Mixer,2024-09-02,West,Inactive
+M2874,CNC-Machine,2022-08-26,West,Active
+M2875,Drill,2022-08-24,North,Active
+M2876,Mixer,2023-06-28,South,Inactive
+M2877,Packaging Unit,2023-05-16,West,Inactive
+M2878,Press,2024-08-17,East,Active
+M2879,CNC-Machine,2024-02-16,East,Active
+M2880,Pump,2025-01-12,East,Active
+M2881,Grinder,2024-06-09,South,Active
+M2882,Grinder,2024-01-03,North,Active
+M2883,CNC-Machine,2023-10-30,South,Inactive
+M2884,Lathe,2022-11-15,South,Inactive
+M2885,Furnace,2024-09-11,West,Active
+M2886,Press,2023-04-15,East,Active
+M2887,Laser Cutter,2024-01-30,North,Inactive
+M2888,Compressor,2025-04-01,West,Inactive
+M2889,Laser Cutter,2024-08-14,West,Inactive
+M2890,Laser Cutter,2023-07-11,South,Active
+M2891,Pump,2022-08-28,East,Inactive
+M2892,Drill,2022-10-27,West,Active
+M2893,Packaging Unit,2022-10-10,North,Inactive
+M2894,Conveyor,2024-09-12,West,Inactive
+M2895,3D Print,2023-03-18,East,Inactive
+M2896,CNC-Machine,2024-09-29,South,Inactive
+M2897,Grinder,2023-01-19,West,Inactive
+M2898,Mixer,2023-03-25,South,Inactive
+M2899,Packaging Unit,2024-01-24,North,Active
+M2900,Furnace,2025-04-13,East,Active
+M2901,Grinder,2025-05-22,West,Active
+M2902,CNC-Machine,2022-07-28,South,Inactive
+M2903,Compressor,2025-03-29,North,Inactive
+M2904,Conveyor,2024-11-25,North,Inactive
+M2905,Pump,2022-12-30,South,Active
+M2906,Grinder,2022-07-22,West,Active
+M2907,Laser Cutter,2024-03-21,North,Inactive
+M2908,Furnace,2023-03-08,West,Inactive
+M2909,Conveyor,2025-04-21,East,Active
+M2910,3D Print,2024-11-07,North,Active
+M2911,Pump,2025-03-10,South,Inactive
+M2912,CNC-Machine,2023-03-18,East,Inactive
+M2913,CNC-Machine,2023-12-20,East,Inactive
+M2914,Compressor,2022-10-10,East,Active
+M2915,3D Print,2023-12-24,South,Inactive
+M2916,Press,2024-09-20,West,Active
+M2917,Press,2024-11-08,North,Active
+M2918,Press,2024-01-14,East,Active
+M2919,Pump,2024-12-26,West,Active
+M2920,Drill,2025-01-08,West,Inactive
+M2921,Drill,2025-03-09,East,Active
+M2922,Mixer,2022-10-08,North,Active
+M2923,Furnace,2022-11-17,South,Active
+M2924,Pump,2025-05-07,West,Active
+M2925,CNC-Machine,2022-08-11,West,Active
+M2926,3D Print,2024-11-02,East,Inactive
+M2927,Furnace,2023-06-17,West,Active
+M2928,Mixer,2023-04-18,East,Inactive
+M2929,Mixer,2025-04-23,South,Inactive
+M2930,Lathe,2023-01-30,East,Active
+M2931,3D Print,2022-12-19,South,Active
+M2932,Press,2025-02-25,North,Inactive
+M2933,Compressor,2023-12-25,West,Inactive
+M2934,Packaging Unit,2025-06-12,North,Inactive
+M2935,Press,2024-10-24,West,Active
+M2936,Mixer,2023-04-03,South,Active
+M2937,Conveyor,2022-07-24,South,Inactive
+M2938,Grinder,2022-11-22,North,Active
+M2939,Furnace,2023-03-02,East,Inactive
+M2940,Packaging Unit,2023-12-09,West,Inactive
+M2941,3D Print,2023-05-19,South,Active
+M2942,Pump,2024-07-25,South,Active
+M2943,CNC-Machine,2023-12-17,South,Active
+M2944,Pump,2022-09-28,West,Active
+M2945,Grinder,2023-03-21,North,Inactive
+M2946,Furnace,2024-05-07,North,Inactive
+M2947,Compressor,2023-06-16,South,Inactive
+M2948,CNC-Machine,2023-06-14,East,Active
+M2949,Laser Cutter,2022-08-15,North,Active
+M2950,Laser Cutter,2024-07-05,West,Active
+M2951,Laser Cutter,2023-11-22,North,Active
+M2952,Laser Cutter,2023-06-24,West,Inactive
+M2953,3D Print,2025-04-14,South,Inactive
+M2954,Lathe,2024-04-13,North,Active
+M2955,Drill,2022-12-30,South,Inactive
+M2956,3D Print,2023-07-19,North,Inactive
+M2957,3D Print,2023-11-22,East,Inactive
+M2958,Grinder,2023-12-23,North,Inactive
+M2959,3D Print,2023-10-18,West,Active
+M2960,Laser Cutter,2022-10-25,South,Inactive
+M2961,3D Print,2022-10-27,South,Active
+M2962,Welder,2024-03-15,North,Inactive
+M2963,Pump,2023-06-01,East,Active
+M2964,Grinder,2023-11-08,North,Active
+M2965,Grinder,2024-01-15,West,Active
+M2966,Pump,2025-07-01,South,Active
+M2967,Packaging Unit,2024-09-22,North,Active
+M2968,CNC-Machine,2024-02-21,North,Active
+M2969,Drill,2024-02-19,South,Inactive
+M2970,Grinder,2022-10-18,North,Inactive
+M2971,Grinder,2024-01-10,North,Active
+M2972,Grinder,2023-04-22,South,Active
+M2973,Compressor,2024-06-13,West,Inactive
+M2974,Welder,2023-04-11,South,Active
+M2975,Packaging Unit,2025-05-18,West,Active
+M2976,Conveyor,2025-04-18,East,Inactive
+M2977,Grinder,2025-01-09,North,Inactive
+M2978,Compressor,2025-05-15,West,Active
+M2979,Drill,2022-09-01,West,Inactive
+M2980,Conveyor,2025-06-15,North,Inactive
+M2981,Press,2024-07-30,South,Inactive
+M2982,Furnace,2023-06-20,West,Active
+M2983,Conveyor,2024-09-13,East,Inactive
+M2984,Packaging Unit,2024-07-15,South,Inactive
+M2985,Lathe,2025-02-11,South,Active
+M2986,Grinder,2023-08-18,West,Inactive
+M2987,CNC-Machine,2023-06-13,South,Inactive
+M2988,Welder,2025-05-09,North,Active
+M2989,Conveyor,2023-08-27,West,Inactive
+M2990,3D Print,2022-10-05,West,Inactive
+M2991,Drill,2023-01-05,West,Inactive
+M2992,Lathe,2023-10-04,West,Active
+M2993,3D Print,2024-08-16,North,Inactive
+M2994,Lathe,2024-12-06,West,Active
+M2995,Grinder,2024-07-12,East,Inactive
+M2996,Conveyor,2025-01-08,West,Inactive
+M2997,Packaging Unit,2023-07-16,North,Inactive
+M2998,3D Print,2024-05-10,North,Active
+M2999,Laser Cutter,2022-12-31,South,Active
+M3000,Packaging Unit,2023-12-07,South,Active
+M3001,Press,2024-02-07,West,Inactive
+M3002,Compressor,2023-09-20,East,Inactive
+M3003,Pump,2025-03-13,West,Active
+M3004,Laser Cutter,2023-05-12,West,Inactive
+M3005,Mixer,2023-09-09,North,Inactive
+M3006,Pump,2024-06-17,East,Active
+M3007,Conveyor,2024-01-29,North,Active
+M3008,Drill,2023-11-05,North,Active
+M3009,Conveyor,2024-06-20,West,Active
+M3010,Conveyor,2022-07-18,South,Inactive
+M3011,Laser Cutter,2022-07-21,West,Active
+M3012,Press,2022-12-15,West,Inactive
+M3013,Compressor,2023-06-06,West,Active
+M3014,Grinder,2022-10-05,West,Inactive
+M3015,Conveyor,2024-03-31,South,Active
+M3016,Furnace,2024-08-17,West,Active
+M3017,Mixer,2022-10-23,South,Inactive
+M3018,Press,2023-12-31,West,Active
+M3019,Press,2025-05-19,North,Inactive
+M3020,Furnace,2025-04-10,North,Inactive
+M3021,Furnace,2025-03-02,South,Active
+M3022,Press,2022-10-23,North,Active
+M3023,Lathe,2025-06-10,East,Active
+M3024,3D Print,2023-07-03,North,Active
+M3025,Conveyor,2023-02-13,South,Active
+M3026,Conveyor,2025-04-06,South,Inactive
+M3027,Lathe,2024-06-04,East,Inactive
+M3028,Packaging Unit,2022-11-10,East,Active
+M3029,Laser Cutter,2023-09-25,East,Inactive
+M3030,Laser Cutter,2025-02-23,South,Active
+M3031,Mixer,2024-07-01,East,Inactive
+M3032,Compressor,2023-03-08,East,Active
+M3033,Welder,2024-10-24,North,Active
+M3034,Pump,2025-03-27,North,Active
+M3035,Pump,2024-02-16,North,Active
+M3036,Grinder,2022-10-08,East,Inactive
+M3037,Pump,2022-12-31,South,Inactive
+M3038,Lathe,2022-10-04,West,Active
+M3039,CNC-Machine,2023-10-22,South,Active
+M3040,Compressor,2024-02-02,South,Active
+M3041,Packaging Unit,2025-03-11,North,Inactive
+M3042,Mixer,2022-12-21,South,Inactive
+M3043,Welder,2023-03-07,South,Active
+M3044,Drill,2024-06-14,South,Inactive
+M3045,Furnace,2024-10-26,West,Active
+M3046,Grinder,2024-03-21,North,Active
+M3047,Mixer,2022-12-22,North,Inactive
+M3048,Mixer,2025-06-12,West,Active
+M3049,3D Print,2025-02-08,North,Inactive
+M3050,Mixer,2024-04-22,South,Active
+M3051,Lathe,2024-08-05,South,Inactive
+M3052,Furnace,2022-10-01,North,Inactive
+M3053,Grinder,2022-08-05,South,Inactive
+M3054,Compressor,2023-01-07,North,Active
+M3055,Packaging Unit,2024-07-09,North,Inactive
+M3056,Conveyor,2023-05-29,North,Active
+M3057,Lathe,2023-08-28,North,Active
+M3058,Compressor,2023-05-06,West,Active
+M3059,Mixer,2023-03-12,West,Active
+M3060,Packaging Unit,2024-05-04,East,Inactive
+M3061,Laser Cutter,2023-07-24,North,Active
+M3062,Pump,2023-04-14,North,Inactive
+M3063,Compressor,2022-10-06,West,Inactive
+M3064,3D Print,2024-02-19,East,Inactive
+M3065,Press,2023-11-22,North,Inactive
+M3066,Furnace,2024-06-22,West,Active
+M3067,Welder,2025-03-15,East,Active
+M3068,Welder,2024-07-06,West,Active
+M3069,Compressor,2022-11-29,North,Inactive
+M3070,Laser Cutter,2024-05-24,East,Active
+M3071,Laser Cutter,2024-08-06,West,Active
+M3072,Welder,2022-07-20,South,Inactive
+M3073,Compressor,2024-10-03,South,Active
+M3074,Drill,2024-07-22,East,Active
+M3075,Grinder,2023-11-16,South,Active
+M3076,3D Print,2023-11-01,West,Active
+M3077,Furnace,2023-12-21,East,Inactive
+M3078,Mixer,2025-05-25,West,Active
+M3079,Grinder,2024-05-09,West,Active
+M3080,Lathe,2024-01-18,East,Inactive
+M3081,Press,2024-09-06,East,Inactive
+M3082,Laser Cutter,2025-05-27,East,Inactive
+M3083,Press,2023-05-18,East,Inactive
+M3084,Lathe,2024-08-04,North,Inactive
+M3085,Grinder,2024-05-25,South,Inactive
+M3086,3D Print,2024-06-16,West,Inactive
+M3087,Press,2024-05-02,South,Inactive
+M3088,Laser Cutter,2023-08-14,West,Inactive
+M3089,Lathe,2023-06-28,South,Inactive
+M3090,Compressor,2023-12-07,East,Inactive
+M3091,Mixer,2024-03-05,West,Inactive
+M3092,Grinder,2023-02-20,North,Active
+M3093,3D Print,2025-02-15,South,Inactive
+M3094,Lathe,2023-06-30,South,Inactive
+M3095,Laser Cutter,2024-07-04,North,Active
+M3096,Press,2023-05-18,North,Inactive
+M3097,Pump,2023-09-23,West,Active
+M3098,Lathe,2023-04-12,East,Inactive
+M3099,Conveyor,2023-09-22,East,Active
+M3100,Mixer,2025-03-13,West,Inactive
+M3101,Press,2025-07-03,North,Active
+M3102,Pump,2023-03-28,East,Active
+M3103,Laser Cutter,2023-04-17,East,Inactive
+M3104,Drill,2022-09-28,East,Active
+M3105,Compressor,2024-12-29,West,Active
+M3106,CNC-Machine,2022-11-11,West,Inactive
+M3107,Press,2024-01-23,East,Active
+M3108,Pump,2023-12-19,North,Active
+M3109,Furnace,2023-01-06,East,Inactive
+M3110,Packaging Unit,2023-03-02,East,Active
+M3111,Welder,2024-01-11,North,Inactive
+M3112,Furnace,2023-10-21,South,Active
+M3113,CNC-Machine,2023-08-29,North,Inactive
+M3114,Furnace,2024-03-08,North,Active
+M3115,CNC-Machine,2023-10-08,West,Inactive
+M3116,Pump,2023-09-28,West,Inactive
+M3117,3D Print,2024-02-24,South,Active
+M3118,Pump,2025-01-17,South,Active
+M3119,Lathe,2023-01-08,East,Active
+M3120,Conveyor,2022-11-27,East,Active
+M3121,Drill,2025-06-07,North,Active
+M3122,Laser Cutter,2022-10-16,South,Inactive
+M3123,Lathe,2022-10-19,West,Inactive
+M3124,Welder,2024-09-22,East,Active
+M3125,3D Print,2024-04-08,West,Inactive
+M3126,Press,2022-10-04,West,Active
+M3127,Drill,2024-05-25,North,Active
+M3128,Laser Cutter,2022-11-20,East,Active
+M3129,Grinder,2024-04-21,South,Inactive
+M3130,3D Print,2022-11-19,West,Inactive
+M3131,Compressor,2024-12-22,North,Inactive
+M3132,Furnace,2023-04-12,East,Active
+M3133,Furnace,2024-05-10,West,Inactive
+M3134,Conveyor,2023-08-05,South,Inactive
+M3135,Laser Cutter,2022-08-21,South,Inactive
+M3136,Press,2024-03-18,North,Active
+M3137,Grinder,2023-09-13,West,Active
+M3138,Pump,2023-08-16,West,Inactive
+M3139,Welder,2024-12-01,West,Active
+M3140,Furnace,2024-08-02,East,Active
+M3141,Packaging Unit,2025-05-23,South,Inactive
+M3142,Welder,2024-04-30,West,Inactive
+M3143,Mixer,2023-06-23,North,Inactive
+M3144,Laser Cutter,2023-12-29,East,Inactive
+M3145,Drill,2022-11-27,North,Active
+M3146,Furnace,2022-08-20,South,Inactive
+M3147,Press,2022-09-22,West,Inactive
+M3148,Conveyor,2024-10-16,East,Active
+M3149,Furnace,2023-11-08,North,Active
+M3150,Mixer,2024-09-13,North,Inactive
+M3151,Press,2023-01-06,North,Active
+M3152,Furnace,2025-04-27,North,Active
+M3153,Lathe,2024-04-30,East,Inactive
+M3154,CNC-Machine,2023-05-08,West,Active
+M3155,CNC-Machine,2024-08-13,North,Inactive
+M3156,Pump,2024-04-30,North,Inactive
+M3157,Compressor,2023-08-21,North,Inactive
+M3158,Drill,2024-11-03,North,Inactive
+M3159,CNC-Machine,2024-11-16,East,Inactive
+M3160,Grinder,2023-04-16,North,Active
+M3161,Grinder,2025-05-17,South,Inactive
+M3162,Packaging Unit,2023-01-19,North,Inactive
+M3163,Pump,2022-08-30,South,Active
+M3164,Pump,2024-08-23,West,Inactive
+M3165,Packaging Unit,2025-02-17,South,Inactive
+M3166,Lathe,2023-07-07,West,Active
+M3167,Press,2023-01-21,West,Inactive
+M3168,Conveyor,2023-07-30,West,Inactive
+M3169,Drill,2023-04-17,North,Inactive
+M3170,Grinder,2025-05-26,West,Active
+M3171,Conveyor,2024-01-18,South,Inactive
+M3172,Furnace,2023-11-13,North,Active
+M3173,Conveyor,2025-05-17,East,Inactive
+M3174,Packaging Unit,2024-11-27,North,Inactive
+M3175,Conveyor,2024-05-12,North,Active
+M3176,Mixer,2023-09-16,West,Active
+M3177,Compressor,2023-05-18,West,Active
+M3178,Mixer,2024-06-10,East,Inactive
+M3179,Compressor,2024-02-26,South,Active
+M3180,Conveyor,2023-08-13,South,Inactive
+M3181,Welder,2024-06-23,West,Inactive
+M3182,Mixer,2024-09-02,North,Active
+M3183,Drill,2023-02-11,North,Inactive
+M3184,Lathe,2023-05-02,West,Inactive
+M3185,Lathe,2025-01-03,North,Inactive
+M3186,CNC-Machine,2023-11-15,North,Inactive
+M3187,Furnace,2023-03-19,East,Inactive
+M3188,Conveyor,2024-07-31,East,Inactive
+M3189,Drill,2024-01-19,West,Active
+M3190,Laser Cutter,2023-05-02,East,Inactive
+M3191,Furnace,2023-08-09,North,Active
+M3192,Drill,2024-06-08,South,Inactive
+M3193,Compressor,2023-05-23,North,Inactive
+M3194,3D Print,2022-11-19,West,Active
+M3195,3D Print,2024-05-25,West,Inactive
+M3196,CNC-Machine,2025-03-25,East,Inactive
+M3197,Grinder,2023-06-19,West,Active
+M3198,Pump,2024-02-08,East,Inactive
+M3199,Laser Cutter,2023-01-05,East,Active
+M3200,Welder,2022-12-11,South,Inactive
+M3201,Packaging Unit,2023-01-26,West,Active
+M3202,Welder,2025-05-23,West,Inactive
+M3203,Pump,2023-05-19,West,Inactive
+M3204,Furnace,2023-11-27,East,Active
+M3205,Pump,2024-01-24,West,Active
+M3206,Lathe,2023-01-03,East,Active
+M3207,Laser Cutter,2023-10-22,West,Inactive
+M3208,Lathe,2023-09-11,South,Active
+M3209,Grinder,2024-10-10,North,Active
+M3210,Drill,2023-08-09,East,Inactive
+M3211,Furnace,2024-05-30,West,Inactive
+M3212,CNC-Machine,2023-04-11,East,Active
+M3213,Pump,2023-09-29,South,Inactive
+M3214,Grinder,2024-06-03,East,Inactive
+M3215,Welder,2024-08-11,South,Active
+M3216,Drill,2025-05-11,West,Active
+M3217,Welder,2024-12-28,South,Active
+M3218,CNC-Machine,2025-01-20,South,Active
+M3219,Drill,2023-02-19,North,Inactive
+M3220,Mixer,2022-12-24,East,Active
+M3221,Compressor,2023-04-08,East,Inactive
+M3222,Drill,2024-07-10,North,Inactive
+M3223,CNC-Machine,2025-01-18,South,Inactive
+M3224,CNC-Machine,2023-01-17,West,Active
+M3225,Grinder,2023-12-24,East,Active
+M3226,Mixer,2024-04-05,South,Active
+M3227,Packaging Unit,2023-11-09,North,Active
+M3228,Press,2023-06-15,East,Active
+M3229,Laser Cutter,2024-01-05,South,Inactive
+M3230,Pump,2023-01-09,North,Inactive
+M3231,Lathe,2024-09-24,South,Inactive
+M3232,Pump,2023-05-24,West,Inactive
+M3233,Mixer,2025-02-13,West,Inactive
+M3234,Mixer,2022-12-17,West,Active
+M3235,Compressor,2024-10-29,North,Active
+M3236,Grinder,2024-07-26,North,Inactive
+M3237,Drill,2023-03-13,West,Active
+M3238,Packaging Unit,2022-09-30,East,Inactive
+M3239,Press,2022-11-04,North,Active
+M3240,Press,2024-10-30,East,Inactive
+M3241,Welder,2024-08-27,North,Active
+M3242,Packaging Unit,2023-08-27,West,Active
+M3243,Conveyor,2024-03-27,West,Active
+M3244,3D Print,2025-03-22,South,Active
+M3245,Laser Cutter,2022-08-28,North,Active
+M3246,Mixer,2024-09-10,South,Inactive
+M3247,Welder,2023-11-14,East,Active
+M3248,Drill,2024-11-11,North,Active
+M3249,Press,2024-12-02,North,Active
+M3250,3D Print,2024-11-27,South,Inactive
+M3251,Pump,2024-09-29,East,Active
+M3252,CNC-Machine,2024-07-23,West,Inactive
+M3253,Lathe,2022-08-29,West,Inactive
+M3254,3D Print,2022-10-09,North,Inactive
+M3255,Welder,2024-09-04,North,Active
+M3256,Drill,2023-02-19,South,Active
+M3257,Packaging Unit,2025-02-10,West,Inactive
+M3258,Pump,2024-04-14,West,Active
+M3259,Furnace,2025-07-13,East,Active
+M3260,3D Print,2024-08-06,South,Inactive
+M3261,3D Print,2025-06-27,West,Active
+M3262,3D Print,2024-07-25,South,Inactive
+M3263,Drill,2025-06-24,West,Inactive
+M3264,Press,2023-01-18,East,Active
+M3265,Lathe,2023-09-23,East,Inactive
+M3266,3D Print,2024-03-04,West,Active
+M3267,Compressor,2023-04-18,East,Inactive
+M3268,Lathe,2024-12-12,South,Active
+M3269,Conveyor,2023-10-20,West,Active
+M3270,Press,2025-05-18,East,Inactive
+M3271,Furnace,2025-04-14,North,Inactive
+M3272,Mixer,2024-09-13,North,Inactive
+M3273,Welder,2025-02-04,North,Active
+M3274,Pump,2022-10-12,North,Inactive
+M3275,CNC-Machine,2023-06-14,East,Inactive
+M3276,Furnace,2022-11-22,East,Inactive
+M3277,Packaging Unit,2023-08-14,West,Active
+M3278,Compressor,2024-03-14,East,Inactive
+M3279,3D Print,2024-06-30,South,Inactive
+M3280,Pump,2023-04-07,South,Active
+M3281,CNC-Machine,2023-05-20,South,Active
+M3282,Packaging Unit,2023-03-20,West,Active
+M3283,Grinder,2023-11-22,West,Inactive
+M3284,Compressor,2023-12-24,East,Active
+M3285,Conveyor,2023-04-21,South,Active
+M3286,3D Print,2023-12-29,North,Active
+M3287,Compressor,2024-03-15,South,Active
+M3288,Conveyor,2023-09-12,East,Inactive
+M3289,Drill,2025-02-05,East,Inactive
+M3290,Lathe,2024-09-15,North,Inactive
+M3291,Conveyor,2022-12-05,South,Inactive
+M3292,Press,2024-12-29,North,Active
+M3293,Drill,2023-07-24,South,Inactive
+M3294,CNC-Machine,2025-02-25,South,Inactive
+M3295,Mixer,2022-12-26,North,Inactive
+M3296,3D Print,2022-10-16,South,Active
+M3297,Drill,2023-03-20,West,Inactive
+M3298,Mixer,2025-03-11,West,Inactive
+M3299,Packaging Unit,2023-04-06,South,Inactive
+M3300,Laser Cutter,2023-07-22,South,Inactive
+M3301,Conveyor,2024-05-05,West,Inactive
+M3302,CNC-Machine,2025-03-14,South,Inactive
+M3303,Drill,2022-08-03,North,Inactive
+M3304,Pump,2024-08-27,East,Active
+M3305,Laser Cutter,2022-12-03,North,Inactive
+M3306,Conveyor,2024-01-13,South,Active
+M3307,Pump,2022-11-21,West,Active
+M3308,Laser Cutter,2022-07-22,East,Inactive
+M3309,Conveyor,2023-04-14,West,Inactive
+M3310,Grinder,2022-11-15,East,Active
+M3311,Drill,2025-02-24,East,Inactive
+M3312,CNC-Machine,2024-12-24,East,Active
+M3313,Mixer,2022-07-17,South,Active
+M3314,Mixer,2025-03-15,South,Inactive
+M3315,Lathe,2024-04-05,North,Inactive
+M3316,Lathe,2024-06-03,North,Active
+M3317,Drill,2022-12-24,South,Active
+M3318,Packaging Unit,2023-09-24,South,Active
+M3319,CNC-Machine,2023-10-09,North,Inactive
+M3320,Lathe,2024-08-07,West,Active
+M3321,Grinder,2023-03-03,East,Inactive
+M3322,Lathe,2023-09-04,South,Active
+M3323,Drill,2023-04-09,West,Inactive
+M3324,Drill,2024-12-22,East,Inactive
+M3325,Pump,2024-07-08,North,Active
+M3326,Lathe,2023-09-17,North,Active
+M3327,Laser Cutter,2023-09-26,South,Inactive
+M3328,3D Print,2022-12-28,East,Inactive
+M3329,3D Print,2024-04-07,East,Inactive
+M3330,Laser Cutter,2024-07-18,South,Inactive
+M3331,Press,2022-08-04,West,Active
+M3332,Grinder,2024-09-09,North,Active
+M3333,Mixer,2025-03-03,North,Inactive
+M3334,Laser Cutter,2024-11-08,East,Inactive
+M3335,Mixer,2024-05-11,South,Active
+M3336,Lathe,2023-03-16,North,Active
+M3337,Conveyor,2023-11-03,West,Inactive
+M3338,3D Print,2024-04-09,South,Inactive
+M3339,Pump,2025-05-18,South,Active
+M3340,Mixer,2024-11-20,North,Inactive
+M3341,Packaging Unit,2022-08-18,North,Active
+M3342,Conveyor,2023-12-07,West,Inactive
+M3343,Grinder,2023-01-01,East,Active
+M3344,Mixer,2023-03-10,North,Inactive
+M3345,Press,2023-04-12,North,Active
+M3346,Mixer,2023-10-29,South,Inactive
+M3347,Grinder,2025-05-28,South,Active
+M3348,Grinder,2025-03-23,North,Active
+M3349,Packaging Unit,2023-10-15,North,Active
+M3350,Compressor,2025-06-01,North,Inactive
+M3351,Packaging Unit,2025-03-07,West,Active
+M3352,Press,2024-03-18,East,Inactive
+M3353,Compressor,2023-02-05,West,Inactive
+M3354,Furnace,2025-03-22,North,Inactive
+M3355,Pump,2022-07-17,North,Active
+M3356,Packaging Unit,2022-10-16,West,Inactive
+M3357,Drill,2023-04-25,North,Active
+M3358,Compressor,2024-10-05,West,Active
+M3359,Drill,2024-02-28,North,Inactive
+M3360,Conveyor,2023-12-25,North,Inactive
+M3361,Drill,2024-08-27,East,Active
+M3362,Compressor,2025-02-19,West,Inactive
+M3363,Furnace,2025-04-28,West,Active
+M3364,Compressor,2024-02-26,South,Active
+M3365,Compressor,2024-08-23,North,Inactive
+M3366,Press,2023-03-25,North,Active
+M3367,CNC-Machine,2025-06-05,West,Inactive
+M3368,Furnace,2023-10-27,South,Inactive
+M3369,Press,2022-12-22,South,Active
+M3370,Compressor,2023-08-05,South,Active
+M3371,Welder,2024-04-10,North,Inactive
+M3372,Drill,2025-01-17,South,Inactive
+M3373,Compressor,2025-07-07,North,Active
+M3374,Grinder,2024-07-20,West,Inactive
+M3375,Mixer,2023-02-26,East,Inactive
+M3376,CNC-Machine,2022-11-02,West,Inactive
+M3377,Lathe,2024-07-26,South,Inactive
+M3378,Lathe,2022-09-12,North,Inactive
+M3379,Furnace,2024-05-10,East,Active
+M3380,Lathe,2022-11-07,West,Inactive
+M3381,Grinder,2022-12-24,West,Inactive
+M3382,Drill,2024-06-23,East,Active
+M3383,Pump,2022-12-24,South,Active
+M3384,CNC-Machine,2023-07-20,West,Inactive
+M3385,Furnace,2022-11-02,East,Inactive
+M3386,Welder,2025-06-27,South,Active
+M3387,Pump,2023-11-13,East,Inactive
+M3388,Lathe,2025-01-09,East,Inactive
+M3389,3D Print,2022-12-05,West,Active
+M3390,CNC-Machine,2025-06-29,North,Active
+M3391,CNC-Machine,2025-02-13,West,Active
+M3392,Mixer,2022-08-02,West,Active
+M3393,Drill,2023-03-04,East,Inactive
+M3394,Furnace,2023-03-23,South,Inactive
+M3395,3D Print,2023-06-21,West,Active
+M3396,Grinder,2024-10-27,East,Inactive
+M3397,Drill,2023-02-25,South,Active
+M3398,Compressor,2024-04-21,West,Active
+M3399,CNC-Machine,2023-08-01,West,Inactive
+M3400,Laser Cutter,2024-12-12,North,Active
+M3401,Laser Cutter,2022-12-11,West,Active
+M3402,Drill,2024-06-25,South,Inactive
+M3403,Packaging Unit,2022-10-24,West,Active
+M3404,Compressor,2022-10-28,South,Inactive
+M3405,Grinder,2023-07-08,West,Active
+M3406,3D Print,2024-04-23,North,Active
+M3407,CNC-Machine,2023-10-03,East,Inactive
+M3408,Laser Cutter,2025-06-10,South,Inactive
+M3409,Drill,2025-03-23,North,Active
+M3410,3D Print,2023-08-26,South,Inactive
+M3411,CNC-Machine,2023-07-20,South,Active
+M3412,Pump,2023-02-05,East,Inactive
+M3413,Furnace,2024-10-13,North,Inactive
+M3414,Pump,2025-03-31,West,Active
+M3415,Press,2024-03-23,East,Active
+M3416,Lathe,2023-04-11,East,Inactive
+M3417,Mixer,2023-09-08,North,Inactive
+M3418,Mixer,2024-01-26,North,Inactive
+M3419,3D Print,2023-12-27,South,Inactive
+M3420,Conveyor,2025-05-27,East,Active
+M3421,CNC-Machine,2023-04-18,East,Inactive
+M3422,Mixer,2024-09-25,West,Active
+M3423,Press,2022-10-09,North,Active
+M3424,Laser Cutter,2023-11-18,North,Inactive
+M3425,Laser Cutter,2024-09-09,North,Inactive
+M3426,Conveyor,2022-09-23,North,Active
+M3427,Lathe,2022-10-28,North,Active
+M3428,Lathe,2023-09-23,West,Inactive
+M3429,Press,2022-09-28,West,Active
+M3430,CNC-Machine,2023-09-28,West,Active
+M3431,Conveyor,2025-07-05,South,Active
+M3432,Lathe,2022-07-29,North,Inactive
+M3433,Press,2024-12-29,East,Active
+M3434,CNC-Machine,2023-11-22,South,Inactive
+M3435,Compressor,2022-11-09,North,Active
+M3436,Press,2025-04-02,East,Inactive
+M3437,Conveyor,2023-11-27,South,Active
+M3438,Grinder,2024-07-15,South,Active
+M3439,Conveyor,2025-07-15,West,Active
+M3440,Pump,2025-07-10,West,Inactive
+M3441,Lathe,2023-03-29,North,Active
+M3442,Press,2024-07-17,West,Active
+M3443,Welder,2023-09-13,North,Inactive
+M3444,Packaging Unit,2024-09-30,East,Inactive
+M3445,Lathe,2023-10-30,North,Inactive
+M3446,Drill,2025-02-28,South,Active
+M3447,CNC-Machine,2022-11-01,North,Active
+M3448,Compressor,2025-03-06,North,Inactive
+M3449,Conveyor,2024-10-08,North,Inactive
+M3450,Laser Cutter,2025-02-11,East,Inactive
+M3451,Drill,2023-05-14,South,Active
+M3452,Conveyor,2023-10-06,East,Inactive
+M3453,CNC-Machine,2024-01-06,North,Inactive
+M3454,3D Print,2023-11-26,South,Active
+M3455,Press,2024-01-18,West,Inactive
+M3456,Welder,2024-06-19,South,Active
+M3457,Packaging Unit,2024-02-02,East,Inactive
+M3458,Pump,2023-04-10,East,Inactive
+M3459,Compressor,2022-10-31,South,Active
+M3460,Conveyor,2023-06-29,South,Inactive
+M3461,Pump,2023-03-15,East,Inactive
+M3462,3D Print,2023-10-10,South,Inactive
+M3463,Grinder,2023-06-27,West,Inactive
+M3464,Compressor,2025-02-25,North,Active
+M3465,Lathe,2022-08-05,West,Inactive
+M3466,Furnace,2023-04-08,North,Inactive
+M3467,Press,2023-04-21,North,Active
+M3468,Compressor,2024-01-11,South,Active
+M3469,Drill,2022-08-31,South,Inactive
+M3470,Laser Cutter,2022-08-14,West,Inactive
+M3471,Pump,2023-01-08,East,Active
+M3472,Grinder,2023-07-11,South,Active
+M3473,Press,2023-01-31,South,Inactive
+M3474,Packaging Unit,2025-03-29,South,Inactive
+M3475,Conveyor,2024-11-11,North,Active
+M3476,Press,2025-01-31,West,Active
+M3477,Pump,2024-07-02,East,Inactive
+M3478,Furnace,2025-06-05,North,Active
+M3479,3D Print,2024-03-01,North,Active
+M3480,Drill,2024-09-16,East,Inactive
+M3481,Drill,2023-08-26,East,Inactive
+M3482,Conveyor,2023-04-14,South,Inactive
+M3483,Pump,2023-05-06,West,Inactive
+M3484,Drill,2025-06-21,North,Inactive
+M3485,Compressor,2024-08-16,South,Inactive
+M3486,Laser Cutter,2025-04-03,North,Active
+M3487,Compressor,2023-05-17,South,Inactive
+M3488,Pump,2024-09-20,East,Active
+M3489,Lathe,2023-01-10,South,Active
+M3490,Lathe,2024-04-13,East,Inactive
+M3491,Compressor,2024-08-08,West,Inactive
+M3492,Grinder,2023-07-22,West,Active
+M3493,Drill,2023-12-22,West,Active
+M3494,Packaging Unit,2023-11-17,North,Inactive
+M3495,Pump,2025-06-01,East,Active
+M3496,Conveyor,2024-09-29,North,Inactive
+M3497,Drill,2025-05-15,North,Active
+M3498,Conveyor,2024-06-04,North,Inactive
+M3499,Furnace,2024-03-14,South,Active
+M3500,Welder,2024-12-05,North,Inactive
+M3501,Lathe,2024-12-29,West,Inactive
+M3502,Pump,2022-09-17,North,Active
+M3503,Welder,2024-12-31,West,Active
+M3504,3D Print,2025-01-02,North,Inactive
+M3505,Press,2023-03-05,South,Inactive
+M3506,Drill,2023-08-05,East,Active
+M3507,Compressor,2024-08-06,North,Inactive
+M3508,CNC-Machine,2024-11-02,South,Inactive
+M3509,Lathe,2023-11-22,East,Inactive
+M3510,Mixer,2022-07-30,North,Inactive
+M3511,Compressor,2023-01-13,North,Inactive
+M3512,Packaging Unit,2023-02-11,North,Active
+M3513,Mixer,2022-10-24,West,Active
+M3514,Packaging Unit,2023-07-23,South,Active
+M3515,Conveyor,2023-08-01,South,Inactive
+M3516,Lathe,2023-01-31,South,Active
+M3517,Mixer,2023-11-05,North,Inactive
+M3518,Conveyor,2022-09-03,East,Active
+M3519,Laser Cutter,2024-06-21,North,Active
+M3520,Laser Cutter,2023-06-12,South,Inactive
+M3521,Welder,2022-11-30,North,Inactive
+M3522,Welder,2023-02-05,East,Active
+M3523,Press,2023-09-14,West,Active
+M3524,Conveyor,2023-04-16,South,Inactive
+M3525,Packaging Unit,2023-10-26,South,Active
+M3526,Compressor,2024-06-11,North,Active
+M3527,Grinder,2022-10-24,North,Active
+M3528,Conveyor,2023-05-21,South,Inactive
+M3529,Grinder,2023-09-05,North,Active
+M3530,Laser Cutter,2022-12-22,West,Active
+M3531,Conveyor,2024-12-05,South,Inactive
+M3532,Drill,2022-09-27,East,Active
+M3533,Compressor,2024-05-30,East,Inactive
+M3534,Packaging Unit,2024-03-19,South,Active
+M3535,Mixer,2024-04-30,West,Active
+M3536,Pump,2023-08-21,East,Active
+M3537,Packaging Unit,2023-12-08,East,Active
+M3538,Conveyor,2025-03-27,East,Active
+M3539,Grinder,2024-07-03,West,Active
+M3540,Packaging Unit,2023-06-12,East,Active
+M3541,Drill,2024-10-15,North,Inactive
+M3542,Lathe,2025-05-02,South,Active
+M3543,Welder,2023-10-19,West,Inactive
+M3544,Conveyor,2025-02-19,North,Inactive
+M3545,Conveyor,2024-05-24,North,Inactive
+M3546,Compressor,2024-08-15,West,Inactive
+M3547,Grinder,2024-02-03,East,Active
+M3548,Furnace,2024-08-29,West,Active
+M3549,Furnace,2024-03-10,South,Inactive
+M3550,Packaging Unit,2024-06-25,North,Inactive
+M3551,3D Print,2023-04-15,East,Active
+M3552,3D Print,2025-05-16,West,Active
+M3553,Compressor,2024-09-27,East,Inactive
+M3554,Press,2025-03-28,North,Inactive
+M3555,3D Print,2023-05-12,North,Active
+M3556,3D Print,2022-12-06,South,Active
+M3557,Furnace,2024-09-18,South,Inactive
+M3558,3D Print,2022-11-08,South,Active
+M3559,3D Print,2023-03-17,North,Active
+M3560,Laser Cutter,2024-09-04,South,Inactive
+M3561,Grinder,2022-10-27,East,Inactive
+M3562,Drill,2024-10-12,South,Active
+M3563,Packaging Unit,2022-08-07,East,Inactive
+M3564,CNC-Machine,2024-04-10,South,Active
+M3565,Grinder,2023-10-31,West,Active
+M3566,Welder,2025-07-02,North,Inactive
+M3567,Packaging Unit,2023-12-25,East,Inactive
+M3568,Grinder,2022-08-20,South,Active
+M3569,Drill,2023-06-19,South,Inactive
+M3570,Mixer,2022-09-19,South,Active
+M3571,Laser Cutter,2024-12-11,West,Inactive
+M3572,Press,2024-09-09,East,Active
+M3573,Pump,2023-09-21,South,Inactive
+M3574,3D Print,2025-03-21,South,Active
+M3575,Press,2024-07-30,East,Active
+M3576,Furnace,2024-02-09,East,Inactive
+M3577,Laser Cutter,2023-10-13,North,Inactive
+M3578,Drill,2023-04-01,North,Inactive
+M3579,Press,2022-11-26,West,Inactive
+M3580,Grinder,2022-09-13,East,Inactive
+M3581,Lathe,2024-04-11,North,Active
+M3582,Welder,2024-06-02,West,Active
+M3583,Grinder,2024-09-01,North,Inactive
+M3584,Mixer,2024-05-27,West,Inactive
+M3585,3D Print,2023-03-17,East,Inactive
+M3586,CNC-Machine,2023-05-23,South,Inactive
+M3587,Grinder,2024-02-07,South,Active
+M3588,Furnace,2024-08-18,East,Inactive
+M3589,Conveyor,2025-01-18,West,Active
+M3590,Mixer,2025-01-28,East,Inactive
+M3591,Drill,2023-10-02,South,Inactive
+M3592,Packaging Unit,2024-01-20,East,Active
+M3593,Press,2025-05-06,West,Inactive
+M3594,Compressor,2023-04-16,East,Active
+M3595,Compressor,2023-09-21,East,Inactive
+M3596,Conveyor,2025-07-04,West,Active
+M3597,Lathe,2023-11-04,East,Active
+M3598,Welder,2022-12-09,West,Active
+M3599,Welder,2023-11-03,East,Inactive
+M3600,Grinder,2025-02-14,South,Inactive
+M3601,3D Print,2023-02-07,South,Active
+M3602,Press,2023-07-19,South,Inactive
+M3603,Pump,2023-11-06,West,Active
+M3604,Welder,2024-02-28,West,Inactive
+M3605,Grinder,2024-08-26,South,Active
+M3606,Furnace,2025-07-15,North,Active
+M3607,Grinder,2025-04-02,South,Active
+M3608,Furnace,2024-07-13,South,Active
+M3609,Grinder,2023-12-04,North,Inactive
+M3610,Packaging Unit,2022-12-14,South,Active
+M3611,Drill,2022-08-17,North,Active
+M3612,Conveyor,2023-01-14,North,Inactive
+M3613,Conveyor,2022-08-11,South,Active
+M3614,Press,2022-09-02,South,Inactive
+M3615,Conveyor,2024-09-22,East,Inactive
+M3616,Packaging Unit,2024-03-30,North,Inactive
+M3617,Lathe,2022-12-30,West,Active
+M3618,Mixer,2024-06-07,North,Inactive
+M3619,Drill,2025-02-12,East,Inactive
+M3620,Press,2023-04-17,South,Inactive
+M3621,Laser Cutter,2024-12-21,West,Inactive
+M3622,Conveyor,2025-06-18,East,Inactive
+M3623,Drill,2022-08-31,North,Inactive
+M3624,Lathe,2025-05-31,South,Active
+M3625,Pump,2022-12-26,West,Active
+M3626,3D Print,2024-04-06,South,Active
+M3627,Furnace,2023-07-20,North,Inactive
+M3628,3D Print,2023-03-13,South,Active
+M3629,Packaging Unit,2025-05-28,South,Inactive
+M3630,Grinder,2024-05-28,East,Active
+M3631,Drill,2022-11-16,North,Inactive
+M3632,Laser Cutter,2023-11-15,North,Inactive
+M3633,Packaging Unit,2025-02-04,East,Active
+M3634,Lathe,2022-09-01,North,Inactive
+M3635,Pump,2024-03-03,East,Active
+M3636,Press,2022-10-31,West,Active
+M3637,Laser Cutter,2024-05-22,North,Active
+M3638,Pump,2022-08-21,South,Inactive
+M3639,Grinder,2024-06-15,South,Inactive
+M3640,Grinder,2023-09-05,East,Active
+M3641,Conveyor,2022-10-30,West,Active
+M3642,Conveyor,2024-11-08,East,Inactive
+M3643,CNC-Machine,2024-08-05,East,Active
+M3644,Lathe,2022-10-20,South,Active
+M3645,3D Print,2023-08-13,East,Inactive
+M3646,Pump,2024-09-05,West,Inactive
+M3647,Mixer,2024-03-28,West,Active
+M3648,Pump,2025-01-03,East,Active
+M3649,Mixer,2024-12-17,North,Active
+M3650,Laser Cutter,2023-07-23,South,Active
+M3651,Conveyor,2022-12-24,East,Active
+M3652,Press,2022-07-23,East,Inactive
+M3653,Grinder,2025-05-27,North,Inactive
+M3654,Grinder,2025-01-12,East,Active
+M3655,Pump,2023-06-06,West,Active
+M3656,CNC-Machine,2024-11-13,West,Active
+M3657,Laser Cutter,2023-01-03,East,Inactive
+M3658,Pump,2023-01-11,East,Active
+M3659,Grinder,2024-09-19,South,Active
+M3660,Packaging Unit,2025-01-26,East,Active
+M3661,Drill,2023-10-29,South,Active
+M3662,Press,2023-06-25,East,Inactive
+M3663,Lathe,2024-08-02,North,Active
+M3664,Furnace,2023-05-26,North,Inactive
+M3665,Lathe,2024-08-21,East,Inactive
+M3666,Welder,2022-12-14,West,Active
+M3667,Welder,2023-02-15,North,Active
+M3668,Lathe,2024-03-02,South,Inactive
+M3669,Laser Cutter,2023-07-05,North,Active
+M3670,Lathe,2022-08-31,South,Inactive
+M3671,3D Print,2025-03-19,East,Inactive
+M3672,Furnace,2024-11-11,North,Inactive
+M3673,Lathe,2023-08-29,East,Active
+M3674,CNC-Machine,2025-03-10,North,Active
+M3675,Welder,2022-10-16,South,Inactive
+M3676,3D Print,2023-04-14,South,Inactive
+M3677,Lathe,2023-10-14,South,Active
+M3678,Compressor,2022-12-19,East,Active
+M3679,Compressor,2023-03-17,South,Active
+M3680,Conveyor,2024-08-27,South,Inactive
+M3681,Laser Cutter,2023-01-19,North,Active
+M3682,Conveyor,2024-02-18,South,Inactive
+M3683,Packaging Unit,2025-06-18,West,Inactive
+M3684,Welder,2024-07-10,West,Active
+M3685,Furnace,2025-01-02,East,Inactive
+M3686,Furnace,2022-08-07,South,Inactive
+M3687,Furnace,2023-03-08,East,Active
+M3688,CNC-Machine,2022-12-25,West,Active
+M3689,Grinder,2022-11-27,West,Active
+M3690,Mixer,2023-09-11,East,Active
+M3691,Packaging Unit,2025-03-28,South,Active
+M3692,Compressor,2022-12-09,North,Active
+M3693,Welder,2025-04-16,South,Active
+M3694,Packaging Unit,2024-11-08,West,Active
+M3695,Laser Cutter,2025-06-15,North,Active
+M3696,Mixer,2024-01-18,West,Active
+M3697,Pump,2024-11-15,West,Inactive
+M3698,Conveyor,2024-07-02,East,Inactive
+M3699,Press,2025-04-15,South,Inactive
+M3700,Pump,2023-02-18,East,Inactive
+M3701,Compressor,2025-05-27,North,Inactive
+M3702,Pump,2024-03-27,South,Active
+M3703,Lathe,2024-01-20,South,Active
+M3704,Furnace,2022-12-09,West,Active
+M3705,Compressor,2024-11-08,West,Active
+M3706,Conveyor,2025-02-12,East,Active
+M3707,Laser Cutter,2023-02-28,South,Inactive
+M3708,Mixer,2024-12-25,East,Inactive
+M3709,Welder,2024-10-09,South,Inactive
+M3710,Drill,2023-05-02,South,Inactive
+M3711,Conveyor,2023-12-11,South,Active
+M3712,Compressor,2022-09-09,East,Inactive
+M3713,Compressor,2023-02-20,South,Inactive
+M3714,3D Print,2023-07-18,South,Active
+M3715,Compressor,2024-05-24,West,Inactive
+M3716,Compressor,2024-12-29,West,Inactive
+M3717,Compressor,2024-09-01,East,Active
+M3718,3D Print,2025-07-03,West,Active
+M3719,Laser Cutter,2023-12-13,North,Inactive
+M3720,Pump,2024-12-01,North,Inactive
+M3721,Packaging Unit,2022-11-27,North,Inactive
+M3722,Furnace,2025-01-30,East,Active
+M3723,Pump,2024-02-12,South,Inactive
+M3724,Packaging Unit,2023-10-31,South,Active
+M3725,Conveyor,2024-05-06,West,Active
+M3726,3D Print,2022-11-11,North,Inactive
+M3727,Packaging Unit,2025-06-27,South,Inactive
+M3728,CNC-Machine,2023-12-18,South,Inactive
+M3729,Welder,2025-06-10,North,Active
+M3730,Lathe,2024-12-05,South,Inactive
+M3731,Mixer,2024-12-17,South,Inactive
+M3732,Laser Cutter,2025-03-12,East,Active
+M3733,3D Print,2023-05-04,North,Active
+M3734,Mixer,2023-02-11,East,Active
+M3735,Mixer,2025-05-26,East,Active
+M3736,Press,2022-08-27,East,Active
+M3737,Mixer,2022-10-06,North,Inactive
+M3738,Compressor,2024-01-14,South,Active
+M3739,Lathe,2023-01-18,East,Active
+M3740,3D Print,2024-10-06,West,Inactive
+M3741,Press,2025-03-12,East,Inactive
+M3742,Drill,2024-05-26,North,Active
+M3743,Compressor,2024-03-05,South,Active
+M3744,Furnace,2024-07-05,South,Active
+M3745,Furnace,2025-03-13,North,Active
+M3746,CNC-Machine,2024-06-27,West,Active
+M3747,Pump,2022-09-30,East,Active
+M3748,Packaging Unit,2024-05-03,South,Active
+M3749,Drill,2024-11-27,South,Active
+M3750,Grinder,2024-01-13,West,Inactive
+M3751,3D Print,2023-02-13,East,Active
+M3752,Furnace,2023-03-08,East,Inactive
+M3753,Grinder,2023-06-13,East,Active
+M3754,CNC-Machine,2023-10-16,North,Inactive
+M3755,Packaging Unit,2024-06-22,East,Inactive
+M3756,Drill,2024-07-25,East,Inactive
+M3757,Packaging Unit,2023-09-22,West,Active
+M3758,Mixer,2022-07-23,South,Active
+M3759,CNC-Machine,2024-10-25,South,Inactive
+M3760,Pump,2024-05-07,North,Active
+M3761,Mixer,2022-10-07,North,Inactive
+M3762,Laser Cutter,2024-02-18,North,Inactive
+M3763,Furnace,2023-06-23,West,Inactive
+M3764,Compressor,2024-11-10,North,Inactive
+M3765,3D Print,2023-04-18,South,Inactive
+M3766,Drill,2023-12-09,West,Inactive
+M3767,Grinder,2024-12-05,North,Inactive
+M3768,Conveyor,2022-12-24,West,Inactive
+M3769,3D Print,2025-05-20,South,Active
+M3770,Lathe,2023-04-19,South,Inactive
+M3771,Welder,2023-12-25,South,Inactive
+M3772,3D Print,2022-08-24,East,Active
+M3773,Packaging Unit,2022-09-16,North,Inactive
+M3774,Pump,2024-01-04,North,Inactive
+M3775,Packaging Unit,2024-07-03,North,Inactive
+M3776,Furnace,2023-09-11,North,Inactive
+M3777,Lathe,2024-08-28,North,Active
+M3778,Conveyor,2024-07-21,South,Active
+M3779,CNC-Machine,2024-08-11,North,Inactive
+M3780,Furnace,2025-03-08,South,Active
+M3781,Conveyor,2025-02-01,West,Active
+M3782,Conveyor,2025-06-04,South,Inactive
+M3783,Laser Cutter,2022-08-21,South,Inactive
+M3784,Furnace,2022-08-24,North,Inactive
+M3785,Press,2025-01-07,West,Active
+M3786,Compressor,2025-06-11,East,Inactive
+M3787,Grinder,2024-01-06,South,Inactive
+M3788,Laser Cutter,2023-02-12,North,Inactive
+M3789,Grinder,2023-06-26,North,Active
+M3790,Packaging Unit,2025-03-03,East,Inactive
+M3791,Packaging Unit,2023-04-18,East,Active
+M3792,Compressor,2025-05-17,West,Active
+M3793,CNC-Machine,2022-12-27,South,Inactive
+M3794,Pump,2024-01-28,East,Active
+M3795,Furnace,2023-02-02,West,Inactive
+M3796,Pump,2023-11-03,East,Active
+M3797,Laser Cutter,2023-03-27,East,Inactive
+M3798,3D Print,2023-04-06,East,Inactive
+M3799,Grinder,2025-06-15,North,Active
+M3800,CNC-Machine,2023-02-24,North,Inactive
+M3801,CNC-Machine,2024-06-06,West,Active
+M3802,Furnace,2024-03-29,East,Active
+M3803,Packaging Unit,2024-06-06,North,Inactive
+M3804,Packaging Unit,2024-01-16,North,Inactive
+M3805,Drill,2024-11-17,West,Active
+M3806,Pump,2023-01-08,South,Inactive
+M3807,Conveyor,2024-05-05,East,Inactive
+M3808,Lathe,2025-01-26,East,Inactive
+M3809,Press,2023-09-26,North,Active
+M3810,Lathe,2025-01-05,West,Inactive
+M3811,Laser Cutter,2025-05-20,East,Inactive
+M3812,Conveyor,2024-06-01,East,Active
+M3813,Lathe,2024-09-15,South,Active
+M3814,Mixer,2025-04-09,South,Inactive
+M3815,Compressor,2024-05-19,North,Inactive
+M3816,Conveyor,2023-07-16,North,Inactive
+M3817,Laser Cutter,2025-06-06,North,Active
+M3818,Drill,2024-09-05,West,Inactive
+M3819,Press,2025-05-13,North,Inactive
+M3820,Lathe,2022-07-19,East,Inactive
+M3821,Conveyor,2024-01-02,North,Inactive
+M3822,Furnace,2024-08-20,East,Active
+M3823,Conveyor,2023-03-06,South,Inactive
+M3824,Drill,2024-01-16,North,Active
+M3825,Compressor,2023-12-11,South,Inactive
+M3826,Furnace,2023-01-30,East,Active
+M3827,Press,2025-01-31,North,Inactive
+M3828,Grinder,2024-06-02,South,Inactive
+M3829,Conveyor,2023-06-17,South,Inactive
+M3830,Press,2024-11-15,North,Inactive
+M3831,Furnace,2022-07-19,North,Active
+M3832,Pump,2023-01-06,East,Inactive
+M3833,Mixer,2022-10-21,South,Inactive
+M3834,Drill,2025-04-14,South,Inactive
+M3835,Welder,2023-04-27,West,Inactive
+M3836,Welder,2022-09-27,North,Inactive
+M3837,Conveyor,2024-10-04,South,Active
+M3838,Lathe,2023-02-21,South,Active
+M3839,3D Print,2024-01-20,East,Active
+M3840,Mixer,2025-07-06,East,Inactive
+M3841,Furnace,2023-04-19,North,Inactive
+M3842,3D Print,2025-01-22,South,Inactive
+M3843,Press,2023-09-18,South,Active
+M3844,Furnace,2024-05-13,South,Active
+M3845,Laser Cutter,2022-11-03,North,Active
+M3846,Welder,2023-11-01,West,Active
+M3847,Furnace,2022-12-10,West,Active
+M3848,Grinder,2025-01-12,South,Inactive
+M3849,Grinder,2024-07-28,South,Inactive
+M3850,CNC-Machine,2023-07-10,West,Inactive
+M3851,Furnace,2024-07-22,East,Inactive
+M3852,Packaging Unit,2023-02-08,South,Inactive
+M3853,Press,2023-06-24,West,Inactive
+M3854,Press,2024-04-14,East,Active
+M3855,Conveyor,2022-07-21,West,Inactive
+M3856,Mixer,2025-01-02,North,Active
+M3857,Welder,2024-12-10,West,Inactive
+M3858,Conveyor,2023-03-05,East,Inactive
+M3859,CNC-Machine,2023-08-13,South,Inactive
+M3860,Drill,2022-10-31,East,Active
+M3861,CNC-Machine,2023-02-14,West,Active
+M3862,Pump,2024-08-07,West,Active
+M3863,Lathe,2024-12-27,South,Inactive
+M3864,3D Print,2022-10-01,East,Active
+M3865,Laser Cutter,2025-02-22,South,Inactive
+M3866,Conveyor,2024-01-18,East,Inactive
+M3867,Grinder,2024-04-04,West,Active
+M3868,Grinder,2024-12-31,North,Inactive
+M3869,3D Print,2023-08-31,East,Active
+M3870,Compressor,2022-09-21,North,Active
+M3871,Furnace,2024-10-15,South,Active
+M3872,3D Print,2023-01-07,South,Active
+M3873,Grinder,2024-09-14,East,Active
+M3874,Pump,2023-07-27,North,Inactive
+M3875,Welder,2023-04-22,East,Inactive
+M3876,Mixer,2023-05-02,East,Inactive
+M3877,Drill,2022-11-17,North,Inactive
+M3878,Drill,2024-01-06,East,Inactive
+M3879,Mixer,2022-11-30,East,Inactive
+M3880,Compressor,2023-03-01,North,Inactive
+M3881,Pump,2023-08-24,West,Active
+M3882,Welder,2025-06-11,North,Inactive
+M3883,Laser Cutter,2022-11-29,South,Active
+M3884,Drill,2022-09-16,West,Active
+M3885,Grinder,2024-05-25,West,Inactive
+M3886,Grinder,2024-02-21,East,Active
+M3887,CNC-Machine,2022-12-04,South,Active
+M3888,Lathe,2025-02-24,East,Inactive
+M3889,Drill,2024-09-11,South,Active
+M3890,Welder,2025-04-12,North,Inactive
+M3891,Drill,2023-05-20,West,Inactive
+M3892,Packaging Unit,2024-08-26,West,Active
+M3893,Conveyor,2024-10-25,West,Active
+M3894,Compressor,2023-07-13,South,Inactive
+M3895,Lathe,2024-02-15,South,Active
+M3896,Conveyor,2025-02-08,South,Inactive
+M3897,Press,2024-04-10,North,Active
+M3898,Compressor,2022-12-19,South,Inactive
+M3899,Compressor,2024-11-20,East,Active
+M3900,3D Print,2023-03-17,East,Active
+M3901,Compressor,2022-08-13,South,Inactive
+M3902,Lathe,2024-07-10,South,Inactive
+M3903,Drill,2022-08-10,North,Active
+M3904,Packaging Unit,2022-10-31,East,Active
+M3905,Furnace,2023-08-25,West,Inactive
+M3906,Mixer,2024-12-03,South,Active
+M3907,Conveyor,2025-04-21,North,Active
+M3908,Lathe,2023-08-09,West,Inactive
+M3909,CNC-Machine,2023-04-07,South,Inactive
+M3910,Furnace,2025-03-02,East,Inactive
+M3911,Furnace,2024-04-05,East,Inactive
+M3912,CNC-Machine,2024-06-29,West,Inactive
+M3913,CNC-Machine,2025-01-10,East,Active
+M3914,Compressor,2023-06-26,West,Inactive
+M3915,Furnace,2023-01-22,North,Active
+M3916,Furnace,2023-06-14,South,Active
+M3917,Conveyor,2025-02-14,East,Inactive
+M3918,Lathe,2022-12-22,West,Inactive
+M3919,3D Print,2022-10-22,North,Active
+M3920,Pump,2023-03-05,North,Inactive
+M3921,Grinder,2023-03-07,West,Inactive
+M3922,Furnace,2025-06-01,South,Active
+M3923,Mixer,2023-05-13,South,Active
+M3924,Furnace,2023-11-23,South,Inactive
+M3925,Mixer,2024-01-01,South,Active
+M3926,Compressor,2024-01-21,East,Inactive
+M3927,Conveyor,2023-10-23,West,Inactive
+M3928,Welder,2024-12-13,West,Active
+M3929,Mixer,2024-09-24,West,Inactive
+M3930,Laser Cutter,2024-11-27,West,Active
+M3931,Welder,2023-07-13,East,Active
+M3932,Laser Cutter,2023-06-29,South,Active
+M3933,Pump,2023-01-19,East,Inactive
+M3934,Welder,2025-03-05,North,Inactive
+M3935,Conveyor,2023-02-28,West,Active
+M3936,Packaging Unit,2024-12-27,South,Active
+M3937,Drill,2023-09-27,West,Active
+M3938,Pump,2023-06-13,South,Active
+M3939,Furnace,2022-12-29,South,Inactive
+M3940,Lathe,2022-09-20,West,Inactive
+M3941,3D Print,2024-11-18,South,Active
+M3942,Lathe,2024-06-09,South,Inactive
+M3943,Furnace,2023-12-28,West,Inactive
+M3944,Conveyor,2023-02-03,West,Active
+M3945,Lathe,2023-09-26,South,Active
+M3946,Welder,2023-01-03,South,Inactive
+M3947,Packaging Unit,2023-10-26,North,Active
+M3948,Pump,2022-10-27,South,Active
+M3949,Compressor,2023-06-04,East,Active
+M3950,Drill,2022-10-12,West,Active
+M3951,CNC-Machine,2024-03-19,South,Inactive
+M3952,Packaging Unit,2023-12-11,South,Inactive
+M3953,Packaging Unit,2024-04-09,East,Inactive
+M3954,Pump,2025-05-19,East,Active
+M3955,3D Print,2022-12-26,South,Inactive
+M3956,Drill,2025-04-27,South,Active
+M3957,Drill,2023-03-31,South,Active
+M3958,Furnace,2024-07-27,North,Active
+M3959,Compressor,2024-05-07,East,Active
+M3960,Grinder,2023-06-18,East,Active
+M3961,CNC-Machine,2024-10-13,North,Active
+M3962,Lathe,2025-01-25,South,Active
+M3963,Lathe,2022-12-09,North,Inactive
+M3964,Laser Cutter,2025-06-03,North,Active
+M3965,Packaging Unit,2022-12-13,South,Active
+M3966,Mixer,2025-03-07,South,Inactive
+M3967,Compressor,2024-04-28,South,Active
+M3968,Mixer,2025-01-12,East,Active
+M3969,3D Print,2024-02-10,South,Active
+M3970,Pump,2022-11-07,East,Active
+M3971,Press,2024-06-29,North,Inactive
+M3972,Press,2023-07-02,East,Active
+M3973,Drill,2024-09-30,West,Active
+M3974,Pump,2024-03-18,West,Active
+M3975,Conveyor,2023-07-15,East,Active
+M3976,Pump,2024-04-16,East,Inactive
+M3977,Welder,2022-09-20,South,Active
+M3978,Conveyor,2024-02-06,North,Inactive
+M3979,3D Print,2024-06-03,South,Inactive
+M3980,Compressor,2023-06-02,South,Active
+M3981,Conveyor,2023-05-18,North,Active
+M3982,Lathe,2023-07-13,West,Active
+M3983,Packaging Unit,2024-07-01,South,Active
+M3984,Furnace,2025-01-09,North,Inactive
+M3985,Mixer,2023-06-15,East,Inactive
+M3986,Press,2023-07-12,West,Inactive
+M3987,Drill,2022-08-20,West,Inactive
+M3988,3D Print,2022-08-11,South,Active
+M3989,Grinder,2025-02-24,South,Active
+M3990,Pump,2024-05-25,South,Inactive
+M3991,Welder,2025-06-10,North,Active
+M3992,CNC-Machine,2024-02-25,South,Inactive
+M3993,Drill,2023-11-27,West,Active
+M3994,Packaging Unit,2023-11-22,West,Active
+M3995,Welder,2023-06-29,West,Inactive
+M3996,3D Print,2022-08-15,South,Active
+M3997,Furnace,2023-10-17,North,Inactive
+M3998,3D Print,2025-03-10,East,Active
+M3999,Lathe,2023-05-28,East,Active
+M4000,Furnace,2023-03-24,North,Inactive
+M4001,Laser Cutter,2024-04-16,West,Active
+M4002,Press,2023-06-08,East,Active
+M4003,Lathe,2022-11-12,West,Inactive
+M4004,Press,2025-06-26,North,Active
+M4005,Laser Cutter,2024-02-12,South,Active
+M4006,Grinder,2024-11-27,East,Inactive
+M4007,3D Print,2025-05-18,East,Inactive
+M4008,Furnace,2025-06-21,East,Active
+M4009,Laser Cutter,2024-04-10,South,Inactive
+M4010,Grinder,2024-02-16,East,Inactive
+M4011,3D Print,2023-12-03,South,Active
+M4012,Laser Cutter,2024-12-24,West,Inactive
+M4013,Press,2024-10-07,West,Active
+M4014,Conveyor,2024-04-08,West,Inactive
+M4015,Grinder,2023-05-28,North,Active
+M4016,Pump,2024-11-11,West,Active
+M4017,Drill,2023-01-25,South,Active
+M4018,Laser Cutter,2023-05-23,East,Active
+M4019,Press,2023-11-29,North,Active
+M4020,Lathe,2023-02-10,West,Inactive
+M4021,Laser Cutter,2025-06-19,South,Active
+M4022,Pump,2023-11-10,North,Active
+M4023,Conveyor,2022-12-18,West,Inactive
+M4024,Welder,2025-01-17,East,Active
+M4025,Packaging Unit,2024-08-15,South,Active
+M4026,Welder,2025-03-13,North,Inactive
+M4027,Press,2024-04-20,East,Inactive
+M4028,Conveyor,2024-04-19,East,Active
+M4029,3D Print,2025-01-13,North,Active
+M4030,Drill,2023-12-13,South,Inactive
+M4031,Laser Cutter,2025-05-15,East,Active
+M4032,Welder,2022-07-23,East,Active
+M4033,Pump,2022-11-10,East,Active
+M4034,Furnace,2024-11-11,North,Inactive
+M4035,Pump,2022-11-25,East,Active
+M4036,Packaging Unit,2023-03-13,West,Active
+M4037,Drill,2023-12-26,North,Inactive
+M4038,Laser Cutter,2023-10-24,South,Inactive
+M4039,Packaging Unit,2023-10-29,North,Active
+M4040,Welder,2023-03-25,West,Inactive
+M4041,Grinder,2024-02-25,West,Inactive
+M4042,Compressor,2025-03-21,East,Active
+M4043,CNC-Machine,2022-11-01,West,Active
+M4044,Packaging Unit,2024-02-23,East,Active
+M4045,3D Print,2024-11-15,East,Active
+M4046,Lathe,2025-07-13,East,Active
+M4047,Press,2024-10-04,West,Active
+M4048,Grinder,2024-02-13,South,Active
+M4049,Conveyor,2023-11-04,North,Active
+M4050,CNC-Machine,2023-07-30,West,Inactive
+M4051,3D Print,2024-11-13,West,Active
+M4052,3D Print,2022-09-22,East,Active
+M4053,Mixer,2023-02-07,West,Active
+M4054,Laser Cutter,2023-11-24,East,Active
+M4055,CNC-Machine,2025-07-14,West,Inactive
+M4056,Mixer,2024-09-10,North,Active
+M4057,Drill,2024-12-26,West,Active
+M4058,Drill,2025-04-08,East,Active
+M4059,Drill,2023-12-23,North,Active
+M4060,Packaging Unit,2022-12-21,East,Inactive
+M4061,3D Print,2023-12-05,South,Inactive
+M4062,Packaging Unit,2023-08-09,East,Active
+M4063,CNC-Machine,2022-10-29,East,Active
+M4064,CNC-Machine,2023-12-04,North,Inactive
+M4065,Compressor,2023-06-16,North,Active
+M4066,Compressor,2022-12-06,East,Inactive
+M4067,Grinder,2022-10-03,West,Active
+M4068,Mixer,2023-10-18,East,Inactive
+M4069,Laser Cutter,2023-03-01,East,Inactive
+M4070,Lathe,2024-10-07,East,Active
+M4071,Grinder,2024-12-05,East,Active
+M4072,Laser Cutter,2023-07-07,South,Active
+M4073,CNC-Machine,2023-02-28,South,Active
+M4074,Press,2023-08-15,North,Inactive
+M4075,Furnace,2025-06-14,North,Inactive
+M4076,Conveyor,2023-01-07,East,Inactive
+M4077,Press,2023-04-29,West,Inactive
+M4078,Furnace,2023-08-26,West,Active
+M4079,CNC-Machine,2022-07-19,West,Active
+M4080,Conveyor,2024-08-11,West,Inactive
+M4081,Pump,2024-04-25,West,Active
+M4082,Welder,2024-06-29,West,Active
+M4083,Press,2025-01-11,West,Inactive
+M4084,Furnace,2022-08-08,South,Active
+M4085,Welder,2023-08-18,East,Inactive
+M4086,Press,2024-03-14,South,Inactive
+M4087,Grinder,2023-02-08,East,Active
+M4088,Packaging Unit,2024-10-15,West,Inactive
+M4089,Press,2022-12-14,East,Active
+M4090,Conveyor,2025-05-06,West,Inactive
+M4091,Pump,2023-09-02,West,Active
+M4092,3D Print,2022-08-31,South,Inactive
+M4093,3D Print,2024-07-28,East,Active
+M4094,Mixer,2022-07-28,West,Inactive
+M4095,Compressor,2023-06-11,East,Active
+M4096,Conveyor,2025-02-23,East,Active
+M4097,Mixer,2024-04-30,North,Inactive
+M4098,Furnace,2024-12-29,West,Active
+M4099,Furnace,2023-11-30,East,Inactive
+M4100,Lathe,2022-11-03,West,Active
+M4101,Packaging Unit,2025-04-01,South,Active
+M4102,Grinder,2025-05-11,North,Inactive
+M4103,Furnace,2023-01-02,West,Active
+M4104,Packaging Unit,2024-07-19,North,Inactive
+M4105,Mixer,2025-04-02,West,Inactive
+M4106,Lathe,2023-08-05,West,Inactive
+M4107,Furnace,2024-11-10,North,Inactive
+M4108,Welder,2023-12-31,West,Inactive
+M4109,Press,2024-05-23,North,Active
+M4110,Press,2022-11-11,North,Active
+M4111,Grinder,2022-09-01,West,Inactive
+M4112,Lathe,2023-08-23,North,Active
+M4113,Pump,2024-09-01,East,Inactive
+M4114,CNC-Machine,2024-08-31,West,Inactive
+M4115,Conveyor,2024-11-09,South,Active
+M4116,Pump,2025-01-06,West,Inactive
+M4117,CNC-Machine,2024-08-08,East,Inactive
+M4118,Furnace,2023-04-24,South,Active
+M4119,CNC-Machine,2023-01-21,South,Active
+M4120,Laser Cutter,2023-11-01,North,Inactive
+M4121,3D Print,2023-08-11,West,Inactive
+M4122,3D Print,2025-02-25,West,Inactive
+M4123,Compressor,2024-08-15,East,Active
+M4124,Laser Cutter,2023-05-01,East,Active
+M4125,Conveyor,2025-04-06,West,Active
+M4126,Compressor,2025-01-23,North,Inactive
+M4127,Conveyor,2023-11-14,South,Inactive
+M4128,Mixer,2023-06-28,East,Inactive
+M4129,Mixer,2023-12-11,North,Active
+M4130,Conveyor,2025-05-10,North,Active
+M4131,Welder,2024-01-30,North,Active
+M4132,Press,2024-07-28,North,Inactive
+M4133,Compressor,2023-05-16,South,Inactive
+M4134,Packaging Unit,2023-01-30,South,Inactive
+M4135,3D Print,2025-04-27,South,Inactive
+M4136,Drill,2025-07-06,South,Active
+M4137,Mixer,2024-08-29,South,Inactive
+M4138,Press,2025-05-29,East,Inactive
+M4139,Pump,2022-08-21,East,Active
+M4140,Mixer,2025-06-03,North,Active
+M4141,Packaging Unit,2025-07-08,North,Inactive
+M4142,Press,2024-08-08,North,Active
+M4143,Press,2022-08-27,South,Active
+M4144,Lathe,2023-04-11,North,Active
+M4145,Compressor,2023-09-23,West,Inactive
+M4146,Drill,2022-08-03,South,Inactive
+M4147,Compressor,2024-11-11,West,Inactive
+M4148,Press,2024-07-04,North,Active
+M4149,Mixer,2024-11-12,North,Inactive
+M4150,Packaging Unit,2023-11-19,North,Inactive
+M4151,Packaging Unit,2025-03-12,West,Inactive
+M4152,Compressor,2022-11-13,South,Active
+M4153,CNC-Machine,2023-10-06,North,Inactive
+M4154,CNC-Machine,2023-06-30,West,Inactive
+M4155,Conveyor,2024-06-19,South,Active
+M4156,Laser Cutter,2024-08-21,West,Active
+M4157,Packaging Unit,2025-04-17,North,Inactive
+M4158,Drill,2023-11-04,North,Active
+M4159,Mixer,2023-01-27,North,Active
+M4160,Mixer,2022-09-06,North,Active
+M4161,Packaging Unit,2023-11-08,North,Active
+M4162,Furnace,2022-09-24,South,Inactive
+M4163,Drill,2023-10-20,East,Inactive
+M4164,Furnace,2025-03-04,North,Inactive
+M4165,Grinder,2023-12-14,West,Inactive
+M4166,Mixer,2025-03-21,South,Inactive
+M4167,Furnace,2025-01-14,North,Inactive
+M4168,Press,2024-10-10,West,Inactive
+M4169,Furnace,2023-07-08,West,Active
+M4170,Laser Cutter,2022-10-20,South,Active
+M4171,Press,2025-06-25,South,Active
+M4172,Grinder,2023-04-18,North,Inactive
+M4173,Grinder,2023-11-12,West,Active
+M4174,CNC-Machine,2022-10-23,South,Active
+M4175,Lathe,2023-06-23,East,Inactive
+M4176,Conveyor,2024-07-06,West,Active
+M4177,Compressor,2025-04-21,East,Active
+M4178,CNC-Machine,2023-05-26,South,Active
+M4179,Laser Cutter,2023-01-14,West,Active
+M4180,Conveyor,2022-11-22,East,Active
+M4181,Furnace,2024-12-09,East,Inactive
+M4182,Grinder,2023-01-09,South,Active
+M4183,Packaging Unit,2022-11-04,North,Active
+M4184,Compressor,2023-02-18,South,Inactive
+M4185,CNC-Machine,2024-02-19,South,Inactive
+M4186,Compressor,2025-06-21,West,Active
+M4187,Conveyor,2023-06-08,South,Active
+M4188,CNC-Machine,2025-06-13,North,Active
+M4189,Grinder,2024-11-21,West,Active
+M4190,Laser Cutter,2025-04-22,East,Inactive
+M4191,Mixer,2024-02-28,East,Active
+M4192,Lathe,2024-12-14,South,Inactive
+M4193,Compressor,2023-05-24,East,Active
+M4194,3D Print,2024-10-08,East,Active
+M4195,Drill,2022-11-14,North,Active
+M4196,Laser Cutter,2023-05-19,East,Inactive
+M4197,Laser Cutter,2024-03-09,North,Active
+M4198,Press,2023-04-24,West,Active
+M4199,Welder,2023-04-29,South,Active
+M4200,CNC-Machine,2023-09-29,West,Inactive
+M4201,Conveyor,2025-03-14,South,Active
+M4202,Furnace,2025-06-11,East,Active
+M4203,Lathe,2023-09-09,North,Inactive
+M4204,Conveyor,2022-09-22,North,Inactive
+M4205,Welder,2024-09-03,East,Inactive
+M4206,CNC-Machine,2024-03-02,East,Active
+M4207,Compressor,2025-01-15,East,Active
+M4208,Grinder,2024-02-13,North,Active
+M4209,Drill,2023-10-19,South,Active
+M4210,Press,2022-11-19,South,Active
+M4211,Compressor,2025-05-01,South,Inactive
+M4212,CNC-Machine,2024-09-14,South,Active
+M4213,Pump,2025-03-27,West,Inactive
+M4214,Furnace,2022-07-26,East,Active
+M4215,Compressor,2024-11-18,South,Active
+M4216,Drill,2023-08-08,East,Inactive
+M4217,Grinder,2025-04-06,South,Inactive
+M4218,Welder,2022-11-01,South,Inactive
+M4219,Pump,2024-09-14,West,Active
+M4220,CNC-Machine,2023-02-27,East,Inactive
+M4221,Furnace,2025-01-01,East,Inactive
+M4222,Laser Cutter,2023-02-25,East,Inactive
+M4223,Mixer,2023-10-10,North,Active
+M4224,CNC-Machine,2023-12-09,South,Active
+M4225,CNC-Machine,2023-10-16,North,Inactive
+M4226,Compressor,2024-12-17,North,Inactive
+M4227,Mixer,2025-01-25,South,Inactive
+M4228,Press,2025-02-25,West,Inactive
+M4229,Compressor,2024-11-12,East,Active
+M4230,Drill,2023-03-21,South,Active
+M4231,Laser Cutter,2025-02-19,South,Active
+M4232,Laser Cutter,2025-02-03,East,Inactive
+M4233,Packaging Unit,2024-12-03,North,Inactive
+M4234,Furnace,2024-11-03,West,Active
+M4235,Drill,2023-03-21,North,Active
+M4236,Mixer,2024-09-26,North,Active
+M4237,CNC-Machine,2025-04-04,North,Inactive
+M4238,Compressor,2025-04-13,South,Active
+M4239,Furnace,2022-07-20,West,Inactive
+M4240,Lathe,2024-08-04,West,Active
+M4241,3D Print,2024-08-03,South,Inactive
+M4242,Drill,2023-07-03,East,Active
+M4243,Conveyor,2024-12-18,West,Inactive
+M4244,Pump,2023-05-23,East,Active
+M4245,Grinder,2023-05-02,East,Inactive
+M4246,Laser Cutter,2023-09-22,South,Inactive
+M4247,Grinder,2025-04-17,North,Active
+M4248,Furnace,2023-04-03,East,Inactive
+M4249,Grinder,2025-06-08,West,Active
+M4250,CNC-Machine,2024-06-23,South,Active
+M4251,Packaging Unit,2022-10-13,North,Active
+M4252,Mixer,2024-11-12,North,Inactive
+M4253,Press,2023-12-20,East,Active
+M4254,Welder,2024-06-16,South,Active
+M4255,Conveyor,2023-01-13,South,Inactive
+M4256,Grinder,2022-08-30,North,Active
+M4257,Pump,2023-05-20,South,Active
+M4258,3D Print,2023-07-07,West,Inactive
+M4259,Lathe,2024-04-20,West,Active
+M4260,Press,2024-02-01,South,Active
+M4261,Pump,2024-03-15,North,Active
+M4262,Drill,2024-10-10,South,Inactive
+M4263,Laser Cutter,2023-03-02,East,Inactive
+M4264,Conveyor,2025-04-02,South,Active
+M4265,Grinder,2025-05-28,North,Inactive
+M4266,Packaging Unit,2024-08-27,East,Inactive
+M4267,Furnace,2022-08-13,South,Active
+M4268,Welder,2024-06-13,North,Active
+M4269,Compressor,2023-12-16,West,Active
+M4270,Mixer,2022-12-04,North,Active
+M4271,Mixer,2023-12-22,East,Inactive
+M4272,Pump,2023-08-20,South,Active
+M4273,Mixer,2023-08-06,West,Active
+M4274,Conveyor,2023-12-11,South,Active
+M4275,Packaging Unit,2023-08-27,North,Active
+M4276,Lathe,2025-01-22,South,Active
+M4277,Press,2024-08-05,West,Active
+M4278,Lathe,2024-04-03,South,Inactive
+M4279,3D Print,2025-02-27,West,Active
+M4280,Lathe,2024-10-23,West,Inactive
+M4281,Pump,2022-11-11,West,Inactive
+M4282,Pump,2022-09-09,South,Active
+M4283,Laser Cutter,2022-08-31,North,Active
+M4284,Pump,2025-05-21,East,Inactive
+M4285,Furnace,2024-02-14,West,Active
+M4286,Mixer,2024-05-27,North,Active
+M4287,Pump,2024-01-26,West,Inactive
+M4288,Compressor,2024-09-23,West,Inactive
+M4289,Grinder,2023-05-26,East,Active
+M4290,Grinder,2024-06-07,West,Active
+M4291,Mixer,2024-02-06,East,Active
+M4292,Grinder,2025-03-05,South,Inactive
+M4293,Packaging Unit,2025-02-18,West,Inactive
+M4294,Pump,2025-04-20,West,Active
+M4295,Compressor,2025-05-01,South,Active
+M4296,Welder,2023-06-28,South,Active
+M4297,CNC-Machine,2023-08-10,West,Inactive
+M4298,Mixer,2022-09-27,East,Active
+M4299,Compressor,2023-05-04,North,Inactive
+M4300,Laser Cutter,2025-01-07,West,Inactive
+M4301,CNC-Machine,2023-05-16,North,Active
+M4302,Pump,2024-02-22,North,Active
+M4303,CNC-Machine,2024-05-26,West,Active
+M4304,Furnace,2023-04-22,North,Active
+M4305,Mixer,2022-08-05,West,Inactive
+M4306,Laser Cutter,2024-01-22,South,Active
+M4307,Packaging Unit,2023-06-07,West,Active
+M4308,Furnace,2023-02-19,West,Inactive
+M4309,Lathe,2025-02-25,South,Active
+M4310,Compressor,2023-10-25,North,Active
+M4311,Compressor,2022-11-27,South,Inactive
+M4312,Conveyor,2022-10-30,West,Active
+M4313,Compressor,2023-02-18,South,Inactive
+M4314,Laser Cutter,2024-04-11,North,Active
+M4315,Mixer,2023-11-03,South,Inactive
+M4316,Packaging Unit,2024-05-17,East,Inactive
+M4317,Lathe,2022-12-31,South,Inactive
+M4318,3D Print,2024-05-16,West,Inactive
+M4319,3D Print,2022-07-23,South,Active
+M4320,CNC-Machine,2023-09-03,West,Inactive
+M4321,Drill,2022-07-19,South,Inactive
+M4322,Drill,2022-09-20,East,Inactive
+M4323,Grinder,2023-05-29,West,Active
+M4324,Pump,2023-01-11,West,Inactive
+M4325,Mixer,2024-09-22,West,Inactive
+M4326,Laser Cutter,2022-12-24,West,Active
+M4327,Welder,2022-10-26,East,Inactive
+M4328,CNC-Machine,2024-10-22,North,Active
+M4329,Packaging Unit,2022-10-26,South,Inactive
+M4330,Grinder,2024-02-23,East,Active
+M4331,Furnace,2022-09-15,North,Inactive
+M4332,Conveyor,2024-08-06,North,Inactive
+M4333,Welder,2024-01-21,North,Active
+M4334,Mixer,2024-03-31,North,Active
+M4335,3D Print,2023-01-10,North,Inactive
+M4336,Furnace,2024-02-29,West,Active
+M4337,Mixer,2024-09-09,North,Inactive
+M4338,Drill,2023-11-21,West,Inactive
+M4339,3D Print,2022-12-30,West,Inactive
+M4340,Pump,2023-03-15,West,Active
+M4341,Mixer,2024-11-25,North,Inactive
+M4342,Mixer,2025-06-27,West,Inactive
+M4343,Packaging Unit,2023-03-03,North,Inactive
+M4344,Lathe,2023-11-23,South,Inactive
+M4345,Press,2023-07-31,South,Active
+M4346,Packaging Unit,2024-06-16,South,Inactive
+M4347,Lathe,2023-03-24,South,Active
+M4348,Conveyor,2024-06-04,North,Inactive
+M4349,Mixer,2024-10-14,South,Active
+M4350,Mixer,2024-05-24,North,Active
+M4351,Welder,2024-09-22,South,Active
+M4352,Packaging Unit,2023-10-08,East,Active
+M4353,Press,2025-06-01,South,Inactive
+M4354,Grinder,2024-05-21,West,Active
+M4355,Lathe,2023-01-10,West,Active
+M4356,CNC-Machine,2024-11-17,West,Active
+M4357,Welder,2022-07-20,West,Active
+M4358,Drill,2025-07-05,South,Inactive
+M4359,CNC-Machine,2025-06-18,East,Active
+M4360,Compressor,2023-07-12,South,Inactive
+M4361,Furnace,2024-10-25,West,Active
+M4362,Lathe,2025-04-25,East,Active
+M4363,Compressor,2023-08-01,East,Inactive
+M4364,CNC-Machine,2025-01-31,East,Inactive
+M4365,Mixer,2025-03-26,West,Inactive
+M4366,Press,2024-08-17,West,Inactive
+M4367,Welder,2023-08-21,West,Active
+M4368,3D Print,2023-07-21,South,Inactive
+M4369,Furnace,2023-12-26,South,Active
+M4370,Drill,2024-09-30,East,Inactive
+M4371,Lathe,2025-04-21,South,Inactive
+M4372,Press,2024-11-11,West,Inactive
+M4373,Mixer,2023-04-11,South,Active
+M4374,Pump,2025-02-24,South,Active
+M4375,Grinder,2024-12-24,East,Inactive
+M4376,Press,2023-07-31,West,Inactive
+M4377,Conveyor,2023-08-11,West,Active
+M4378,Pump,2024-07-23,East,Inactive
+M4379,Furnace,2023-07-05,West,Active
+M4380,Packaging Unit,2025-04-13,West,Inactive
+M4381,Laser Cutter,2024-12-28,South,Active
+M4382,Lathe,2022-07-28,East,Inactive
+M4383,Laser Cutter,2023-01-15,West,Inactive
+M4384,Compressor,2023-12-31,South,Inactive
+M4385,Welder,2025-02-26,North,Inactive
+M4386,3D Print,2023-02-10,East,Active
+M4387,Compressor,2023-11-07,North,Inactive
+M4388,3D Print,2025-02-22,South,Active
+M4389,Pump,2023-10-25,West,Inactive
+M4390,Drill,2023-06-15,South,Active
+M4391,Welder,2025-06-30,South,Active
+M4392,Press,2022-09-16,North,Inactive
+M4393,Lathe,2023-03-19,West,Active
+M4394,Conveyor,2023-07-23,West,Inactive
+M4395,Compressor,2023-04-19,West,Inactive
+M4396,Mixer,2023-09-20,East,Inactive
+M4397,Packaging Unit,2023-10-13,North,Active
+M4398,3D Print,2024-07-09,West,Active
+M4399,Welder,2024-12-29,East,Active
+M4400,Mixer,2025-02-24,West,Inactive
+M4401,Grinder,2024-03-07,South,Inactive
+M4402,Conveyor,2022-12-29,West,Active
+M4403,Mixer,2023-04-14,North,Active
+M4404,Furnace,2024-03-07,South,Active
+M4405,Welder,2025-04-10,East,Active
+M4406,3D Print,2023-02-04,North,Inactive
+M4407,Laser Cutter,2024-03-09,North,Active
+M4408,Press,2023-06-03,West,Inactive
+M4409,Furnace,2025-01-05,West,Active
+M4410,Welder,2022-11-30,South,Active
+M4411,Press,2024-05-05,West,Inactive
+M4412,Press,2022-12-08,North,Active
+M4413,Grinder,2025-05-09,North,Active
+M4414,Press,2025-06-06,West,Inactive
+M4415,CNC-Machine,2024-05-16,West,Active
+M4416,Packaging Unit,2025-05-16,North,Active
+M4417,Lathe,2023-11-20,West,Active
+M4418,Welder,2024-12-23,East,Inactive
+M4419,3D Print,2024-04-20,North,Inactive
+M4420,3D Print,2023-10-14,North,Inactive
+M4421,3D Print,2024-11-25,South,Active
+M4422,Grinder,2025-03-03,East,Active
+M4423,Press,2024-01-03,East,Active
+M4424,Laser Cutter,2023-09-07,East,Active
+M4425,Compressor,2023-04-23,West,Inactive
+M4426,Drill,2023-04-19,East,Active
+M4427,Drill,2023-06-19,West,Active
+M4428,3D Print,2024-10-06,East,Inactive
+M4429,3D Print,2024-04-10,North,Inactive
+M4430,Welder,2022-11-16,North,Inactive
+M4431,Compressor,2024-02-04,West,Active
+M4432,Laser Cutter,2023-11-01,South,Active
+M4433,Laser Cutter,2024-12-26,West,Active
+M4434,Laser Cutter,2023-01-09,East,Active
+M4435,CNC-Machine,2023-05-27,West,Active
+M4436,Welder,2023-05-16,South,Active
+M4437,Drill,2023-01-11,North,Active
+M4438,Compressor,2024-03-12,West,Active
+M4439,Laser Cutter,2024-12-27,West,Inactive
+M4440,CNC-Machine,2025-07-11,South,Inactive
+M4441,3D Print,2022-08-12,South,Inactive
+M4442,Pump,2023-03-22,East,Inactive
+M4443,Laser Cutter,2023-09-08,West,Inactive
+M4444,Welder,2023-09-01,North,Active
+M4445,CNC-Machine,2023-10-10,North,Inactive
+M4446,Compressor,2023-03-10,South,Inactive
+M4447,Mixer,2024-10-23,North,Inactive
+M4448,Compressor,2025-02-11,South,Active
+M4449,CNC-Machine,2023-06-12,South,Active
+M4450,Compressor,2022-07-17,North,Inactive
+M4451,Press,2022-11-08,North,Active
+M4452,Pump,2023-01-21,East,Inactive
+M4453,Press,2023-10-03,East,Inactive
+M4454,Compressor,2024-02-21,West,Active
+M4455,Conveyor,2023-02-25,North,Active
+M4456,Packaging Unit,2024-11-16,West,Active
+M4457,Compressor,2023-03-04,North,Inactive
+M4458,Pump,2023-05-30,North,Active
+M4459,Packaging Unit,2023-06-28,East,Inactive
+M4460,CNC-Machine,2023-12-14,East,Active
+M4461,Welder,2023-01-04,South,Active
+M4462,CNC-Machine,2023-12-22,North,Inactive
+M4463,Packaging Unit,2024-09-08,North,Active
+M4464,Conveyor,2023-11-07,East,Inactive
+M4465,Packaging Unit,2022-09-03,West,Active
+M4466,Conveyor,2023-11-08,East,Inactive
+M4467,Conveyor,2023-09-12,West,Active
+M4468,Compressor,2024-02-17,South,Active
+M4469,Lathe,2023-10-25,West,Inactive
+M4470,3D Print,2022-11-18,East,Inactive
+M4471,Compressor,2025-03-17,West,Active
+M4472,Welder,2024-03-10,North,Inactive
+M4473,Pump,2023-06-15,West,Inactive
+M4474,Lathe,2023-06-10,North,Inactive
+M4475,Mixer,2025-01-26,South,Active
+M4476,Mixer,2025-02-14,South,Inactive
+M4477,Grinder,2023-07-03,North,Inactive
+M4478,Compressor,2024-12-26,South,Inactive
+M4479,Welder,2023-09-15,South,Inactive
+M4480,Conveyor,2023-12-06,South,Active
+M4481,Packaging Unit,2025-03-18,South,Active
+M4482,Lathe,2024-10-26,North,Active
+M4483,Press,2025-02-15,North,Active
+M4484,Grinder,2024-01-05,West,Inactive
+M4485,CNC-Machine,2023-07-26,East,Active
+M4486,3D Print,2024-02-09,South,Active
+M4487,Compressor,2025-01-16,East,Active
+M4488,Mixer,2025-01-18,North,Inactive
+M4489,Welder,2024-11-24,South,Active
+M4490,Pump,2025-05-24,North,Active
+M4491,CNC-Machine,2022-08-12,South,Inactive
+M4492,3D Print,2022-11-02,South,Inactive
+M4493,Conveyor,2024-01-15,West,Inactive
+M4494,Compressor,2023-07-09,East,Active
+M4495,Conveyor,2025-06-20,South,Inactive
+M4496,Laser Cutter,2023-06-23,West,Inactive
+M4497,Mixer,2023-09-10,West,Active
+M4498,Mixer,2023-01-07,North,Inactive
+M4499,Pump,2023-12-27,West,Inactive
+M4500,Welder,2024-12-02,West,Inactive
+M4501,Pump,2024-05-28,West,Inactive
+M4502,Conveyor,2022-09-29,North,Inactive
+M4503,3D Print,2024-08-10,South,Active
+M4504,Mixer,2024-12-20,North,Inactive
+M4505,Pump,2024-02-10,North,Active
+M4506,Packaging Unit,2024-08-06,South,Inactive
+M4507,Welder,2024-12-29,South,Active
+M4508,Welder,2022-09-16,South,Inactive
+M4509,Conveyor,2022-09-19,West,Active
+M4510,Lathe,2025-07-07,East,Active
+M4511,Packaging Unit,2024-02-10,West,Active
+M4512,Packaging Unit,2024-02-03,North,Inactive
+M4513,Packaging Unit,2025-02-23,South,Active
+M4514,Furnace,2023-05-24,South,Inactive
+M4515,Laser Cutter,2024-01-13,North,Inactive
+M4516,3D Print,2023-04-22,South,Active
+M4517,Drill,2024-03-26,West,Active
+M4518,Laser Cutter,2024-11-04,North,Inactive
+M4519,CNC-Machine,2023-03-14,South,Active
+M4520,Furnace,2022-08-06,South,Inactive
+M4521,Grinder,2022-11-13,West,Inactive
+M4522,Laser Cutter,2023-09-11,North,Active
+M4523,Drill,2022-09-09,North,Inactive
+M4524,Compressor,2023-04-20,East,Inactive
+M4525,Drill,2023-05-03,East,Inactive
+M4526,Furnace,2024-05-31,North,Inactive
+M4527,Grinder,2022-10-22,North,Active
+M4528,3D Print,2025-01-09,South,Active
+M4529,3D Print,2022-11-05,North,Inactive
+M4530,Press,2024-10-02,East,Active
+M4531,Mixer,2024-06-23,West,Inactive
+M4532,Laser Cutter,2022-08-04,North,Inactive
+M4533,Pump,2023-10-26,West,Inactive
+M4534,Compressor,2022-10-09,East,Inactive
+M4535,Welder,2025-04-19,North,Active
+M4536,Grinder,2023-12-05,South,Active
+M4537,Furnace,2024-10-02,North,Inactive
+M4538,Lathe,2024-12-22,East,Inactive
+M4539,Laser Cutter,2023-08-19,East,Inactive
+M4540,Press,2023-11-17,North,Active
+M4541,Conveyor,2022-12-29,South,Active
+M4542,Press,2023-06-30,North,Active
+M4543,Grinder,2022-11-07,South,Active
+M4544,3D Print,2025-02-05,West,Inactive
+M4545,Grinder,2022-12-16,South,Inactive
+M4546,Laser Cutter,2023-05-10,South,Inactive
+M4547,Conveyor,2024-12-31,East,Inactive
+M4548,Grinder,2023-11-08,West,Inactive
+M4549,CNC-Machine,2022-10-20,West,Inactive
+M4550,Drill,2024-04-05,South,Inactive
+M4551,CNC-Machine,2025-05-12,East,Active
+M4552,Mixer,2022-08-17,East,Active
+M4553,Welder,2024-09-17,South,Active
+M4554,Press,2023-11-06,East,Active
+M4555,Furnace,2023-01-25,South,Active
+M4556,3D Print,2024-03-30,West,Active
+M4557,Lathe,2025-01-23,North,Active
+M4558,Pump,2024-12-28,South,Active
+M4559,Pump,2024-12-12,East,Inactive
+M4560,Press,2023-09-13,North,Inactive
+M4561,Mixer,2025-02-23,South,Inactive
+M4562,Pump,2025-07-12,North,Inactive
+M4563,Mixer,2023-02-16,West,Active
+M4564,Laser Cutter,2023-05-17,East,Active
+M4565,Packaging Unit,2024-05-29,East,Inactive
+M4566,Drill,2023-09-04,North,Inactive
+M4567,Compressor,2024-09-02,North,Inactive
+M4568,Pump,2025-05-05,South,Active
+M4569,Packaging Unit,2024-05-10,South,Active
+M4570,Compressor,2023-11-21,West,Inactive
+M4571,CNC-Machine,2025-04-16,North,Inactive
+M4572,Furnace,2022-08-17,South,Inactive
+M4573,Furnace,2024-03-22,North,Active
+M4574,Pump,2025-02-27,South,Active
+M4575,Pump,2024-10-29,West,Active
+M4576,Laser Cutter,2025-06-03,East,Active
+M4577,CNC-Machine,2024-01-02,West,Inactive
+M4578,Packaging Unit,2024-10-30,West,Inactive
+M4579,Drill,2024-06-21,East,Active
+M4580,Mixer,2025-03-27,North,Active
+M4581,Conveyor,2022-08-28,North,Inactive
+M4582,Lathe,2024-04-03,East,Inactive
+M4583,Packaging Unit,2025-01-04,West,Inactive
+M4584,Furnace,2022-11-07,North,Active
+M4585,Press,2024-03-01,East,Inactive
+M4586,CNC-Machine,2024-02-16,West,Inactive
+M4587,CNC-Machine,2025-01-07,West,Active
+M4588,CNC-Machine,2023-06-02,East,Inactive
+M4589,Lathe,2023-10-20,South,Inactive
+M4590,Press,2024-01-04,North,Inactive
+M4591,Mixer,2023-01-14,West,Inactive
+M4592,Mixer,2024-05-28,South,Inactive
+M4593,Drill,2022-11-24,East,Inactive
+M4594,Drill,2022-10-17,North,Inactive
+M4595,Lathe,2024-06-19,South,Inactive
+M4596,Press,2024-06-01,South,Active
+M4597,3D Print,2023-06-01,West,Active
+M4598,Grinder,2023-08-14,South,Inactive
+M4599,Drill,2024-01-11,North,Inactive
+M4600,Conveyor,2024-05-16,West,Active
+M4601,Mixer,2024-12-27,North,Active
+M4602,Compressor,2023-02-06,South,Active
+M4603,Pump,2024-03-25,East,Active
+M4604,Press,2022-11-24,North,Inactive
+M4605,Welder,2024-07-31,West,Inactive
+M4606,Furnace,2022-12-01,North,Active
+M4607,Conveyor,2022-10-18,South,Inactive
+M4608,Furnace,2024-06-27,East,Active
+M4609,Drill,2023-03-10,West,Active
+M4610,Conveyor,2022-08-19,North,Active
+M4611,Drill,2023-10-31,South,Inactive
+M4612,Compressor,2023-06-05,East,Inactive
+M4613,Lathe,2025-05-29,North,Active
+M4614,Mixer,2023-03-01,North,Active
+M4615,Press,2023-03-27,North,Inactive
+M4616,Mixer,2024-11-07,South,Inactive
+M4617,Packaging Unit,2024-04-30,North,Inactive
+M4618,Mixer,2024-07-07,East,Inactive
+M4619,Pump,2022-08-12,West,Inactive
+M4620,Packaging Unit,2024-01-20,North,Inactive
+M4621,Pump,2025-04-08,East,Inactive
+M4622,Pump,2023-05-05,North,Active
+M4623,Grinder,2022-08-27,South,Inactive
+M4624,Press,2024-06-30,South,Inactive
+M4625,Compressor,2022-08-12,West,Inactive
+M4626,Packaging Unit,2023-06-26,South,Active
+M4627,Drill,2024-12-25,West,Inactive
+M4628,Mixer,2024-10-19,South,Active
+M4629,Welder,2023-02-12,West,Inactive
+M4630,Laser Cutter,2024-10-03,North,Inactive
+M4631,Drill,2025-05-08,North,Inactive
+M4632,Drill,2023-05-22,West,Inactive
+M4633,Furnace,2025-01-08,East,Active
+M4634,Packaging Unit,2025-03-02,West,Active
+M4635,Laser Cutter,2023-06-19,North,Active
+M4636,3D Print,2022-11-21,North,Active
+M4637,Furnace,2024-02-17,North,Inactive
+M4638,Furnace,2025-06-03,South,Inactive
+M4639,Grinder,2024-05-02,North,Inactive
+M4640,Lathe,2023-10-13,West,Inactive
+M4641,Welder,2024-12-31,East,Inactive
+M4642,Furnace,2022-11-02,North,Inactive
+M4643,Conveyor,2023-07-28,West,Active
+M4644,Pump,2025-01-30,South,Inactive
+M4645,Conveyor,2024-12-01,East,Active
+M4646,Conveyor,2024-09-24,West,Inactive
+M4647,Packaging Unit,2024-07-25,South,Inactive
+M4648,3D Print,2024-07-22,West,Inactive
+M4649,Welder,2024-08-03,South,Inactive
+M4650,Lathe,2025-06-22,South,Inactive
+M4651,Packaging Unit,2025-05-25,West,Active
+M4652,Welder,2024-12-01,North,Inactive
+M4653,Pump,2025-07-14,North,Inactive
+M4654,Press,2022-12-16,South,Active
+M4655,Mixer,2023-09-29,North,Active
+M4656,Compressor,2023-08-28,North,Inactive
+M4657,Conveyor,2022-08-12,East,Inactive
+M4658,Lathe,2024-12-25,West,Inactive
+M4659,Furnace,2025-06-16,South,Inactive
+M4660,Welder,2023-02-27,East,Active
+M4661,Press,2023-03-14,South,Active
+M4662,Conveyor,2025-01-31,East,Active
+M4663,Press,2023-10-25,North,Active
+M4664,Mixer,2024-04-28,West,Active
+M4665,Lathe,2024-12-21,North,Inactive
+M4666,Drill,2024-04-02,North,Active
+M4667,Welder,2023-02-01,North,Active
+M4668,Lathe,2023-11-06,East,Inactive
+M4669,Furnace,2025-04-13,West,Inactive
+M4670,Pump,2023-07-28,North,Inactive
+M4671,Conveyor,2022-08-01,North,Inactive
+M4672,Pump,2024-07-16,East,Inactive
+M4673,Laser Cutter,2024-06-07,South,Active
+M4674,Welder,2023-04-18,North,Inactive
+M4675,Laser Cutter,2024-01-06,East,Inactive
+M4676,Conveyor,2023-03-11,East,Active
+M4677,Press,2023-11-21,South,Inactive
+M4678,Laser Cutter,2024-04-25,East,Inactive
+M4679,Packaging Unit,2025-01-07,South,Active
+M4680,Welder,2022-08-27,East,Active
+M4681,CNC-Machine,2024-11-20,East,Active
+M4682,Packaging Unit,2024-05-11,West,Inactive
+M4683,Furnace,2024-08-05,South,Inactive
+M4684,CNC-Machine,2025-01-20,South,Active
+M4685,Furnace,2023-06-29,North,Active
+M4686,Lathe,2023-12-21,South,Inactive
+M4687,Mixer,2025-06-01,South,Active
+M4688,Conveyor,2024-02-14,North,Active
+M4689,CNC-Machine,2024-02-28,South,Active
+M4690,CNC-Machine,2024-10-26,West,Inactive
+M4691,Lathe,2025-04-24,South,Active
+M4692,Grinder,2023-11-18,West,Inactive
+M4693,Drill,2023-11-13,South,Active
+M4694,3D Print,2023-04-16,South,Inactive
+M4695,Drill,2023-09-08,North,Inactive
+M4696,3D Print,2025-06-03,East,Inactive
+M4697,Lathe,2025-06-18,South,Inactive
+M4698,Packaging Unit,2024-05-18,North,Active
+M4699,Welder,2024-11-25,South,Inactive
+M4700,Laser Cutter,2023-06-01,North,Active
+M4701,3D Print,2023-10-15,West,Active
+M4702,Drill,2022-10-01,North,Inactive
+M4703,Conveyor,2022-10-19,East,Inactive
+M4704,Mixer,2023-04-02,South,Active
+M4705,Welder,2024-07-21,East,Inactive
+M4706,Lathe,2025-07-02,East,Active
+M4707,CNC-Machine,2023-03-25,West,Inactive
+M4708,3D Print,2024-08-25,West,Inactive
+M4709,Drill,2024-04-12,North,Inactive
+M4710,Laser Cutter,2024-03-26,East,Inactive
+M4711,Pump,2024-12-10,East,Inactive
+M4712,3D Print,2024-05-30,West,Inactive
+M4713,CNC-Machine,2023-12-04,East,Inactive
+M4714,Conveyor,2023-07-28,West,Active
+M4715,Mixer,2023-11-03,South,Active
+M4716,Welder,2024-11-20,West,Active
+M4717,Pump,2023-11-18,South,Inactive
+M4718,Conveyor,2024-09-03,East,Inactive
+M4719,Packaging Unit,2024-04-30,South,Inactive
+M4720,Conveyor,2025-06-01,East,Inactive
+M4721,Conveyor,2022-07-22,East,Active
+M4722,Lathe,2023-08-02,South,Inactive
+M4723,Welder,2025-02-01,North,Active
+M4724,Drill,2024-05-08,South,Active
+M4725,CNC-Machine,2023-05-16,East,Inactive
+M4726,Compressor,2025-06-19,South,Inactive
+M4727,Grinder,2023-02-01,North,Active
+M4728,Compressor,2025-01-21,East,Active
+M4729,3D Print,2024-04-16,West,Active
+M4730,Drill,2023-02-16,West,Inactive
+M4731,Laser Cutter,2024-07-08,South,Inactive
+M4732,Grinder,2024-06-19,North,Active
+M4733,Lathe,2023-09-26,West,Inactive
+M4734,Packaging Unit,2023-09-17,North,Inactive
+M4735,Welder,2024-04-29,North,Inactive
+M4736,Lathe,2022-10-11,East,Active
+M4737,Pump,2022-08-02,North,Active
+M4738,Compressor,2023-01-01,South,Inactive
+M4739,Furnace,2025-01-07,South,Active
+M4740,Compressor,2024-11-02,West,Inactive
+M4741,Compressor,2024-12-20,North,Active
+M4742,Press,2023-09-25,South,Active
+M4743,Lathe,2023-04-30,North,Active
+M4744,Conveyor,2024-07-27,East,Active
+M4745,Pump,2024-11-23,East,Active
+M4746,Press,2025-05-31,North,Inactive
+M4747,Press,2023-02-04,East,Active
+M4748,Pump,2023-10-05,North,Inactive
+M4749,Lathe,2023-11-27,West,Active
+M4750,Lathe,2023-03-18,South,Inactive
+M4751,Grinder,2022-12-05,East,Inactive
+M4752,Conveyor,2024-03-09,South,Inactive
+M4753,Packaging Unit,2023-02-27,South,Inactive
+M4754,Drill,2024-05-24,South,Inactive
+M4755,Furnace,2023-10-13,West,Active
+M4756,Furnace,2025-05-28,East,Active
+M4757,CNC-Machine,2024-04-11,West,Inactive
+M4758,Mixer,2024-06-26,North,Inactive
+M4759,Laser Cutter,2023-02-12,West,Active
+M4760,Packaging Unit,2024-12-16,East,Inactive
+M4761,Mixer,2024-10-03,South,Inactive
+M4762,Compressor,2024-05-20,West,Inactive
+M4763,Press,2024-08-21,East,Active
+M4764,Press,2023-09-09,East,Inactive
+M4765,CNC-Machine,2024-10-16,East,Inactive
+M4766,Welder,2024-10-05,East,Active
+M4767,Pump,2024-04-12,South,Active
+M4768,Laser Cutter,2024-09-08,South,Inactive
+M4769,Mixer,2025-03-29,East,Inactive
+M4770,Conveyor,2023-08-11,West,Inactive
+M4771,CNC-Machine,2025-01-03,East,Inactive
+M4772,Packaging Unit,2024-01-29,West,Inactive
+M4773,Furnace,2023-01-30,West,Inactive
+M4774,CNC-Machine,2022-12-03,East,Inactive
+M4775,Mixer,2023-09-13,East,Active
+M4776,3D Print,2024-10-11,North,Active
+M4777,CNC-Machine,2025-03-05,South,Active
+M4778,Compressor,2024-09-09,South,Inactive
+M4779,Lathe,2023-05-17,North,Active
+M4780,Furnace,2025-03-13,West,Active
+M4781,3D Print,2025-04-11,West,Active
+M4782,Laser Cutter,2025-01-27,West,Inactive
+M4783,Drill,2024-06-03,North,Active
+M4784,Welder,2022-12-05,North,Active
+M4785,Lathe,2023-09-30,North,Inactive
+M4786,Conveyor,2025-05-24,East,Active
+M4787,Packaging Unit,2024-11-29,North,Inactive
+M4788,Conveyor,2023-12-28,South,Active
+M4789,Drill,2022-09-28,West,Inactive
+M4790,Pump,2023-09-23,West,Active
+M4791,Mixer,2023-11-03,East,Inactive
+M4792,Pump,2023-07-29,West,Active
+M4793,CNC-Machine,2022-12-17,West,Active
+M4794,Conveyor,2023-07-14,East,Inactive
+M4795,Compressor,2025-06-13,East,Inactive
+M4796,Press,2024-09-15,North,Active
+M4797,Grinder,2022-07-22,East,Inactive
+M4798,Grinder,2024-12-04,North,Active
+M4799,Compressor,2022-08-21,West,Active
+M4800,Laser Cutter,2025-05-05,South,Inactive
+M4801,Pump,2025-06-10,South,Active
+M4802,Grinder,2025-02-08,East,Active
+M4803,Mixer,2024-11-09,East,Active
+M4804,3D Print,2023-10-15,West,Inactive
+M4805,Laser Cutter,2023-12-02,South,Inactive
+M4806,3D Print,2023-05-15,West,Inactive
+M4807,Conveyor,2023-06-10,East,Inactive
+M4808,Press,2024-11-16,West,Active
+M4809,Furnace,2024-02-25,South,Inactive
+M4810,Welder,2023-12-20,North,Inactive
+M4811,Laser Cutter,2023-03-14,South,Inactive
+M4812,Furnace,2023-11-13,South,Active
+M4813,Conveyor,2023-09-27,East,Inactive
+M4814,Packaging Unit,2023-08-13,North,Active
+M4815,Conveyor,2024-09-26,West,Inactive
+M4816,Drill,2024-01-31,West,Inactive
+M4817,Furnace,2024-06-18,South,Active
+M4818,Drill,2023-02-15,West,Inactive
+M4819,CNC-Machine,2023-12-25,North,Inactive
+M4820,Drill,2023-04-12,West,Inactive
+M4821,Grinder,2024-07-05,South,Active
+M4822,CNC-Machine,2023-05-25,West,Active
+M4823,Welder,2022-07-23,West,Inactive
+M4824,Lathe,2024-08-26,West,Inactive
+M4825,Laser Cutter,2023-10-02,West,Inactive
+M4826,Press,2024-05-21,West,Inactive
+M4827,Lathe,2023-10-26,West,Inactive
+M4828,Welder,2025-01-02,North,Active
+M4829,Conveyor,2023-09-28,West,Active
+M4830,Lathe,2024-04-05,South,Inactive
+M4831,Packaging Unit,2024-02-10,South,Inactive
+M4832,Pump,2024-10-14,South,Active
+M4833,CNC-Machine,2023-06-20,West,Inactive
+M4834,Compressor,2025-02-27,East,Inactive
+M4835,Furnace,2023-01-25,East,Inactive
+M4836,Drill,2023-01-09,South,Inactive
+M4837,CNC-Machine,2023-07-02,South,Active
+M4838,3D Print,2022-12-29,South,Inactive
+M4839,Conveyor,2024-10-04,West,Active
+M4840,Conveyor,2024-06-05,South,Inactive
+M4841,Packaging Unit,2024-01-26,North,Inactive
+M4842,Laser Cutter,2022-09-23,West,Active
+M4843,CNC-Machine,2024-01-30,East,Inactive
+M4844,Welder,2023-02-28,South,Active
+M4845,Drill,2024-12-16,North,Active
+M4846,CNC-Machine,2022-11-22,West,Inactive
+M4847,3D Print,2023-05-15,North,Inactive
+M4848,Mixer,2023-09-13,South,Active
+M4849,CNC-Machine,2025-07-09,East,Active
+M4850,Mixer,2022-09-03,West,Inactive
+M4851,Lathe,2023-07-25,South,Inactive
+M4852,Drill,2024-11-06,West,Active
+M4853,Welder,2022-07-30,North,Active
+M4854,Conveyor,2024-01-19,East,Inactive
+M4855,Grinder,2025-03-18,North,Inactive
+M4856,Compressor,2024-10-25,North,Inactive
+M4857,Mixer,2024-11-28,South,Active
+M4858,Press,2024-04-03,East,Inactive
+M4859,Compressor,2022-11-25,South,Inactive
+M4860,Mixer,2024-10-04,South,Active
+M4861,Welder,2023-04-24,East,Inactive
+M4862,3D Print,2023-12-27,South,Active
+M4863,CNC-Machine,2023-12-25,East,Inactive
+M4864,Press,2024-09-04,North,Active
+M4865,Welder,2024-09-11,North,Inactive
+M4866,Lathe,2023-04-29,North,Active
+M4867,CNC-Machine,2024-10-11,East,Active
+M4868,Compressor,2022-07-23,East,Active
+M4869,Welder,2024-07-06,North,Active
+M4870,Furnace,2024-11-29,West,Active
+M4871,Pump,2025-07-13,South,Inactive
+M4872,Furnace,2023-07-02,East,Inactive
+M4873,CNC-Machine,2022-12-30,South,Inactive
+M4874,Press,2023-04-08,West,Inactive
+M4875,Lathe,2023-04-24,East,Active
+M4876,Lathe,2023-11-22,South,Inactive
+M4877,Laser Cutter,2024-09-20,West,Inactive
+M4878,Press,2024-06-08,North,Inactive
+M4879,Drill,2023-04-26,East,Active
+M4880,Furnace,2023-12-04,South,Inactive
+M4881,Furnace,2024-11-30,North,Active
+M4882,Furnace,2024-10-31,South,Active
+M4883,CNC-Machine,2024-02-03,South,Active
+M4884,Pump,2024-04-12,West,Active
+M4885,Laser Cutter,2025-07-05,North,Active
+M4886,Compressor,2022-10-18,North,Inactive
+M4887,Packaging Unit,2024-09-12,North,Inactive
+M4888,CNC-Machine,2022-09-29,East,Active
+M4889,3D Print,2023-04-08,West,Inactive
+M4890,Laser Cutter,2022-12-08,North,Active
+M4891,Mixer,2022-12-29,North,Active
+M4892,Furnace,2024-06-03,East,Active
+M4893,Drill,2024-06-01,South,Active
+M4894,Welder,2024-07-25,West,Active
+M4895,Laser Cutter,2025-04-21,North,Active
+M4896,Welder,2022-11-15,North,Active
+M4897,Laser Cutter,2023-09-18,West,Inactive
+M4898,Laser Cutter,2024-09-22,North,Inactive
+M4899,CNC-Machine,2025-05-11,North,Active
+M4900,Packaging Unit,2025-03-10,North,Inactive
+M4901,Lathe,2025-05-24,North,Inactive
+M4902,Grinder,2023-09-18,East,Active
+M4903,Packaging Unit,2025-02-20,East,Inactive
+M4904,Welder,2024-10-24,South,Inactive
+M4905,Lathe,2024-04-28,West,Inactive
+M4906,Laser Cutter,2023-01-25,West,Active
+M4907,Drill,2023-06-18,North,Inactive
+M4908,Conveyor,2025-06-10,West,Active
+M4909,Welder,2023-11-22,North,Active
+M4910,Grinder,2023-11-27,South,Inactive
+M4911,3D Print,2025-04-26,West,Active
+M4912,3D Print,2023-02-23,North,Active
+M4913,Lathe,2022-09-18,West,Active
+M4914,Press,2025-02-20,North,Active
+M4915,Laser Cutter,2023-07-06,North,Active
+M4916,Conveyor,2023-03-21,North,Active
+M4917,Drill,2025-07-08,South,Active
+M4918,Packaging Unit,2022-07-31,West,Inactive
+M4919,Packaging Unit,2023-06-06,East,Active
+M4920,CNC-Machine,2024-04-09,North,Active
+M4921,CNC-Machine,2024-01-11,South,Active
+M4922,Press,2025-06-28,South,Inactive
+M4923,Drill,2024-04-15,West,Active
+M4924,Grinder,2023-08-12,West,Active
+M4925,Press,2025-05-31,North,Active
+M4926,Furnace,2023-07-06,West,Active
+M4927,Furnace,2024-10-10,South,Active
+M4928,Mixer,2025-04-05,South,Inactive
+M4929,3D Print,2022-10-13,West,Inactive
+M4930,Lathe,2023-12-18,South,Active
+M4931,Drill,2024-11-15,South,Active
+M4932,Lathe,2023-06-20,West,Active
+M4933,Packaging Unit,2022-07-21,South,Active
+M4934,3D Print,2023-06-24,South,Inactive
+M4935,Mixer,2022-12-27,West,Active
+M4936,Drill,2023-12-06,North,Active
+M4937,Press,2023-04-07,East,Active
+M4938,Drill,2024-10-14,North,Active
+M4939,Grinder,2024-09-06,South,Inactive
+M4940,Packaging Unit,2024-09-12,East,Inactive
+M4941,Drill,2024-07-27,East,Inactive
+M4942,CNC-Machine,2023-06-06,South,Inactive
+M4943,Pump,2022-08-25,South,Active
+M4944,Laser Cutter,2023-10-22,South,Active
+M4945,Furnace,2023-12-03,West,Inactive
+M4946,CNC-Machine,2025-02-12,North,Active
+M4947,Pump,2023-02-05,South,Active
+M4948,Mixer,2025-04-27,East,Active
+M4949,Compressor,2022-10-09,North,Active
+M4950,Drill,2024-06-11,West,Inactive
+M4951,Drill,2023-08-27,North,Active
+M4952,Conveyor,2024-04-02,East,Active
+M4953,CNC-Machine,2024-04-26,East,Inactive
+M4954,Press,2024-08-27,West,Active
+M4955,Compressor,2023-03-14,North,Active
+M4956,Conveyor,2024-08-04,East,Inactive
+M4957,Press,2025-01-10,West,Inactive
+M4958,Welder,2024-04-04,West,Active
+M4959,Press,2024-03-25,West,Inactive
+M4960,Mixer,2023-04-21,East,Active
+M4961,Packaging Unit,2024-02-15,South,Inactive
+M4962,Mixer,2022-09-15,North,Active
+M4963,Mixer,2025-06-01,North,Active
+M4964,Conveyor,2025-06-07,West,Active
+M4965,3D Print,2022-10-10,South,Inactive
+M4966,Drill,2023-08-30,North,Inactive
+M4967,Drill,2024-12-13,North,Inactive
+M4968,Grinder,2025-02-16,West,Active
+M4969,Welder,2024-03-31,North,Inactive
+M4970,Furnace,2023-02-02,West,Active
+M4971,Packaging Unit,2024-06-17,West,Active
+M4972,Packaging Unit,2022-09-06,East,Inactive
+M4973,Press,2024-01-02,East,Inactive
+M4974,3D Print,2023-11-17,West,Active
+M4975,Welder,2025-05-30,East,Active
+M4976,CNC-Machine,2024-09-07,East,Inactive
+M4977,Compressor,2022-08-16,East,Active
+M4978,Mixer,2025-06-01,West,Inactive
+M4979,Drill,2023-02-19,East,Inactive
+M4980,Welder,2023-05-02,South,Inactive
+M4981,Grinder,2025-01-15,North,Active
+M4982,Packaging Unit,2024-01-26,North,Active
+M4983,Drill,2023-06-02,North,Inactive
+M4984,Packaging Unit,2023-06-22,West,Inactive
+M4985,Mixer,2024-05-29,East,Active
+M4986,3D Print,2024-01-24,West,Active
+M4987,Welder,2022-11-13,North,Inactive
+M4988,Compressor,2023-05-31,West,Active
+M4989,Packaging Unit,2024-03-16,North,Active
+M4990,3D Print,2023-08-17,North,Active
+M4991,Furnace,2024-10-02,East,Inactive
+M4992,Lathe,2025-01-21,South,Active
+M4993,Press,2023-07-01,West,Inactive
+M4994,Lathe,2025-05-29,North,Inactive
+M4995,Pump,2025-01-02,East,Active
+M4996,Mixer,2023-09-19,North,Inactive
+M4997,3D Print,2024-05-03,North,Inactive
+M4998,Compressor,2023-02-15,West,Inactive
+M4999,Mixer,2023-03-17,West,Inactive
+M5000,Lathe,2023-07-13,South,Inactive
