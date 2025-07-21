@@ -1,5 +1,6 @@
 # 🎉 Portfolio – Tringa Demiri
-![GitHub stars](https://img.shields.io/github/stars/Paco8880/Portfolio_DEMIRI_Tringa?style=social)
+
+![Confetti Animation](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 Welcome to my portfolio!  
 This repository is a collection of projects that showcase the skills I have developed throughout my **Bachelor's and Master's studies**.  
 Since I currently don't have a professional role where I can apply these skills, I have created this portfolio to demonstrate my abilities to **recruiters and employers**.
