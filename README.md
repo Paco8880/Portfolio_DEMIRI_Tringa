@@ -18,6 +18,7 @@ This portfolio highlights my expertise in:
 - **Power BI** – Building interactive dashboards and DAX measures.
 - **Excel** – Advanced formulas, pivot tables, and automation techniques.
 - **Python** – Data cleaning, analysis, visualization (pandas, matplotlib, seaborn).
+- **SPSS** - For deeper statistical analysis of the data
 - **Data Modeling** – Creating meaningful data structures and relationships for analysis.
 
 ---
@@ -43,5 +44,5 @@ Feel free to explore the projects, and don’t hesitate to reach out if you want
 ---
 
 ### **Note**
-Throughout the Projects and on my username you will see the name Paco, this is the name of my cat that I like to involve everywhere in my life, since she is my lucky charm!!
+Throughout the Projects and on my Username you will see the name Paco, this is the name of my cat that I like to involve everywhere in my life, since she is my lucky charm!!
 
