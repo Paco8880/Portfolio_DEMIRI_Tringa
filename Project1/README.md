@@ -19,7 +19,7 @@ This approach ensures:
 - **Python** – Data generation and preprocessing.
 - **Excel** – Initial data exploration.
 - **PostgreSQL** – Storing and querying structured data.
-- **Power BI** – Visualization and dashboard creation.
+- **Power BI** – Visualization and dashboard creation (either see PDF or the file if Power BI is installed).
 
 ---
 
