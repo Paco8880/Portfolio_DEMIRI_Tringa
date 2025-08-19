@@ -43,7 +43,7 @@ This approach ensures:
 
 5. **Profitability Impact**  
    - Frequent service calls on certain machines are driving up costs.  
-   - Goal: Predict **machines likely to fail soon** to enable **proactive maintenance**.
+   - Goal: Analyze **Feedbacks** to enable **proactive maintenance**.
 
 ---
 
