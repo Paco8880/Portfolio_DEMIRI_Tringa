@@ -24,7 +24,7 @@ This portfolio highlights my expertise in:
 ---
 
 ## **Projects**
-- [**Project 1 – **](./Project1/README.md)
+- [**Customer Sales Dashboard in Power BI – **](./Project1/README.md)
 - [**Project 2 – **](./Project2/README.md)
 - [**Projects done for my masters classes**](./General_Projects/README.md)
 
