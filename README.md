@@ -25,7 +25,7 @@ This portfolio highlights my expertise in:
 
 ## **Projects**
 - [**Customer Sales Dashboard in Power BI – **](./Project1/README.md)
-- [**Project 2 – **](./Project2/README.md)
+- [**SQL Data Modeling & Query Optimization“ – **](./Project2/README.md)
 - [**Projects done for my masters classes**](./General_Projects/README.md)
 
 *(More projects will be added soon.)*
